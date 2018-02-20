@@ -1,3 +1,6 @@
+// time : O(n)
+// space : O(n) becasue of hashmap
+
 public class twosum {
     //step 1
     //base case
