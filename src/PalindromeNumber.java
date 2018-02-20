@@ -16,6 +16,7 @@ public class PalindromeNumber {
             return false;
         }
         int rev =0;
+        // important
         int palind =x;
         while(x != 0){
             rev = rev*10 + x % 10;

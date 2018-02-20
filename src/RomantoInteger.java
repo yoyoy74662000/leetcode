@@ -14,6 +14,7 @@ public class RomantoInteger {
         int res = tonum(s.charAt(0));
         for(int i =1; i <=s.length() -1; i++){
             if( tonum(s.charAt(i))> tonum(s.charAt(i-1))){
+                // important
                 res = res + tonum(s.charAt(i)) - 2*tonum(s.charAt(i-1));
             }else{
                 res = res + tonum(s.charAt(i));
