@@ -1,6 +1,6 @@
 // time : O(n)
 // space : O(1)
-
+// 123->321
 
 public class ReverseInteger {
     public int reverse(int x) {
