@@ -1,3 +1,4 @@
+import java.util.HashMap;
 
 /* Given an array of integers, find two numbers such that they add up to a specific target
  * The function twoSum should return indices of the two numbers such that they add up to the target,
@@ -11,29 +12,30 @@
 // space : O(n) becasue of hashmap
 
 
-import java.util.HashMap;
+
 
 
 public class twosum {
-    //step 1
-    //base case
-        if(nums ==null || nums.length<2){
-        return new int[]{-1,-1};
-    }
-    int res[] = new int[]{-1,-1};
-    // step 3 hashmap
-    HashMap<Integer,Integer> map = new HashMap<>();
-        for(int i =0; i<nums.length; i++){
-        if(map.containsKey(target-nums[i])){
-            res[0]=map.get(target-nums[i]);
-            res[1]=i;
-            break;
+    public int[] twoSum(int[] nums, int target) {
+        //step 1
+        //base case
+        if (nums == null || nums.length < 2) {
+            return new int[]{-1, -1};
         }
-        //step 2
-        map.put(nums[i],i);
-    }
+        int res[] = new int[]{-1, -1};
+        // step 3 hashmap
+        HashMap<Integer, Integer> map = new HashMap<>();
+        for (int i = 0; i < nums.length; i++) {
+            if (map.containsKey(target - nums[i])) {
+                res[0] = map.get(target - nums[i]);
+                res[1] = i;
+                break;
+            }
+            //step 2
+            map.put(nums[i], i);
+        }
         return res;
 
 
-
+    }
 }
