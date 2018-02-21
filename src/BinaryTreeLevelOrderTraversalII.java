@@ -22,6 +22,7 @@
 
 public class BinaryTreeLevelOrderTraversalII {
     public List<List<Integer>> levelOrderBottom(TreeNode root) {
+        // list 裡面的object 的list 裡面的object 是 Integer
         List<List<Integer>> result = new ArrayList<>();
         if( root == null) return result;
         Queue<TreeNode> queue = new LinkedList<>();
@@ -35,7 +36,7 @@ public class BinaryTreeLevelOrderTraversalII {
                 if(cur.right != null) queue.offer(cur.right);
                 list.add(cur.val);
             }
-            result.add( 0 , list) ;
+            result.add(0,list) ;
         }
         return result;
     }
