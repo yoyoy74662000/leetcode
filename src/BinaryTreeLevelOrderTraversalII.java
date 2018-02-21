@@ -26,14 +26,19 @@ public class BinaryTreeLevelOrderTraversalII {
         List<List<Integer>> result = new ArrayList<>();
         if( root == null) return result;
         Queue<TreeNode> queue = new LinkedList<>();
+        // 先add 後poll
         queue.offer(root);
         while(!queue.isEmpty()){
             int size = queue.size();
+            // and add into a list
             List<Integer> list = new ArrayList<>();
             for(int i =0; i < size; i++){
                 TreeNode cur = queue.poll();
+                // 3.left
                 if(cur.left != null) queue.offer(cur.left);
+                // 3.right
                 if(cur.right != null) queue.offer(cur.right);
+                // 這裏就是add 3 into list
                 list.add(cur.val);
             }
             result.add(0,list) ;
