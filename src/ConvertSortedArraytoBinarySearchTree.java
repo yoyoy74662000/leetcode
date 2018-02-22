@@ -30,7 +30,7 @@ public class ConvertSortedArraytoBinarySearchTree {
         if(left > right) return null;
         int mid = (right - left) / 2 + left;
         TreeNode node = new TreeNode(nums[mid]);
-        node.left = helper(nums, 0, mid -1);
+        node.left = helper(nums, left, mid -1);
         node.right = helper(nums, mid + 1, right);
         return node;
     }
