@@ -16,6 +16,8 @@ import javax.swing.tree.TreeNode;
  *
  */
 
+// time : O(n)
+// space : O(n)
 
 public class BalancedBinaryTree {
     public boolean isBalanced(TreeNode root) {
