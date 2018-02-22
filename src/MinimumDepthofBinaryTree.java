@@ -5,6 +5,9 @@
  *
  */
 
+// time : O(n)
+// space : O(n)
+
 public class MinimumDepthofBinaryTree {
     public int minDepth(TreeNode root) {
         if(root == null) return 0;
