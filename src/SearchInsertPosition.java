@@ -15,6 +15,7 @@ public class SearchInsertPosition {
         if(nums == null) return 0;
         int start = 0;
         int end = nums.length -1;
+        // Binary Search 用法
         while(start + 1 < end){
             int mid = (end - start) / 2 + start;
             if(target == nums[mid]){
