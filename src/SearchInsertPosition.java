@@ -8,8 +8,8 @@
  *
  */
 
-// time :
-// space :
+// time : O(logn)
+// space : O(1)
 public class SearchInsertPosition {
     public int searchInsert(int[] nums, int target) {
         if(nums == null) return 0;
