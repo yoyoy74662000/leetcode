@@ -26,6 +26,7 @@ public class SearchInsertPosition {
                 start = mid;
             }
         }
+        // 下面是如果target 不在array 裡面的做法
         if(target <= nums[start]){
             return start;
         }else if (target <= nums[end]){
