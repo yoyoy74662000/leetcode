@@ -9,6 +9,8 @@
  */
 // time : O(n)
 // space : O(n), O(1)
+
+// 遞歸
 public class MergeTwoSortedLists {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         if(l1 == null && l2 == null);
@@ -28,6 +30,7 @@ public class MergeTwoSortedLists {
     }
 }
 
+// dummy 方法
 public class MergeTwoSortedLists2 {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         if(l1 == null && l2 ==null) return null;
