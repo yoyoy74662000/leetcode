@@ -11,8 +11,9 @@
  *
  */
 
-
-
+// time : O(n)
+// space : O(1), O(n)
+// dummy
 public class RemoveLinkedListElements {
     public ListNode removeElements(ListNode head, int val) {
         if (head == null) return null;
@@ -30,8 +31,12 @@ public class RemoveLinkedListElements {
     }
 }
 
+
+// 遞歸
 public class RemoveLinkedListElements2 {
     public ListNode removeElements(ListNode head, int val) {
-
+        if (head == null) return null;
+        head.next = removeElements(head.next, val);
+        return head.val == val ? head.next : head;
     }
 }
