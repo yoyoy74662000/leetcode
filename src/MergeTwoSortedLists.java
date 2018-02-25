@@ -8,7 +8,7 @@
  *
  */
 // time : O(n)
-// space : O(n)
+// space : O(n), O(1)
 public class MergeTwoSortedLists {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         if(l1 == null && l2 == null);
@@ -28,7 +28,7 @@ public class MergeTwoSortedLists {
     }
 }
 
-public class MergeTwoSortedLists {
+public class MergeTwoSortedLists2 {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         if(l1 == null && l2 ==null) return null;
         ListNode dummy = new ListNode(0);
