@@ -8,4 +8,4 @@
 2/23 finished Merge Two sorted list, remove duplicate from sorted list ,Linkedlist Cycle<br>
 2/24 finished Intersection of Two Linked Lists, Remove Linked List Elements<br>
 2/25 finished reverse linked list, <br>
-2/26 finished Valid Anagram, Intersection of Two Arrays <br>
+2/26 finished Valid Anagram, Intersection of Two Arrays, Remove Element<br>
