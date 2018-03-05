@@ -11,7 +11,7 @@
 
 
 // time : O(n) / O(logn)
-// space : O(1) / O(1)
+// space : O(n) / O(1)
 
 public class TwoSumIInputarrayissorted {
     public int[] twoSum(int[] numbers, int target) {
