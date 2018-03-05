@@ -21,7 +21,7 @@ public class RotateArray {
     }
 }
 
-public class RotateArray {
+public class RotateArray2 {
     public void rotate(int[] nums, int k) {
         k = k % nums.length;
         reverse(nums, 0 , nums.length-1);
