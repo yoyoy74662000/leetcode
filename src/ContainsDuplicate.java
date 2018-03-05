@@ -32,7 +32,7 @@ public class ContainsDuplicate2 {
     public boolean containsDuplicate(int[] nums) {
         Set<Integer> set = new HashSet<Integer>();
         for(int i : nums){
-            if(!set.add(i))// if there is same
+            if(!set.add(i))// [1,2,2] 當set.add(1) is true but there is ! so it is not true. Go to next nums[]
                 return true;
         }
         return false;
