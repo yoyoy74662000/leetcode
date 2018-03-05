@@ -14,4 +14,4 @@
 3/2 midtern<br>
 3/3 midtern<br>
 3/4 Best Time to Buy and Sell Stock I, Best Time to Buy and Sell Stock II<br>
-3/5 Majority Element, Contains Duplicate<br>
+3/5 Majority Element, Contains Duplicate, Rotate Array<br>
