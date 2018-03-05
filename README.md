@@ -13,5 +13,5 @@
 3/1 midtern<br>
 3/2 midtern<br>
 3/3 midtern<br>
-3/4 finshed Pascals Triangle, Best Time to Buy and Sell Stock I, Best Time to Buy and Sell Stock II<br>
-3/5 Majority Element, Contains Duplicate, Rotate Array<br>
+3/4 finished Pascals Triangle, Best Time to Buy and Sell Stock I, Best Time to Buy and Sell Stock II<br>
+3/5 finished Majority Element, Contains Duplicate, Rotate Array<br>
