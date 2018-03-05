@@ -28,7 +28,7 @@ public class ContainsDuplicate {
 }
 
 
-public class ContainsDuplicate {
+public class ContainsDuplicate2 {
     public boolean containsDuplicate(int[] nums) {
         Set<Integer> set = new HashSet<Integer>();
         for(int i : nums){
