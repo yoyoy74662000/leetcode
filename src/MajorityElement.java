@@ -6,10 +6,10 @@ import java.util.HashMap;
  * You may assume that the array is non-empty and the majority element always exist in the array.
  */
 
-// time :
-// space :
+// time : O(n)
+// space : O(n)
 
-// [1,2,2,3,3,3]
+// [1,2,2,3,3,3,3]
 public class MajorityElement {
     public int majorityElement(int[] nums) {
         HashMap<Integer, Integer> map = new HashMap<>();
