@@ -16,3 +16,4 @@
 3/4 finished Pascals Triangle, Best Time to Buy and Sell Stock I, Best Time to Buy and Sell Stock II<br>
 3/5 finished Majority Element, Contains Duplicate, Rotate Array<br>
 3/6 single number, long common prefix, Valid Parentheses<br>
+3/7 single number, long common prefix, Valid Parentheses<br>
