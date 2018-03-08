@@ -23,7 +23,7 @@
 
 public class NextPermutation {
     public void nextPermutation(int[] nums) {
-        if (nums == null || nums.length == 0) return null;
+        if (nums == null || nums.length == 0) return;
         int firstsmall = -1;
         for (int i = nums.length - 2; i >= 0; i--){
             if (nums[i] < nums[i + 1]){
@@ -49,13 +49,13 @@ public class NextPermutation {
         return;
     }
 
-    public static void swap(nums, int i, int j){
+    public static void swap(int[] nums, int i, int j){
         int temp = nums[i];
         nums[i++] = nums[j];
         nums[j--] = temp;
     }
 
-    public static void reverse(nums, int i, int j){
+    public static void reverse(int[] nums, int i, int j){
         while (i < j){
             swap(nums, i++, j--);
         }
