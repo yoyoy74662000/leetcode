@@ -38,7 +38,7 @@ public class NextPermutation {
         }
 
         int firstlarge = -1;
-        for (int i = nums.length - 1 ; i >=; i--){
+        for (int i = nums.length - 1 ; i > firstsmall; i--){
             if (nums[i] > nums[firstsmall]){
                 firstlarge = i;
                 break;
