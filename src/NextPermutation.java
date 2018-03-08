@@ -50,7 +50,7 @@ public class NextPermutation {
     }
 
     public static void swap(nums, int i, int j){
-        int[] temp = nums[i];
+        int temp = nums[i];
         nums[i++] = nums[j];
         nums[j--] = temp;
     }
