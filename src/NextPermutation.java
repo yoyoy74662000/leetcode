@@ -60,4 +60,5 @@ public class NextPermutation {
             swap(nums, i++, j--);
         }
 
-    }}
+    }
+}
