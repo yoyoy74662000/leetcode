@@ -25,7 +25,7 @@ public class NextPermutation {
     public void nextPermutation(int[] nums) {
         if (nums == null || nums.length == 0) return null;
         int firstsmall = -1;
-        for (int i = nums.length - 2 ; i >=; i--){
+        for (int i = nums.length - 2; i >= 0; i--){
             if (nums[i] < nums[i + 1]){
                 firstsmall = i;
                 break;
