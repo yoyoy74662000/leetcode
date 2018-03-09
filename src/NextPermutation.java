@@ -24,6 +24,7 @@
 public class NextPermutation {
     public void nextPermutation(int[] nums) {
         if (nums == null || nums.length == 0) return;
+
         int firstsmall = -1;
         for (int i = nums.length - 2; i >= 0; i--){
             if (nums[i] < nums[i + 1]){
@@ -31,6 +32,7 @@ public class NextPermutation {
                 break;
             }
         }
+
         if (firstsmall == -1){
             reverse(nums, 0, nums.length - 1);
             return;
@@ -45,7 +47,7 @@ public class NextPermutation {
             }
         }
         swap(nums, firstsmall, firstlarge);
-        reverse(nums, firstlarge + 1, nums.length - 1);
+        reverse(nums, firstsmall + 1, nums.length - 1);
         return;
     }
 
