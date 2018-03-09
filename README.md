@@ -17,4 +17,4 @@
 3/5 finished Majority Element, Contains Duplicate, Rotate Array<br>
 3/6 finished single number, long common prefix, Valid Parentheses<br>
 3/7 finished Implement strStr, Binary Tree Paths, Add twp numbers<br>
-3/8 finished contain with most water, threeSum<br>
+3/8 finished contain with most water, threeSum, next permutation<br>
