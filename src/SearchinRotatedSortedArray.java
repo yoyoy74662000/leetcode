@@ -6,7 +6,7 @@
  */
 
 
-// time : O(n)
+// time : O(logn)
 // space : O(1)
 
 
