@@ -18,4 +18,4 @@
 3/6 finished single number, long common prefix, Valid Parentheses<br>
 3/7 finished Implement strStr, Binary Tree Paths, Add twp numbers<br>
 3/8 finished contain with most water, threeSum, next permutation<br>
-3/ finished Search in Rotated Sorted Array<br>
+3/ finished Search in Rotated Sorted Array, Search for a Range<br>
