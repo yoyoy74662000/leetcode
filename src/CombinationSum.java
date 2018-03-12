@@ -16,7 +16,7 @@ import java.util.List;
  */
 
 // time : O(n^2)
-// space : O(n)
+// space : O(2^n)
 
 public class CombinationSum {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
@@ -34,7 +34,7 @@ public class CombinationSum {
         }
         for(int i = start; i < candidates.length; i++){
             list.add(candidates[i]);
-            helper(res, list, candidates, target - candidates[i], start);
+            helper(res, list, candidates, target - candidates[i], i);
             list.remove(list.size() -1 );
         }
     }
