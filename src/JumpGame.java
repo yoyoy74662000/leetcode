@@ -12,8 +12,7 @@
  *
  */
 
-// time : O(n*m)
-// space : O(n)
+
 
 public class JumpGame {
     public boolean canJump(int[] nums) {
