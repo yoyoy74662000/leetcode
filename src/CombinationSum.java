@@ -15,8 +15,8 @@ import java.util.List;
  *
  */
 
-// time : O(n^2)
-// space : O(2^n)
+// time : O(2^n)
+// space : O(n)
 
 public class CombinationSum {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
