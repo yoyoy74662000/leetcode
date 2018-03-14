@@ -22,6 +22,6 @@
 3/10 relax <br>
 3/11 relax <br>
 3/12 finshed Combination Sum, Rotate Image<br>
-3/13 finshed <br>
+3/13 finshed jump game<br>
 
 
