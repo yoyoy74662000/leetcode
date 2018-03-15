@@ -7,7 +7,6 @@
 // time : O(n)
 // space : O(1)
 
-
 public class SortColors {
     public void sortColors(int[] nums) {
         if (nums == null || nums.length ==0) return;
