@@ -23,6 +23,6 @@
 3/11 relax <br>
 3/12 finshed Combination Sum, Rotate Image<br>
 3/13 finshed jump game<br>
-3/14 finshed Unique Paths, sorted color, Subsets<br>
+3/14 finshed Minimum Path Sum, sorted color, Subsets<br>
 
 
