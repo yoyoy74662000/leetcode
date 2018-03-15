@@ -27,7 +27,8 @@ public class Subsets {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> res = new ArrayList<>();
         if(nums == null || nums.length ==0) return res;
-        helper(res, new ArrayList<>(), nums, 0);
+        List<Integer> list = new ArrayList<>();
+        helper(res, list, nums, 0);
         return res;
     }
 
