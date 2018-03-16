@@ -17,8 +17,8 @@ import java.util.List;
  * postorder : left right root
  */
 
-// time : O()
-// space : O()
+// time : O(n)
+// space : O(n)
 
 public class BinaryTreeInorderTraversal {
     public List<Integer> inorderTraversal(TreeNode root) {
