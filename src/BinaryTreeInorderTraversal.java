@@ -44,3 +44,9 @@ public class BinaryTreeInorderTraversal {
  * res.add(1) -> 1.right = null return
  *
  */
+
+public class BinaryTreeInorderTraversal2 {
+    public List<Integer> inorderTraversal(TreeNode root) {
+
+    }
+}
