@@ -25,4 +25,4 @@
 3/13 finshed jump game<br>
 3/14 finshed Minimum Path Sum, sorted color, Subsets<br>
 3/15 finished Maximum Product Subarray, Longest Substring Without Repeating Characters<br>
-3/16 finished Binary Tree Inorder Traversal<br>
+3/16 finished Binary Tree Inorder Traversal, Remove Nth Node From End of List<br>
