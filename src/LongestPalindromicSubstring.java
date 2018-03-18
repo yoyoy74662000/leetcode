@@ -13,6 +13,7 @@
 // space : O(1)
 
 public class LongestPalindromicSubstring {
+    String res = "";
     public String longestPalindrome(String s) {
         if (s ==null || s.length() == 0) return null;
         for (int i = 0; i < s.length(); i++){
@@ -23,7 +24,6 @@ public class LongestPalindromicSubstring {
     }
 
     public static void helper(String s, int left, int right){
-        String res = "";
         while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)){
             left--;
             right++;
