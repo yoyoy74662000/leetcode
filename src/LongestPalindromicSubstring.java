@@ -22,7 +22,7 @@ public class LongestPalindromicSubstring {
         return res;
     }
 
-    public static helper(String s, int left, int right){
+    public static void helper(String s, int left, int right){
         String res = "";
         while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)){
             left--;
