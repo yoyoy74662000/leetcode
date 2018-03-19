@@ -28,14 +28,14 @@ public class Subsets {
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> res = new ArrayList<>();
         if(nums == null || nums.length ==0) return res;
-        List<Integer> list = new ArrayList<>();
-        helper(res, list, nums, 0);
+        List<Integer> temp = new ArrayList<>();
+        helper(res, temp, nums, 0);
         return res;
     }
 
     public static void helper(List<List<Integer>> res, List<Integer> list, int[]nums, int index){
-        List<Integer> temp = new ArrayList<>(list);
-        res.add(temp);
+        //List<Integer> temp = new ArrayList<>(list);
+        res.add(new ArrayList<>(list));
         for (int i = index; i < nums.length; i++){
             list.add(nums[i]);
             helper(res, list, nums, i+1);
