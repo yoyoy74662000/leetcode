@@ -18,6 +18,12 @@ import java.util.List;
 // space : O(n)
 
 public class GenerateParentheses {
+
+    public static void main(String[] args){
+        System.out.println(generateParenthesis(3));
+    }
+
+
     public List<String> generateParenthesis(int n) {
         List<String> res = new ArrayList<>();
         if(n == 0) return res;
