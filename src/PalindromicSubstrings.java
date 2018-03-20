@@ -13,8 +13,8 @@
  *
  */
 
-// time : O()
-// space : O()
+// time : O(n^2)
+// space : O(1)
 
 public class PalindromicSubstrings {
     int count = 0;
