@@ -6,8 +6,27 @@
  *
  *
  */
+
+
+// time : O(logn * m)
+// space : O(n)
+
 public class Searcha2DMatrix {
     public boolean searchMatrix(int[][] matrix, int target) {
-
+        if (matrix == null || matrix.length == 0) return false;
+        int row = matrix.length , col = matrix[0].length;
+        int start = 0, end = row * col -1;
+        while(start <= end){
+            int mid = (end - start) / 2 + start;
+            int value = matrix[mid / col][mid % col];
+            if (value == target){
+                return true;
+            }else if(value < target){
+                start = mid;
+            }else{
+                end = mid;
+            }
+        }
+        return false;
     }
 }
