@@ -16,7 +16,7 @@
  * Given target = 20, return false.
  */
 
-// time : O(n)
+// time : O(m + n)
 // space : O(1)
 
 public class Searcha2DMatrixll {
