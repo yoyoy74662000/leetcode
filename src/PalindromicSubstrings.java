@@ -12,6 +12,10 @@
  * Explanation: Six palindromic strings: "a", "a", "a", "aa", "aa", "aaa".
  *
  */
+
+// time : O()
+// space : O()
+
 public class PalindromicSubstrings {
     public int countSubstrings(String s) {
 
