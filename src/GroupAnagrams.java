@@ -16,7 +16,7 @@ import java.util.List;
  *
  */
 
-// time : O(2^n)
+// time : O(m * nlogn)
 // space : O(n)
 
 public class GroupAnagrams {
@@ -41,4 +41,12 @@ public class GroupAnagrams {
         return res;
 
     }
+}
+
+
+public class GroupAnagrams2 {
+    public List<List<String>> groupAnagrams(String[] strs) {
+
+    }
+
 }
