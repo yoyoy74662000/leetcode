@@ -28,4 +28,4 @@
 3/16 finished Binary Tree Inorder Traversal, Remove Nth Node From End of List, Linked List Cycle II<br>
 3/17 finished Sort List<br>
 3/18 finished Longest Palindromic Substring, Letter Combinations of a Phone Number<br>
-3/19 finished Generate Parentheses<br>
+3/19 finished Generate Parentheses, Group Anagrams<br>
