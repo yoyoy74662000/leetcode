@@ -13,6 +13,10 @@ import java.util.List;
     ]
  *
  */
+
+// time : O(2^n)
+// space : O(n)
+
 public class GenerateParentheses {
     public List<String> generateParenthesis(int n) {
         List<String> res = new ArrayList<>();
