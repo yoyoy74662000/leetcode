@@ -22,9 +22,9 @@ public class Searcha2DMatrix {
             if (value == target){
                 return true;
             }else if(value < target){
-                start = mid;
+                start = mid + 1;
             }else{
-                end = mid;
+                end = mid - 1;
             }
         }
         return false;
