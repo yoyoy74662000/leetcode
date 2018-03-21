@@ -6,6 +6,10 @@
  * Note:
  * You may assume k is always valid, 1 ≤ k ≤ array's length.
  */
+
+// time : O(m + n)
+// space : O(1)
+
 public class KthLargestElementinanArray {
     public int findKthLargest(int[] nums, int k) {
 
