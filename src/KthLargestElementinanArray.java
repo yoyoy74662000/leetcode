@@ -36,8 +36,8 @@ public class KthLargestElementinanArray {
             if (nums[l] < pivot && nums[r] > pivot){
                 swap(nums, l++, r--);
             }
-            if (nums[l] >= pivot) return l++;
-            if (nums[r] <= pivot) return r--;
+            if (nums[l] >= pivot)  l++;
+            if (nums[r] <= pivot)  r--;
         }
         swap(nums, left, r);
         return r;
