@@ -28,7 +28,7 @@ public class KthLargestElementinanArray {
         }
     }
     public int partition(int[] nums, int left, int right){
-        int pivot = nums[l];
+        int pivot = nums[left];
         int l = left + 1;
         int r = right;
         while(l <= r){
