@@ -19,10 +19,11 @@ import java.util.Queue;
  * [9,20],
  * [15,7]
  * ]
- *
- *
- *
  */
+
+// time : O(n)
+// space : O(n)
+
 public class BinaryTreeLevelOrderTraversal {
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>> res = new ArrayList<>();
