@@ -31,8 +31,8 @@
       <file leaf-file-name="LowestCommonAncestorofaBinaryTree.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LowestCommonAncestorofaBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="4" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
+            <state relative-caret-position="391">
+              <caret line="23" column="7" lean-forward="false" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -339,14 +339,7 @@
       <workItem from="1520979591992" duration="7389000" />
       <workItem from="1521095471172" duration="59429000" />
       <workItem from="1521913700399" duration="2230000" />
-      <workItem from="1521928456253" duration="6332000" />
-    </task>
-    <task id="LOCAL-00128" summary="add new solution">
-      <created>1521490201254</created>
-      <option name="number" value="00128" />
-      <option name="presentableId" value="LOCAL-00128" />
-      <option name="project" value="LOCAL" />
-      <updated>1521490201255</updated>
+      <workItem from="1521928456253" duration="6364000" />
     </task>
     <task id="LOCAL-00129" summary="add new solution">
       <created>1521498885691</created>
@@ -684,11 +677,18 @@
       <option name="project" value="LOCAL" />
       <updated>1521953257724</updated>
     </task>
-    <option name="localTasksCounter" value="177" />
+    <task id="LOCAL-00177" summary="add new solution">
+      <created>1521968535234</created>
+      <option name="number" value="00177" />
+      <option name="presentableId" value="LOCAL-00177" />
+      <option name="project" value="LOCAL" />
+      <updated>1521968535234</updated>
+    </task>
+    <option name="localTasksCounter" value="178" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="158764000" />
+    <option name="totallyTimeSpent" value="158796000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1052" extended-state="6" />
@@ -1112,8 +1112,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LowestCommonAncestorofaBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="4" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
+        <state relative-caret-position="391">
+          <caret line="23" column="7" lean-forward="false" selection-start-line="23" selection-start-column="7" selection-end-line="23" selection-end-column="7" />
           <folding />
         </state>
       </provider>
