@@ -34,4 +34,4 @@
 3/22 finished Unique Binary Search Trees, Binary Tree Level Order Traversal, Construct Binary Tree from Preorder and Inorder Traversal<br>
 3/23 workshop<br>
 3/24 finished Flatten Binary Tree to Linked List, Lowest Common Ancestor of a Binary Tree<br>
-3/24 finished Validate Binary Search Tree<br>
+3/25 finished Validate Binary Search Tree<br>
