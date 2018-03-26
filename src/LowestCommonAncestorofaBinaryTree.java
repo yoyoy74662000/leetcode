@@ -24,7 +24,7 @@
 //space : O(1)
 public class LowestCommonAncestorofaBinaryTree {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
-        if (root = null || root == p || root == q) return root;
+        if (root == null || root == p || root == q) return root;
 
         Treenode left = lowestCommonAncestor(root.left, p, q);
         Treenode right = lowestCommonAncestor(root.right, p, q);
