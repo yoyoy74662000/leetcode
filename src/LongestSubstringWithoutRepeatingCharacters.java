@@ -40,7 +40,7 @@ public class LongestSubstringWithoutRepeatingCharacters2 {
             if (set.contains(s.charAt(i))){
                 set.remove(j++);
             }else{
-                set.add(s.charAt(i));
+                set.add(s.charAt(i++));
                 res = Math.max(res, set.size());
             }
         }
