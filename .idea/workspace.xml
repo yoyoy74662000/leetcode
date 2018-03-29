@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/threeSum.java" afterPath="$PROJECT_DIR$/src/threeSum.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -41,8 +40,8 @@
       <file leaf-file-name="threeSum.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/threeSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="34" column="64" lean-forward="false" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
+            <state relative-caret-position="495">
+              <caret line="46" column="19" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="46" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -378,14 +377,7 @@
       <workItem from="1521095471172" duration="59429000" />
       <workItem from="1521913700399" duration="2230000" />
       <workItem from="1521928456253" duration="6375000" />
-      <workItem from="1522035042332" duration="18123000" />
-    </task>
-    <task id="LOCAL-00160" summary="add new solution">
-      <created>1521671703093</created>
-      <option name="number" value="00160" />
-      <option name="presentableId" value="LOCAL-00160" />
-      <option name="project" value="LOCAL" />
-      <updated>1521671703093</updated>
+      <workItem from="1522035042332" duration="18532000" />
     </task>
     <task id="LOCAL-00161" summary="add new solution">
       <created>1521750574739</created>
@@ -723,11 +715,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522350854888</updated>
     </task>
-    <option name="localTasksCounter" value="209" />
+    <task id="LOCAL-00209" summary="add new solution">
+      <created>1522353596300</created>
+      <option name="number" value="00209" />
+      <option name="presentableId" value="LOCAL-00209" />
+      <option name="project" value="LOCAL" />
+      <updated>1522353596300</updated>
+    </task>
+    <option name="localTasksCounter" value="210" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="176930000" />
+    <option name="totallyTimeSpent" value="177339000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -1162,8 +1161,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/threeSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="34" column="64" lean-forward="false" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
+        <state relative-caret-position="495">
+          <caret line="46" column="19" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="46" selection-end-column="19" />
           <folding />
         </state>
       </provider>
