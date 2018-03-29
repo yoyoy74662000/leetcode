@@ -21,17 +21,18 @@ import java.util.List;
 
 public class threeSum {
     public List<List<Integer>> threeSum(int[] nums) {
-        if(nums == null || nums.length == 0) return null;
         List<List<Integer>> res = new ArrayList<>();
+        if(nums == null || nums.length == 0) return res;
         Arrays.sort(nums);
         for (int i = 0; i < nums.length - 2; i++){
             if(i > 0 && nums[i] == nums[i-1]) continue;
+            // 如果前後值一樣 就 下一個迴圈
             int low = i + 1, high = nums.length - 1, sum = 0 - nums[i];
             while (low < high){
                 if (nums[low] + nums[high] == sum){
                     res.add(Arrays.asList(nums[i], nums[low], nums[high]));
                     while( low < high && nums[low]==nums[low + 1]) low ++;
-                    while( low < high && nums[high]==nums[high-+ 1]) high--;
+                    while( low < high && nums[high]==nums[high - 1]) high--;
                     low ++;
                     high--;
                 }
