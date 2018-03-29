@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/ContainerWithMostWater.java" afterPath="$PROJECT_DIR$/src/ContainerWithMostWater.java" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,12 +15,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="663">
-                <caret line="39" column="96" lean-forward="false" selection-start-line="39" selection-start-column="96" selection-end-line="39" selection-end-column="96" />
+                <caret line="39" column="123" lean-forward="false" selection-start-line="39" selection-start-column="123" selection-end-line="39" selection-end-column="123" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -28,7 +28,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ContainerWithMostWater.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ContainerWithMostWater.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ContainerWithMostWater.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
@@ -112,8 +112,8 @@
         <option value="$PROJECT_DIR$/src/ValidateBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/twosum.java" />
         <option value="$PROJECT_DIR$/src/LongestSubstringWithoutRepeatingCharacters.java" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/ContainerWithMostWater.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -352,14 +352,7 @@
       <workItem from="1521095471172" duration="59429000" />
       <workItem from="1521913700399" duration="2230000" />
       <workItem from="1521928456253" duration="6375000" />
-      <workItem from="1522035042332" duration="13163000" />
-    </task>
-    <task id="LOCAL-00152" summary="add new solution">
-      <created>1521583414731</created>
-      <option name="number" value="00152" />
-      <option name="presentableId" value="LOCAL-00152" />
-      <option name="project" value="LOCAL" />
-      <updated>1521583414731</updated>
+      <workItem from="1522035042332" duration="13183000" />
     </task>
     <task id="LOCAL-00153" summary="add new solution">
       <created>1521610138441</created>
@@ -697,11 +690,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522301220948</updated>
     </task>
-    <option name="localTasksCounter" value="201" />
+    <task id="LOCAL-00201" summary="add new solution">
+      <created>1522302504914</created>
+      <option name="number" value="00201" />
+      <option name="presentableId" value="LOCAL-00201" />
+      <option name="project" value="LOCAL" />
+      <updated>1522302504914</updated>
+    </task>
+    <option name="localTasksCounter" value="202" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="171970000" />
+    <option name="totallyTimeSpent" value="171990000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1053" extended-state="0" />
@@ -1119,22 +1119,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="663">
-            <caret line="39" column="96" lean-forward="false" selection-start-line="39" selection-start-column="96" selection-end-line="39" selection-end-column="96" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ContainerWithMostWater.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="19" lean-forward="false" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="663">
+            <caret line="39" column="123" lean-forward="false" selection-start-line="39" selection-start-column="123" selection-end-line="39" selection-end-column="123" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
