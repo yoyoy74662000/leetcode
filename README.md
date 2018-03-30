@@ -39,4 +39,4 @@
 3/27 reviewed two sum, Add Two Numbers<br>
 3/28 reviewed Longest Substring Without Repeating Characters, Reverse Integer, Palindrome Number, Container With Most Water, Roman to Integer<br>
 3/29 reviewed Longest Common Prefix, three sum, Remove Nth Node From End of List<br>
-3/30 reviewed SQL on leetcode: Combine Two Tables, Second Highest Salary, <br>
+3/30 reviewed SQL on leetcode: Combine Two Tables, Second Highest Salary, Employees Earning More Than Their Managers, <br>
