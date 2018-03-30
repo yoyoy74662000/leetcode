@@ -40,4 +40,4 @@
 3/28 <strong>reviewed</strong> Longest Substring Without Repeating Characters, Reverse Integer, Palindrome Number, Container With Most Water, Roman to Integer<br>
 3/29 <strong>reviewed</strong> Longest Common Prefix, three sum, Remove Nth Node From End of List<br>
 3/30 <strong>reviewed</strong> on leetcode: Combine Two Tables, Second Highest Salary, Employees Earning More Than Their Managers, Duplicate Emails, Customers Who Never Order, Delete Duplicate Emails, Rising Temperature<br>
-3/30 <strong>reviewed</strong> Valid Parentheses<br>
+3/30 <strong>reviewed</strong> Valid Parentheses, Merge Two Sorted Lists<br>
