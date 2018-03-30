@@ -20,7 +20,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="501">
-                <caret line="41" column="163" lean-forward="false" selection-start-line="41" selection-start-column="163" selection-end-line="41" selection-end-column="163" />
+                <caret line="41" column="186" lean-forward="false" selection-start-line="41" selection-start-column="186" selection-end-line="41" selection-end-column="186" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -328,14 +328,7 @@
       <workItem from="1521095471172" duration="59429000" />
       <workItem from="1521913700399" duration="2230000" />
       <workItem from="1521928456253" duration="6375000" />
-      <workItem from="1522035042332" duration="23310000" />
-    </task>
-    <task id="LOCAL-00172" summary="add new solution">
-      <created>1521934204125</created>
-      <option name="number" value="00172" />
-      <option name="presentableId" value="LOCAL-00172" />
-      <option name="project" value="LOCAL" />
-      <updated>1521934204125</updated>
+      <workItem from="1522035042332" duration="23322000" />
     </task>
     <task id="LOCAL-00173" summary="add new solution">
       <created>1521938898742</created>
@@ -673,11 +666,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522425149413</updated>
     </task>
-    <option name="localTasksCounter" value="221" />
+    <task id="LOCAL-00221" summary="add new solution">
+      <created>1522425161968</created>
+      <option name="number" value="00221" />
+      <option name="presentableId" value="LOCAL-00221" />
+      <option name="project" value="LOCAL" />
+      <updated>1522425161968</updated>
+    </task>
+    <option name="localTasksCounter" value="222" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182117000" />
+    <option name="totallyTimeSpent" value="182129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -1114,7 +1114,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="501">
-            <caret line="41" column="163" lean-forward="false" selection-start-line="41" selection-start-column="163" selection-end-line="41" selection-end-column="163" />
+            <caret line="41" column="186" lean-forward="false" selection-start-line="41" selection-start-column="186" selection-end-line="41" selection-end-column="186" />
             <folding />
           </first_editor>
           <second_editor />
