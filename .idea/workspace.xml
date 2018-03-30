@@ -19,8 +19,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="522">
-                <caret line="41" column="206" lean-forward="false" selection-start-line="41" selection-start-column="206" selection-end-line="41" selection-end-column="206" />
+              <first_editor relative-caret-position="477">
+                <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -328,14 +328,7 @@
       <workItem from="1521095471172" duration="59429000" />
       <workItem from="1521913700399" duration="2230000" />
       <workItem from="1521928456253" duration="6375000" />
-      <workItem from="1522035042332" duration="23861000" />
-    </task>
-    <task id="LOCAL-00174" summary="add new solution">
-      <created>1521953087081</created>
-      <option name="number" value="00174" />
-      <option name="presentableId" value="LOCAL-00174" />
-      <option name="project" value="LOCAL" />
-      <updated>1521953087081</updated>
+      <workItem from="1522035042332" duration="24209000" />
     </task>
     <task id="LOCAL-00175" summary="add new solution">
       <created>1521953097506</created>
@@ -673,11 +666,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522425174176</updated>
     </task>
-    <option name="localTasksCounter" value="223" />
+    <task id="LOCAL-00223" summary="add new solution">
+      <created>1522426820624</created>
+      <option name="number" value="00223" />
+      <option name="presentableId" value="LOCAL-00223" />
+      <option name="project" value="LOCAL" />
+      <updated>1522426820624</updated>
+    </task>
+    <option name="localTasksCounter" value="224" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="182668000" />
+    <option name="totallyTimeSpent" value="183016000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -1113,8 +1113,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="522">
-            <caret line="41" column="206" lean-forward="false" selection-start-line="41" selection-start-column="206" selection-end-line="41" selection-end-column="206" />
+          <first_editor relative-caret-position="477">
+            <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
             <folding />
           </first_editor>
           <second_editor />
