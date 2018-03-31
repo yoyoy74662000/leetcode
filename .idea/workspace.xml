@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -24,6 +23,16 @@
                 <folding />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SwapNodesinPairs.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SwapNodesinPairs.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -63,7 +72,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/TwoSumIInputarrayissorted.java" />
         <option value="$PROJECT_DIR$/src/MajorityElement.java" />
         <option value="$PROJECT_DIR$/src/ContainsDuplicate.java" />
         <option value="$PROJECT_DIR$/src/RotateArray.java" />
@@ -114,6 +122,7 @@
         <option value="$PROJECT_DIR$/src/ValidParentheses.java" />
         <option value="$PROJECT_DIR$/src/MergeTwoSortedLists.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/SwapNodesinPairs.java" />
       </list>
     </option>
   </component>
@@ -334,14 +343,7 @@
       <workItem from="1521095471172" duration="59429000" />
       <workItem from="1521913700399" duration="2230000" />
       <workItem from="1521928456253" duration="6375000" />
-      <workItem from="1522035042332" duration="29721000" />
-    </task>
-    <task id="LOCAL-00185" summary="add new solution">
-      <created>1522100049171</created>
-      <option name="number" value="00185" />
-      <option name="presentableId" value="LOCAL-00185" />
-      <option name="project" value="LOCAL" />
-      <updated>1522100049172</updated>
+      <workItem from="1522035042332" duration="29795000" />
     </task>
     <task id="LOCAL-00186" summary="add new solution">
       <created>1522125888675</created>
@@ -679,11 +681,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522451710728</updated>
     </task>
-    <option name="localTasksCounter" value="234" />
+    <task id="LOCAL-00234" summary="add new solution">
+      <created>1522469686126</created>
+      <option name="number" value="00234" />
+      <option name="presentableId" value="LOCAL-00234" />
+      <option name="project" value="LOCAL" />
+      <updated>1522469686126</updated>
+    </task>
+    <option name="localTasksCounter" value="235" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="188528000" />
+    <option name="totallyTimeSpent" value="188602000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1052" extended-state="6" />
@@ -746,13 +755,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LongestPalindromicSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MaximumDepthofBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1126,6 +1128,14 @@
             <folding />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwapNodesinPairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="12" lean-forward="false" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
