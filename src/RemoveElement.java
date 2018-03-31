@@ -11,14 +11,17 @@
 
 public class RemoveElement {
     public int removeElement(int[] A, int elem) {
-        if(A == null || A.length == 0) return 0;
-        int idx = 0;
-        for (int i = 0; i < A.length; i++) {
-            if (A[i] != elem) {
-                A[idx++] = A[i];
+        if(nums == null) return 0;
+        Arrays.sort(nums);
+        int count = 0;
+        for(int i = 0; i < nums.length; i++){
+            if(nums[i] != val){
+                nums[count] = nums[i];
+                count++;
             }
+
         }
-        return idx;
+        return count;
     }
 
 }
