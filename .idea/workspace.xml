@@ -27,7 +27,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SwapNodesinPairs.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SwapNodesinPairs.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/SwapNodesinPairs.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="476">
@@ -37,7 +37,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RemoveDuplicatesfromSortedArray.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="RemoveDuplicatesfromSortedArray.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/RemoveDuplicatesfromSortedArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -353,14 +353,7 @@
       <workItem from="1521095471172" duration="59429000" />
       <workItem from="1521913700399" duration="2230000" />
       <workItem from="1521928456253" duration="6375000" />
-      <workItem from="1522035042332" duration="30474000" />
-    </task>
-    <task id="LOCAL-00188" summary="add new solution">
-      <created>1522186550856</created>
-      <option name="number" value="00188" />
-      <option name="presentableId" value="LOCAL-00188" />
-      <option name="project" value="LOCAL" />
-      <updated>1522186550856</updated>
+      <workItem from="1522035042332" duration="30482000" />
     </task>
     <task id="LOCAL-00189" summary="add new solution">
       <created>1522186567102</created>
@@ -698,11 +691,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522472497986</updated>
     </task>
-    <option name="localTasksCounter" value="237" />
+    <task id="LOCAL-00237" summary="add new solution">
+      <created>1522472554751</created>
+      <option name="number" value="00237" />
+      <option name="presentableId" value="LOCAL-00237" />
+      <option name="project" value="LOCAL" />
+      <updated>1522472554751</updated>
+    </task>
+    <option name="localTasksCounter" value="238" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="189281000" />
+    <option name="totallyTimeSpent" value="189289000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1052" extended-state="6" />
@@ -1134,18 +1134,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RemoveDuplicatesfromSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SwapNodesinPairs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="26" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="28" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RemoveDuplicatesfromSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
           <folding />
         </state>
       </provider>
