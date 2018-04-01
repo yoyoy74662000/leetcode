@@ -26,6 +26,7 @@ public class NextPermutation {
         if (nums == null || nums.length == 0) return;
 
         int firstsmall = -1;
+        // for 迴圈裡面的 i 要注意
         for (int i = nums.length - 2; i >= 0; i--){
             if (nums[i] < nums[i + 1]){
                 firstsmall = i;
@@ -40,6 +41,7 @@ public class NextPermutation {
         }
 
         int firstlarge = -1;
+        // for 迴圈裡面的 i 要注意
         for (int i = nums.length - 1 ; i > firstsmall; i--){
             if (nums[i] > nums[firstsmall]){
                 firstlarge = i;
