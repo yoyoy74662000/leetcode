@@ -42,4 +42,4 @@
 3/30 <strong>reviewed</strong> SQL on leetcode: Combine Two Tables, Second Highest Salary, Employees Earning More Than Their Managers, Duplicate Emails, Customers Who Never Order, Delete Duplicate Emails, Rising Temperature, Big Countries, Classes More Than 5 Students<br>
 3/30 <strong>reviewed</strong> Valid Parentheses, Merge Two Sorted Lists, Generate Parentheses<br>
 3/31 <strong>reviewed</strong> Implement strStr, Remove Element<br>
-3/32 <strong>reviewed</strong> Next Permutation, Search in Rotated Sorted Array<br>
+3/32 <strong>reviewed</strong> Next Permutation, Search in Rotated Sorted Array, Search for a Range<br>
