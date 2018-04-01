@@ -28,8 +28,8 @@
       <file leaf-file-name="SearchinRotatedSortedArray.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SearchinRotatedSortedArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="31" column="23" lean-forward="false" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+            <state relative-caret-position="205">
+              <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -327,14 +327,7 @@
       <workItem from="1521928456253" duration="6375000" />
       <workItem from="1522035042332" duration="30915000" />
       <workItem from="1522539843641" duration="2480000" />
-      <workItem from="1522610547795" duration="2326000" />
-    </task>
-    <task id="LOCAL-00197" summary="add new solution">
-      <created>1522278568128</created>
-      <option name="number" value="00197" />
-      <option name="presentableId" value="LOCAL-00197" />
-      <option name="project" value="LOCAL" />
-      <updated>1522278568128</updated>
+      <workItem from="1522610547795" duration="2474000" />
     </task>
     <task id="LOCAL-00198" summary="add new solution">
       <created>1522279506894</created>
@@ -672,11 +665,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522612917241</updated>
     </task>
-    <option name="localTasksCounter" value="246" />
+    <task id="LOCAL-00246" summary="add new solution">
+      <created>1522615167959</created>
+      <option name="number" value="00246" />
+      <option name="presentableId" value="LOCAL-00246" />
+      <option name="project" value="LOCAL" />
+      <updated>1522615167959</updated>
+    </task>
+    <option name="localTasksCounter" value="247" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="194528000" />
+    <option name="totallyTimeSpent" value="194676000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -1102,8 +1102,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SearchinRotatedSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="31" column="23" lean-forward="false" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
+        <state relative-caret-position="205">
+          <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
           <folding />
         </state>
       </provider>

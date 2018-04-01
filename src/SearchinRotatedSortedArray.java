@@ -19,7 +19,7 @@ public class SearchinRotatedSortedArray {
             if (nums[mid] == target){
                 return mid;
             }
-
+            // 注意這邊
             if (nums[start] < nums[mid]){
                 // 注意這邊
                 if (nums[start] <= target && target <= nums[mid]){
