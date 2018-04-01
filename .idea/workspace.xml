@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/SearchinRotatedSortedArray.java" afterPath="$PROJECT_DIR$/src/SearchinRotatedSortedArray.java" />
+      <change beforePath="$PROJECT_DIR$/src/SearchforaRange.java" afterPath="$PROJECT_DIR$/src/SearchforaRange.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +25,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SearchinRotatedSortedArray.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SearchinRotatedSortedArray.java">
+      <file leaf-file-name="SearchforaRange.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SearchforaRange.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="205">
-              <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            <state relative-caret-position="502">
+              <caret line="46" column="32" lean-forward="false" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -84,7 +84,6 @@
         <option value="$PROJECT_DIR$/src/GenerateParentheses.java" />
         <option value="$PROJECT_DIR$/src/PalindromicSubstrings.java" />
         <option value="$PROJECT_DIR$/src/Searcha2DMatrix.java" />
-        <option value="$PROJECT_DIR$/src/SearchforaRange.java" />
         <option value="$PROJECT_DIR$/src/Searcha2DMatrixll.java" />
         <option value="$PROJECT_DIR$/src/FindtheDuplicateNumber.java" />
         <option value="$PROJECT_DIR$/src/KthLargestElementinanArray.java" />
@@ -111,6 +110,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/NextPermutation.java" />
         <option value="$PROJECT_DIR$/src/SearchinRotatedSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/SearchforaRange.java" />
       </list>
     </option>
   </component>
@@ -327,14 +327,7 @@
       <workItem from="1521928456253" duration="6375000" />
       <workItem from="1522035042332" duration="30915000" />
       <workItem from="1522539843641" duration="2480000" />
-      <workItem from="1522610547795" duration="2474000" />
-    </task>
-    <task id="LOCAL-00198" summary="add new solution">
-      <created>1522279506894</created>
-      <option name="number" value="00198" />
-      <option name="presentableId" value="LOCAL-00198" />
-      <option name="project" value="LOCAL" />
-      <updated>1522279506894</updated>
+      <workItem from="1522610547795" duration="4854000" />
     </task>
     <task id="LOCAL-00199" summary="add new solution">
       <created>1522282235090</created>
@@ -672,11 +665,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522615167959</updated>
     </task>
-    <option name="localTasksCounter" value="247" />
+    <task id="LOCAL-00247" summary="add new solution">
+      <created>1522615315971</created>
+      <option name="number" value="00247" />
+      <option name="presentableId" value="LOCAL-00247" />
+      <option name="project" value="LOCAL" />
+      <updated>1522615315971</updated>
+    </task>
+    <option name="localTasksCounter" value="248" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="194676000" />
+    <option name="totallyTimeSpent" value="197056000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -855,13 +855,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SearchforaRange.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="25" column="24" lean-forward="true" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -1102,8 +1095,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SearchinRotatedSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="21" column="19" lean-forward="false" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        <state relative-caret-position="188">
+          <caret line="20" column="13" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SearchforaRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="502">
+          <caret line="46" column="32" lean-forward="false" selection-start-line="46" selection-start-column="32" selection-end-line="46" selection-end-column="32" />
           <folding />
         </state>
       </provider>

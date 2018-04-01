@@ -25,6 +25,8 @@ public class SearchforaRange {
         int start = 0, end = nums.length -1;
         while( start + 1 < end){
             int mid = (end - start) / 2 + start;
+            // 7 8 8 10
+            //如果 if 不成立的話， end = mid，也就是前面的 8
             if(nums[mid] < target){
                 start = mid;
             }else{
@@ -41,6 +43,8 @@ public class SearchforaRange {
         int start = 0, end = nums.length -1;
         while( start + 1 < end){
             int mid = (end - start) / 2 + start;
+            // 7 8 8 10
+            //如果 if 不成立的話， start = mid，也就是後面的的 8
             if(nums[mid] > target){
                 end = mid;
             }else{
