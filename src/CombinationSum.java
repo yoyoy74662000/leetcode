@@ -22,7 +22,8 @@ public class CombinationSum {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
         List<List<Integer>> res = new ArrayList<>();
         if (candidates == null || candidates.length == 0) return res;
-        helper(res, new ArrayList<>(), candidates, target, 0);
+        List<Integer> list = new ArrayList<>();
+        helper(res, list, candidates, target, 0);
         return res;
     }
 
@@ -39,3 +40,11 @@ public class CombinationSum {
         }
     }
 }
+//[2]
+//7-2
+//[2,2]
+//5-2
+//[2,2,2]
+//3-2
+//[2,2,2,2]
+//1-2
