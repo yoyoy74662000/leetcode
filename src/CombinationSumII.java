@@ -35,6 +35,7 @@ public class CombinationSumII {
             return;
         }
         for(int i = start; i < candidates.length; i++){
+            // 這裡就跟 combination sum 有差別
             if(i != start && candidates[i] == candidates[i - 1]) continue;
             list.add(candidates[i]);
             helper(res, list, candidates, target - candidates[i], i + 1);

@@ -23,6 +23,7 @@ public class CombinationSum {
         List<List<Integer>> res = new ArrayList<>();
         if (candidates == null || candidates.length == 0) return res;
         List<Integer> list = new ArrayList<>();
+        Arrays.sort(candidates);
         helper(res, list, candidates, target, 0);
         return res;
     }
