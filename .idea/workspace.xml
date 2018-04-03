@@ -41,8 +41,8 @@
       <file leaf-file-name="permutation.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/permutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="44" column="8" lean-forward="false" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+            <state relative-caret-position="546">
+              <caret line="66" column="9" lean-forward="false" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -346,14 +346,7 @@
       <workItem from="1521928456253" duration="6375000" />
       <workItem from="1522035042332" duration="30915000" />
       <workItem from="1522539843641" duration="2480000" />
-      <workItem from="1522610547795" duration="11945000" />
-    </task>
-    <task id="LOCAL-00205" summary="add new solution">
-      <created>1522303135686</created>
-      <option name="number" value="00205" />
-      <option name="presentableId" value="LOCAL-00205" />
-      <option name="project" value="LOCAL" />
-      <updated>1522303135686</updated>
+      <workItem from="1522610547795" duration="12925000" />
     </task>
     <task id="LOCAL-00206" summary="add new solution">
       <created>1522304083244</created>
@@ -691,11 +684,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522790133309</updated>
     </task>
-    <option name="localTasksCounter" value="254" />
+    <task id="LOCAL-00254" summary="add new solution">
+      <created>1522790168924</created>
+      <option name="number" value="00254" />
+      <option name="presentableId" value="LOCAL-00254" />
+      <option name="project" value="LOCAL" />
+      <updated>1522790168925</updated>
+    </task>
+    <option name="localTasksCounter" value="255" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="204147000" />
+    <option name="totallyTimeSpent" value="205127000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -1127,8 +1127,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/permutation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="44" column="8" lean-forward="false" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+        <state relative-caret-position="546">
+          <caret line="66" column="9" lean-forward="false" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
           <folding />
         </state>
       </provider>
