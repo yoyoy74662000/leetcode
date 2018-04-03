@@ -39,3 +39,9 @@ public class permutation {
 
     }
 }
+
+public class permutation2 {
+    public List<List<Integer>> permute(int[] nums) {
+
+    }
+}
