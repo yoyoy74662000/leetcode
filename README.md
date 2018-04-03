@@ -44,4 +44,5 @@
 3/31 <strong>reviewed</strong> Implement strStr, Remove Element<br>
 4/01 <strong>reviewed</strong> Next Permutation, Search in Rotated Sorted Array, Search for a Range<br>
 4/02 <strong>reviewed</strong> Search Insert Position, Combination Sum, Combination Sum II<br>
+4/3 finished permutation<br>
 
