@@ -14,7 +14,7 @@ import java.util.ArrayList;
  ]
  */
 
-// time: O()
+// time: O(n! * n)/ O(n)
 // space: O(n)
 
 public class permutation {
