@@ -46,5 +46,5 @@
 4/02 <strong>reviewed</strong> Search Insert Position, Combination Sum, Combination Sum II<br>
 4/3 <strong>reviewed</strong> permutation<br>
 4/4 <strong>reviewed</strong> rotate image, maximum subarray<br>
-4/5 <strong>reviewed</strong> jump game, Length of Last Word, Minimum Path Sum<br>
+4/5 <strong>reviewed</strong> jump game, Length of Last Word, Minimum Path Sum, Plus One<br>
 
