@@ -44,5 +44,7 @@
 3/31 <strong>reviewed</strong> Implement strStr, Remove Element<br>
 4/01 <strong>reviewed</strong> Next Permutation, Search in Rotated Sorted Array, Search for a Range<br>
 4/02 <strong>reviewed</strong> Search Insert Position, Combination Sum, Combination Sum II<br>
-4/3 finished permutation<br>
+4/3 <strong>reviewed</strong> permutation<br>
+4/4 <strong>reviewed</strong> rotate image, maximum subarray<br>
+4/5 <strong>reviewed</strong> jump game, Length of Last Word<br>
 
