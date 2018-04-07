@@ -47,4 +47,5 @@
 4/3 <strong>reviewed</strong> permutation<br>
 4/4 <strong>reviewed</strong> rotate image, maximum subarray<br>
 4/5 <strong>reviewed</strong> jump game, Length of Last Word, Minimum Path Sum, Plus One<br>
+4/6 busy
 
