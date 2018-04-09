@@ -50,4 +50,4 @@
 4/6 busy<br>
 4/7 busy<br>
 4/8 doing shit with AWS<br>
-4/9 finished add binary<br>
+4/9 finished add binary, sqrt<br>
