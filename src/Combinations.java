@@ -24,20 +24,23 @@
 // space: O(n)
 
 public class Combinations {
-    List<List<Integer>> res = new ArrayList<List<Integer>>();
-    //List<Integer> list = new ArrayList<>();
-    helper(res, new ArrayList<>(), n , k, 1);
+    public List<List<Integer>> Combinations(int[] nums) {
+        List<List<Integer>> res = new ArrayList<List<Integer>>();
+        //List<Integer> list = new ArrayList<>();
+        helper(res, new ArrayList<>(), n, k, 1);
         return res;
-}
+    }
 
-    public void helper(List<List<Integer>> res, List<Integer> lists, int n, int k, int start){
-        if(k == 0){
+
+    public void helper(List<List<Integer>> res, List<Integer> lists, int n, int k, int start) {
+        if (k == 0) {
             res.add(new ArrayList<Integer>(lists));
             return;
         }
-        for(int i = start; i <= n; i++){
+        for (int i = start; i <= n; i++) {
             lists.add(i);
-            helper(res, lists, n, k -1 , i + 1);
+            helper(res, lists, n, k - 1, i + 1);
             lists.remove(lists.size() - 1);
         }
+    }
 }
