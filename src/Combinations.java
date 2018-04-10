@@ -24,7 +24,7 @@
 // space: O(n)
 
 public class Combinations {
-    public List<List<Integer>> Combinations(int[] nums) {
+    public List<List<Integer>> Combinations(int n, int k) {
         List<List<Integer>> res = new ArrayList<List<Integer>>();
         //List<Integer> list = new ArrayList<>();
         helper(res, new ArrayList<>(), n, k, 1);
