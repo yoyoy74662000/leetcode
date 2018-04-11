@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/PartitionList.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -14,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SearchinRotatedSortedArray.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SearchinRotatedSortedArray.java">
+      <file leaf-file-name="PartitionList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PartitionList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="13" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="20" selection-end-column="13" />
+            <state relative-caret-position="187">
+              <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -49,7 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/SortColors.java" />
         <option value="$PROJECT_DIR$/src/TreefromPreorderandInorderTraversal.java" />
         <option value="$PROJECT_DIR$/src/MaximumProductSubarray.java" />
         <option value="$PROJECT_DIR$/src/RemoveNthNodeFromEndofList.java" />
@@ -100,6 +100,7 @@
         <option value="$PROJECT_DIR$/src/Combinations.java" />
         <option value="$PROJECT_DIR$/src/RemoveDuplicatesfromSortedArrayII.java" />
         <option value="$PROJECT_DIR$/src/RemoveDuplicatesfromSortedListII.java" />
+        <option value="$PROJECT_DIR$/src/PartitionList.java" />
       </list>
     </option>
   </component>
@@ -322,14 +323,7 @@
       <workItem from="1522953486916" duration="4164000" />
       <workItem from="1523121388469" duration="566000" />
       <workItem from="1523220971571" duration="13000" />
-      <workItem from="1523305448499" duration="9087000" />
-    </task>
-    <task id="LOCAL-00218" summary="add new solution">
-      <created>1522425122001</created>
-      <option name="number" value="00218" />
-      <option name="presentableId" value="LOCAL-00218" />
-      <option name="project" value="LOCAL" />
-      <updated>1522425122001</updated>
+      <workItem from="1523305448499" duration="9390000" />
     </task>
     <task id="LOCAL-00219" summary="add new solution">
       <created>1522425136357</created>
@@ -667,11 +661,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523399192683</updated>
     </task>
-    <option name="localTasksCounter" value="267" />
+    <task id="LOCAL-00267" summary="add new solution">
+      <created>1523426487962</created>
+      <option name="number" value="00267" />
+      <option name="presentableId" value="LOCAL-00267" />
+      <option name="project" value="LOCAL" />
+      <updated>1523426487962</updated>
+    </task>
+    <option name="localTasksCounter" value="268" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="221217000" />
+    <option name="totallyTimeSpent" value="221520000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -734,13 +735,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ConstructBinaryTreefromPreorderandInorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="65" lean-forward="true" selection-start-line="23" selection-start-column="65" selection-end-line="23" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BinaryTreePaths.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
@@ -1123,6 +1117,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="13" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PartitionList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
           <folding />
         </state>
       </provider>
