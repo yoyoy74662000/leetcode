@@ -28,7 +28,7 @@ public class ReverseLinkedListII {
             ListNode temp = cur.next;
             cur.next = temp.next;
             temp.next = prev.next;
-            prev.next = cur.next;
+            prev.next = temp;
         }
         return dummy.next;
     }
