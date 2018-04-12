@@ -24,7 +24,7 @@ public class ReverseLinkedListII {
             cur = cur.next;
             prev = prev.next;
         }
-        for(int i = 0; i < m - n; i++){
+        for(int i = 0; i < n - m; i++){
             ListNode temp = cur.next;
             cur.next = temp.next;
             temp.next = prev.next;
