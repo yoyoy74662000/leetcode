@@ -52,5 +52,5 @@
 4/8 doing shit with AWS<br>
 4/9 finished add binary, Combinations<br> <strong>reviewed</strong> Search a 2D Matrix, sqrt, Sort Color<br>
 4/10 finished Remove Duplicates from Sorted Array II, Remove Duplicates from Sorted List II<br> <strong>reviewed</strong> subsets, Remove Duplicates from Sorted List   <br> 
-4/11 finished Partition List, SubsetsII<br> <strong>reviewed</strong>Merge Sorted Array<br>
-4/12 finished Reverse Linked List II<br> <strong>reviewed</strong>Binary Tree Inorder Traversal<br>
+4/11 finished Partition List, SubsetsII<br> <strong>reviewed</strong> Merge Sorted Array<br>
+4/12 finished Reverse Linked List II<br> <strong>reviewed</strong> Binary Tree Inorder Traversal<br>
