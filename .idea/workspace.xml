@@ -14,11 +14,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="UniqueBinarySearchTrees.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="UniqueBinarySearchTrees.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/UniqueBinarySearchTrees.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
               <caret line="27" column="24" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="27" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ValidateBinarySearchTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ValidateBinarySearchTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="483">
+              <caret line="32" column="85" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="32" selection-end-column="85" />
               <folding />
             </state>
           </provider>
@@ -146,18 +156,6 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BinaryTreeInorderTraversal.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-            <path>
-              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BinaryTreeLevelOrderTraversal.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -335,14 +333,7 @@
       <workItem from="1523121388469" duration="566000" />
       <workItem from="1523220971571" duration="13000" />
       <workItem from="1523305448499" duration="15379000" />
-      <workItem from="1523734440179" duration="177000" />
-    </task>
-    <task id="LOCAL-00232" summary="add new solution">
-      <created>1522443535323</created>
-      <option name="number" value="00232" />
-      <option name="presentableId" value="LOCAL-00232" />
-      <option name="project" value="LOCAL" />
-      <updated>1522443535323</updated>
+      <workItem from="1523734440179" duration="1377000" />
     </task>
     <task id="LOCAL-00233" summary="add new solution">
       <created>1522451710728</created>
@@ -680,11 +671,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523658228053</updated>
     </task>
-    <option name="localTasksCounter" value="281" />
+    <task id="LOCAL-00281" summary="add new solution">
+      <created>1523735047006</created>
+      <option name="number" value="00281" />
+      <option name="presentableId" value="LOCAL-00281" />
+      <option name="project" value="LOCAL" />
+      <updated>1523735047007</updated>
+    </task>
+    <option name="localTasksCounter" value="282" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="227686000" />
+    <option name="totallyTimeSpent" value="228886000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -747,13 +745,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/PalindromeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="9" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ContainerWithMostWater.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -1141,6 +1132,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="24" lean-forward="false" selection-start-line="19" selection-start-column="7" selection-end-line="27" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ValidateBinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="32" column="85" lean-forward="true" selection-start-line="29" selection-start-column="7" selection-end-line="32" selection-end-column="85" />
           <folding />
         </state>
       </provider>
