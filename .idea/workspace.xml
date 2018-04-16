@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/BinaryTreeZigzagLevelOrderTraversal.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,11 +24,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryTreeZigzagLevelOrderTraversal.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BinaryTreeZigzagLevelOrderTraversal.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BinaryTreeZigzagLevelOrderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
               <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaximumDepthofBinaryTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MaximumDepthofBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="69" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="18" selection-end-column="69" />
               <folding />
             </state>
           </provider>
@@ -353,14 +362,7 @@
       <workItem from="1523220971571" duration="13000" />
       <workItem from="1523305448499" duration="15379000" />
       <workItem from="1523734440179" duration="5363000" />
-      <workItem from="1523906451099" duration="2912000" />
-    </task>
-    <task id="LOCAL-00239" summary="add new solution">
-      <created>1522472607077</created>
-      <option name="number" value="00239" />
-      <option name="presentableId" value="LOCAL-00239" />
-      <option name="project" value="LOCAL" />
-      <updated>1522472607077</updated>
+      <workItem from="1523906451099" duration="3560000" />
     </task>
     <task id="LOCAL-00240" summary="add new solution">
       <created>1522472746819</created>
@@ -698,11 +700,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523910932291</updated>
     </task>
-    <option name="localTasksCounter" value="288" />
+    <task id="LOCAL-00288" summary="add new solution">
+      <created>1523913402618</created>
+      <option name="number" value="00288" />
+      <option name="presentableId" value="LOCAL-00288" />
+      <option name="project" value="LOCAL" />
+      <updated>1523913402619</updated>
+    </task>
+    <option name="localTasksCounter" value="289" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="235784000" />
+    <option name="totallyTimeSpent" value="236432000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -765,13 +774,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/threeSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="46" column="19" lean-forward="true" selection-start-line="23" selection-start-column="7" selection-end-line="46" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LongestCommonPrefix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -1157,6 +1159,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
           <caret line="22" column="12" lean-forward="false" selection-start-line="22" selection-start-column="12" selection-end-line="22" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MaximumDepthofBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="69" lean-forward="true" selection-start-line="17" selection-start-column="8" selection-end-line="18" selection-end-column="69" />
           <folding />
         </state>
       </provider>
