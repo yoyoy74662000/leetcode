@@ -57,4 +57,4 @@
 4/13 <strong>reviewed</strong> Unique Binary Search Trees<br> 
 4/14 <strong>reviewed</strong> Validate Binary Search Tree, Same Tree<br>
 4/15 relax<br>
-4/16 <strong>reviewed</strong> SymmetricTree, Binary Tree Level Order Traversal<br>
+4/16 <strong>reviewed</strong> SymmetricTree, Binary Tree Level Order Traversal, Binary Tree Zigzag Level Order Traversal<br>
