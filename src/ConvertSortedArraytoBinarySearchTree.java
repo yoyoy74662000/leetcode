@@ -18,6 +18,7 @@ import javax.swing.tree.TreeNode;
  */
 // time : O(n)
 // space : O(n)
+// 你好，可以再解释一下为什么这个栈空间是O(logN)，但是整体的复杂度是O(n)吗?﻿因为每次进行二分，整体是因为每次创建新的节点
 
 public class ConvertSortedArraytoBinarySearchTree {
     public TreeNode sortedArrayToBST(int[] nums) {

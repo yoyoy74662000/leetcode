@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ConvertSortedListtoBinarySearchTree.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/ConvertSortedArraytoBinarySearchTree.java" afterPath="$PROJECT_DIR$/src/ConvertSortedArraytoBinarySearchTree.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +19,18 @@
       <file leaf-file-name="ConvertSortedArraytoBinarySearchTree.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ConvertSortedArraytoBinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+            <state relative-caret-position="340">
+              <caret line="20" column="68" lean-forward="false" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConvertSortedListtoBinarySearchTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ConvertSortedListtoBinarySearchTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -49,8 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LongestPalindromicSubstring.java" />
-        <option value="$PROJECT_DIR$/src/LetterCombinationsofaPhoneNumber.java" />
         <option value="$PROJECT_DIR$/src/Subsets.java" />
         <option value="$PROJECT_DIR$/src/GroupAnagrams.java" />
         <option value="$PROJECT_DIR$/src/GenerateParentheses.java" />
@@ -100,6 +110,8 @@
         <option value="$PROJECT_DIR$/src/SameTree.java" />
         <option value="$PROJECT_DIR$/src/SymmetricTree.java" />
         <option value="$PROJECT_DIR$/src/BinaryTreeZigzagLevelOrderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/ConvertSortedListtoBinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/ConvertSortedArraytoBinarySearchTree.java" />
       </list>
     </option>
   </component>
@@ -342,14 +354,7 @@
       <workItem from="1523220971571" duration="13000" />
       <workItem from="1523305448499" duration="15379000" />
       <workItem from="1523734440179" duration="5363000" />
-      <workItem from="1523906451099" duration="6427000" />
-    </task>
-    <task id="LOCAL-00242" summary="add new solution">
-      <created>1522539916166</created>
-      <option name="number" value="00242" />
-      <option name="presentableId" value="LOCAL-00242" />
-      <option name="project" value="LOCAL" />
-      <updated>1522539916167</updated>
+      <workItem from="1523906451099" duration="6810000" />
     </task>
     <task id="LOCAL-00243" summary="add new solution">
       <created>1522539965001</created>
@@ -687,11 +692,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523918949652</updated>
     </task>
-    <option name="localTasksCounter" value="291" />
+    <task id="LOCAL-00291" summary="add new solution">
+      <created>1523977786474</created>
+      <option name="number" value="00291" />
+      <option name="presentableId" value="LOCAL-00291" />
+      <option name="project" value="LOCAL" />
+      <updated>1523977786474</updated>
+    </task>
+    <option name="localTasksCounter" value="292" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="239299000" />
+    <option name="totallyTimeSpent" value="239682000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1052" extended-state="6" />
@@ -754,13 +766,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SwapNodesinPairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/GenerateParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="774">
@@ -1147,10 +1152,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConvertSortedListtoBinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ConvertSortedArraytoBinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+        <state relative-caret-position="340">
+          <caret line="20" column="68" lean-forward="false" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
           <folding />
         </state>
       </provider>
