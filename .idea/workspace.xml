@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ConvertSortedListtoBinarySearchTree.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/ConvertSortedArraytoBinarySearchTree.java" afterPath="$PROJECT_DIR$/src/ConvertSortedArraytoBinarySearchTree.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ConvertSortedArraytoBinarySearchTree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ConvertSortedArraytoBinarySearchTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ConvertSortedArraytoBinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
@@ -26,7 +24,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ConvertSortedListtoBinarySearchTree.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ConvertSortedListtoBinarySearchTree.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ConvertSortedListtoBinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
@@ -354,14 +352,7 @@
       <workItem from="1523220971571" duration="13000" />
       <workItem from="1523305448499" duration="15379000" />
       <workItem from="1523734440179" duration="5363000" />
-      <workItem from="1523906451099" duration="6810000" />
-    </task>
-    <task id="LOCAL-00243" summary="add new solution">
-      <created>1522539965001</created>
-      <option name="number" value="00243" />
-      <option name="presentableId" value="LOCAL-00243" />
-      <option name="project" value="LOCAL" />
-      <updated>1522539965001</updated>
+      <workItem from="1523906451099" duration="6822000" />
     </task>
     <task id="LOCAL-00244" summary="add new solution">
       <created>1522541124275</created>
@@ -699,11 +690,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523977786474</updated>
     </task>
-    <option name="localTasksCounter" value="292" />
+    <task id="LOCAL-00292" summary="add new solution">
+      <created>1523982357158</created>
+      <option name="number" value="00292" />
+      <option name="presentableId" value="LOCAL-00292" />
+      <option name="project" value="LOCAL" />
+      <updated>1523982357158</updated>
+    </task>
+    <option name="localTasksCounter" value="293" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="239682000" />
+    <option name="totallyTimeSpent" value="239694000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1052" extended-state="6" />
@@ -1152,18 +1150,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ConvertSortedListtoBinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ConvertSortedArraytoBinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="68" lean-forward="false" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConvertSortedListtoBinarySearchTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
           <folding />
         </state>
       </provider>
