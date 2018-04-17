@@ -10,8 +10,8 @@ import javax.swing.tree.TreeNode;
         3
        / \
       9  20
-    /  \
-   15   7
+        /  \
+       15   7
  *
  *
  */
