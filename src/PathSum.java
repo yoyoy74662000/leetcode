@@ -25,9 +25,5 @@ public class PathSum {
             return sum == root.val;
         }
         return hasPathSum(root.left, sum-root.val) || hasPathSum(root.right, sum-root.val);
-
-
-
-
     }
 }

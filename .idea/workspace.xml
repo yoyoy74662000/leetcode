@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
+    <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="add new solution">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/BalancedBinaryTree.java" afterPath="$PROJECT_DIR$/src/BalancedBinaryTree.java" />
+      <change beforePath="$PROJECT_DIR$/src/MinimumDepthofBinaryTree.java" afterPath="$PROJECT_DIR$/src/MinimumDepthofBinaryTree.java" />
+      <change beforePath="$PROJECT_DIR$/src/PathSum.java" afterPath="$PROJECT_DIR$/src/PathSum.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,11 +36,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BalancedBinaryTree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BalancedBinaryTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BalancedBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="522">
               <caret line="35" column="9" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="35" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MinimumDepthofBinaryTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MinimumDepthofBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PathSum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PathSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="91" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="26" selection-end-column="91" />
               <folding />
             </state>
           </provider>
@@ -70,8 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/GroupAnagrams.java" />
-        <option value="$PROJECT_DIR$/src/GenerateParentheses.java" />
         <option value="$PROJECT_DIR$/src/PalindromicSubstrings.java" />
         <option value="$PROJECT_DIR$/src/Searcha2DMatrix.java" />
         <option value="$PROJECT_DIR$/src/Searcha2DMatrixll.java" />
@@ -121,6 +140,8 @@
         <option value="$PROJECT_DIR$/src/ConvertSortedListtoBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/ConvertSortedArraytoBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/BalancedBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/MinimumDepthofBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/PathSum.java" />
       </list>
     </option>
   </component>
@@ -357,14 +378,7 @@
       <workItem from="1523220971571" duration="13000" />
       <workItem from="1523305448499" duration="15379000" />
       <workItem from="1523734440179" duration="5363000" />
-      <workItem from="1523906451099" duration="8708000" />
-    </task>
-    <task id="LOCAL-00245" summary="add new solution">
-      <created>1522612917240</created>
-      <option name="number" value="00245" />
-      <option name="presentableId" value="LOCAL-00245" />
-      <option name="project" value="LOCAL" />
-      <updated>1522612917241</updated>
+      <workItem from="1523906451099" duration="11588000" />
     </task>
     <task id="LOCAL-00246" summary="add new solution">
       <created>1522615167959</created>
@@ -702,11 +716,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523982374574</updated>
     </task>
-    <option name="localTasksCounter" value="294" />
+    <task id="LOCAL-00294" summary="add new solution">
+      <created>1523996602049</created>
+      <option name="number" value="00294" />
+      <option name="presentableId" value="LOCAL-00294" />
+      <option name="project" value="LOCAL" />
+      <updated>1523996602051</updated>
+    </task>
+    <option name="localTasksCounter" value="295" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="241580000" />
+    <option name="totallyTimeSpent" value="244460000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -769,21 +790,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/GenerateParentheses.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="774">
-          <caret line="49" column="5" lean-forward="false" selection-start-line="35" selection-start-column="8" selection-end-line="49" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ImplementstrStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="69" lean-forward="true" selection-start-line="11" selection-start-column="69" selection-end-line="11" selection-end-column="69" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RemoveElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -1167,6 +1173,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="35" column="9" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="35" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinimumDepthofBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="91" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="26" selection-end-column="91" />
           <folding />
         </state>
       </provider>
