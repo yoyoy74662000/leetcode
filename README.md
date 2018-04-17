@@ -60,3 +60,4 @@
 4/16 <strong>reviewed</strong> SymmetricTree, Binary Tree Level Order Traversal, Maximum Depth of Binary Tree, Construct Binary Tree from Preorder and Inorder Traversal, Longest Substring Without Repeating Characters, Letter Combinations of a Phone Number, Binary Tree Level Order Traversal II<br>
 finished Binary Tree Zigzag Level Order Traversal<br>
 4/17 <strong>reviewed</strong> Convert Sorted Array to Binary Search Tree<br>
+finished Convert Sorted List to Binary Search Tree<br>
