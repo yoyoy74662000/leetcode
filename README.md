@@ -61,3 +61,4 @@
 finished Binary Tree Zigzag Level Order Traversal<br>
 4/17 <strong>reviewed</strong> Convert Sorted Array to Binary Search Tree, Balanced Binary Tree, Minimum Depth of Binary Tree, Path Sum<br>
 finished Convert Sorted List to Binary Search Tree<br>
+4/18 flatten binary tree<br>
