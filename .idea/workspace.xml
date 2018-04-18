@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="add new solution">
+    <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/MinimumDepthofBinaryTree.java" afterPath="$PROJECT_DIR$/src/MinimumDepthofBinaryTree.java" />
-      <change beforePath="$PROJECT_DIR$/src/PathSum.java" afterPath="$PROJECT_DIR$/src/PathSum.java" />
+      <change beforePath="$PROJECT_DIR$/src/FlattenBinaryTreetoLinkedList.java" afterPath="$PROJECT_DIR$/src/FlattenBinaryTreetoLinkedList.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,8 +38,8 @@
       <file leaf-file-name="BalancedBinaryTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BalancedBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="35" column="9" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="35" selection-end-column="9" />
+            <state relative-caret-position="595">
+              <caret line="35" column="9" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="35" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -56,11 +55,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PathSum.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="PathSum.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/PathSum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
-              <caret line="26" column="91" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="26" selection-end-column="91" />
+              <caret line="26" column="91" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="26" selection-end-column="91" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FlattenBinaryTreetoLinkedList.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FlattenBinaryTreetoLinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="597">
+              <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -102,7 +111,6 @@
         <option value="$PROJECT_DIR$/src/BinaryTreeLevelOrderTraversal.java" />
         <option value="$PROJECT_DIR$/src/AddTwoNumbers.java" />
         <option value="$PROJECT_DIR$/src/ConstructBinaryTreefromPreorderandInorderTraversal.java" />
-        <option value="$PROJECT_DIR$/src/FlattenBinaryTreetoLinkedList.java" />
         <option value="$PROJECT_DIR$/src/LowestCommonAncestorofaBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/twosum.java" />
         <option value="$PROJECT_DIR$/src/LongestSubstringWithoutRepeatingCharacters.java" />
@@ -142,6 +150,7 @@
         <option value="$PROJECT_DIR$/src/BalancedBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/MinimumDepthofBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/PathSum.java" />
+        <option value="$PROJECT_DIR$/src/FlattenBinaryTreetoLinkedList.java" />
       </list>
     </option>
   </component>
@@ -153,7 +162,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1280" />
+    <option name="width" value="1920" />
     <option name="height" value="773" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -174,8 +183,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -204,8 +211,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -378,14 +387,8 @@
       <workItem from="1523220971571" duration="13000" />
       <workItem from="1523305448499" duration="15379000" />
       <workItem from="1523734440179" duration="5363000" />
-      <workItem from="1523906451099" duration="11588000" />
-    </task>
-    <task id="LOCAL-00246" summary="add new solution">
-      <created>1522615167959</created>
-      <option name="number" value="00246" />
-      <option name="presentableId" value="LOCAL-00246" />
-      <option name="project" value="LOCAL" />
-      <updated>1522615167959</updated>
+      <workItem from="1523906451099" duration="12193000" />
+      <workItem from="1524086158133" duration="411000" />
     </task>
     <task id="LOCAL-00247" summary="add new solution">
       <created>1522615315971</created>
@@ -723,11 +726,18 @@
       <option name="project" value="LOCAL" />
       <updated>1523996602051</updated>
     </task>
-    <option name="localTasksCounter" value="295" />
+    <task id="LOCAL-00295" summary="add new solution">
+      <created>1524002414446</created>
+      <option name="number" value="00295" />
+      <option name="presentableId" value="LOCAL-00295" />
+      <option name="project" value="LOCAL" />
+      <updated>1524002414446</updated>
+    </task>
+    <option name="localTasksCounter" value="296" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="244460000" />
+    <option name="totallyTimeSpent" value="245476000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -745,7 +755,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.026548672" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25767368" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1720517" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -790,14 +800,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/RemoveElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="21" lean-forward="false" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SearchInsertPosition.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="78">
@@ -1171,8 +1173,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BalancedBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="35" column="9" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="35" selection-end-column="9" />
+        <state relative-caret-position="595">
+          <caret line="35" column="9" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="35" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -1188,7 +1190,15 @@
     <entry file="file://$PROJECT_DIR$/src/PathSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
-          <caret line="26" column="91" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="26" selection-end-column="91" />
+          <caret line="26" column="91" lean-forward="false" selection-start-line="22" selection-start-column="8" selection-end-line="26" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FlattenBinaryTreetoLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="47" column="0" lean-forward="true" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
           <folding />
         </state>
       </provider>
