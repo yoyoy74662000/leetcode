@@ -22,30 +22,28 @@
  *
  * 6.right = null
  prev = root ——>   6 —>null
- ^
- prev
+                   ^
+                  prev
  5.right = prev
  prev = root ——>   5—>  6 —>null
- ^
- prev
+                   ^
+                  prev
  4.right = prev
  prev = root ——>   4 –> 5 —>  6 —>null
- ^
- prev
+                   ^
+                  prev
  3.right = prev
  prev = root ——>  3 —>  4 –> 5 —>  6 —> null
- ^
- prev
+                  ^
+                 prev
  2.right = prev
  prev = root ——>  2 —> 3 —>  4 –> 5 —>  6 —> null
- ^
- prev
+                  ^
+                 prev
  1.right = prev
  prev = root ——>  1—> 2 —> 3 —>  4 –> 5 —>  6 —> null
- ^
- prev
-
-
+                  ^
+                 prev
  *
  */
 
