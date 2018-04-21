@@ -61,6 +61,7 @@
 finished Binary Tree Zigzag Level Order Traversal<br>
 4/17 <strong>reviewed</strong> Convert Sorted Array to Binary Search Tree, Balanced Binary Tree, Minimum Depth of Binary Tree, Path Sum<br>
 finished Convert Sorted List to Binary Search Tree<br>
-4/18 flatten binary tree<br>
+4/18 <strong>reviewed</strong> flatten binary tree<br>
 4/19 school assignment<br>
 4/20 <strong>reviewed</strong> Pascal's Triangle<br>
+4/21 finish Valid Palindrome<br>
