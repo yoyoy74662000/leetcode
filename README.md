@@ -63,3 +63,4 @@ finished Binary Tree Zigzag Level Order Traversal<br>
 finished Convert Sorted List to Binary Search Tree<br>
 4/18 flatten binary tree<br>
 4/19 school assignment<br>
+4/20 <strong>reviewed</strong> Pascal's Triangle<br>
