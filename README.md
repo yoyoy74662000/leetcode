@@ -65,4 +65,5 @@ finished Convert Sorted List to Binary Search Tree<br>
 4/19 school assignment<br>
 4/20 <strong>reviewed</strong> Pascal's Triangle<br>
 4/21 finished Valid Palindrome, Sum Root to Leaf Numbers, Surrounded Regions<br>
-4/22 review exam
+4/22 review exam<br>
+4/23 review exam<br>
