@@ -67,4 +67,4 @@ finished Convert Sorted List to Binary Search Tree<br>
 4/21 finished Valid Palindrome, Sum Root to Leaf Numbers, Surrounded Regions<br>
 4/22 review exam<br>
 4/23 review exam<br>
-5/1 restart leetcode
+5/1 restart leetcode<br>
