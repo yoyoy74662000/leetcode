@@ -7,45 +7,38 @@
 
 public class SortList {
     public ListNode sortList(ListNode head) {
-        if (head == null || head.next == null) {
-            return head;
-        }
-        ListNode mid = findMiddle(head);
-        ListNode right = sortList(mid.next);
+        if(head == null || head.next == null) return head;
+        ListNode mid = getmid(head);
+        ListNode next = mid.next;
         mid.next = null;
-        ListNode left = sortList(head);
-        return merge(left, right);
+        return merge(sortList(head), sortList(next));
     }
 
-    private ListNode findMiddle(ListNode head) {
-        ListNode slow = head, fast = head.next;
-        while (fast != null && fast.next != null) {
-            fast = fast.next.next;
+    public static ListNode getmid(ListNode head){
+        ListNode slow = head;
+        ListNode fast = head;
+        while(fast.next != null && fast.next.next != null){
             slow = slow.next;
+            fast = fast.next.next;
         }
         return slow;
     }
 
-    private ListNode merge(ListNode head1, ListNode head2) {
+    public static ListNode merge(ListNode a, ListNode b){
         ListNode dummy = new ListNode(0);
-        ListNode tail = dummy;
-        while (head1 != null && head2 != null) {
-            if (head1.val < head2.val) {
-                tail.next = head1;
-                head1 = head1.next;
-            } else {
-                tail.next = head2;
-                head2 = head2.next;
+        ListNode cur = dummy;
+        while(a != null && b != null){
+            if(a.val <= b.val){
+                cur.next = a;
+                a= a.next;
+            }else{
+                cur.next = b;
+                b = b.next;
             }
-            tail = tail.next;
+            cur = cur.next;
         }
-        if (head1 != null) {
-            tail.next = head1;
-        } else {
-            tail.next = head2;
-        }
-
+        if(a == null) cur.next = b;
+        else cur.next = a;
         return dummy.next;
-
     }
 }
