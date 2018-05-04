@@ -71,3 +71,4 @@ finished Convert Sorted List to Binary Search Tree<br>
 5/2 finished Single Number, Copy List with Random Pointer<br>
 <strong>reviewed</strong> Linked List Cycle<br>
 5/3 <strong>reviewed</strong> Linked List Cycle II<br>
+finished Reorder List<br>
