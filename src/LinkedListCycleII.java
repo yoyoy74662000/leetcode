@@ -17,6 +17,7 @@ public class LinkedListCycleII {
             slow = slow.next;
             fast = fast.next.next;
             if( fast == slow){
+                // when there is a circle
                 while(slow2 != slow){
                     slow = slow.next;
                     slow2 = slow2.next;

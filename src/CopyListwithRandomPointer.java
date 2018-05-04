@@ -4,8 +4,8 @@
  * Return a deep copy of the list.
  */
 
-
-//
+// time: O(n)
+// space: O(n)
 
 public class CopyListwithRandomPointer {
     public RandomListNode copyRandomList(RandomListNode head) {
