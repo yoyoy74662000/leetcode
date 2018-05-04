@@ -72,3 +72,4 @@ finished Convert Sorted List to Binary Search Tree<br>
 <strong>reviewed</strong> Linked List Cycle<br>
 5/3 <strong>reviewed</strong> Linked List Cycle II<br>
 finished Reorder List<br>
+5/4 finished Binary Tree Preorder Traversal<br>
