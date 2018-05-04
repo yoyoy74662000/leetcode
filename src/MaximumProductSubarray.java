@@ -4,6 +4,14 @@
  * For example, given the array [2,3,-2,4],
  * the contiguous subarray [2,3] has the largest product = 6.
  *
+ [2,3,-2,4]
+ max = 2, min = 2, res = 2
+ i = 1 max = 6 min = 3 res = 6
+ i = 2 max = -1 min = -12 res = 6
+ i = 3 max 4 min = -48 res = 6
+
+
+ *
  */
 
 // time : O(n)
