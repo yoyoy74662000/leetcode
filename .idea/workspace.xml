@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ReorderList.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -48,8 +47,8 @@
       <file leaf-file-name="ReorderList.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ReorderList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            <state relative-caret-position="565">
+              <caret line="56" column="9" lean-forward="false" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -360,14 +359,7 @@
       <workItem from="1524238035524" duration="963000" />
       <workItem from="1524279859698" duration="341000" />
       <workItem from="1524332931587" duration="2664000" />
-      <workItem from="1525286431227" duration="3401000" />
-    </task>
-    <task id="LOCAL-00257" summary="add new solution">
-      <created>1522955653588</created>
-      <option name="number" value="00257" />
-      <option name="presentableId" value="LOCAL-00257" />
-      <option name="project" value="LOCAL" />
-      <updated>1522955653589</updated>
+      <workItem from="1525286431227" duration="4044000" />
     </task>
     <task id="LOCAL-00258" summary="add new solution">
       <created>1523310186790</created>
@@ -705,11 +697,18 @@
       <option name="project" value="LOCAL" />
       <updated>1525394694153</updated>
     </task>
-    <option name="localTasksCounter" value="306" />
+    <task id="LOCAL-00306" summary="add new solution">
+      <created>1525399718158</created>
+      <option name="number" value="00306" />
+      <option name="presentableId" value="LOCAL-00306" />
+      <option name="project" value="LOCAL" />
+      <updated>1525399718158</updated>
+    </task>
+    <option name="localTasksCounter" value="307" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="253214000" />
+    <option name="totallyTimeSpent" value="253857000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -1168,8 +1167,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ReorderList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="565">
+          <caret line="56" column="9" lean-forward="false" selection-start-line="56" selection-start-column="9" selection-end-line="56" selection-end-column="9" />
           <folding />
         </state>
       </provider>
