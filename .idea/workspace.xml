@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/BinaryTreeUpsideDown.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,7 +38,7 @@
         <entry file="file://$PROJECT_DIR$/src/BinaryTreeUpsideDown.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
-              <caret line="27" column="5" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="27" selection-end-column="5" />
+              <caret line="27" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -362,14 +361,7 @@
       <workItem from="1524238035524" duration="963000" />
       <workItem from="1524279859698" duration="341000" />
       <workItem from="1524332931587" duration="2664000" />
-      <workItem from="1525286431227" duration="9955000" />
-    </task>
-    <task id="LOCAL-00267" summary="add new solution">
-      <created>1523426487962</created>
-      <option name="number" value="00267" />
-      <option name="presentableId" value="LOCAL-00267" />
-      <option name="project" value="LOCAL" />
-      <updated>1523426487962</updated>
+      <workItem from="1525286431227" duration="10554000" />
     </task>
     <task id="LOCAL-00268" summary="add new solution">
       <created>1523484503009</created>
@@ -707,11 +699,18 @@
       <option name="project" value="LOCAL" />
       <updated>1525479017100</updated>
     </task>
-    <option name="localTasksCounter" value="316" />
+    <task id="LOCAL-00316" summary="add new solution">
+      <created>1525571466463</created>
+      <option name="number" value="00316" />
+      <option name="presentableId" value="LOCAL-00316" />
+      <option name="project" value="LOCAL" />
+      <updated>1525571466464</updated>
+    </task>
+    <option name="localTasksCounter" value="317" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="259768000" />
+    <option name="totallyTimeSpent" value="260367000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -1172,7 +1171,7 @@
     <entry file="file://$PROJECT_DIR$/src/BinaryTreeUpsideDown.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="15" selection-start-column="3" selection-end-line="27" selection-end-column="5" />
+          <caret line="27" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
           <folding />
         </state>
       </provider>
