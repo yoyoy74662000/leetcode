@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/IntersectionofTwoLinkedLists.java" afterPath="$PROJECT_DIR$/src/IntersectionofTwoLinkedLists.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,11 +35,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryTreeUpsideDown.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BinaryTreeUpsideDown.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BinaryTreeUpsideDown.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="459">
               <caret line="27" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntersectionofTwoLinkedLists.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/IntersectionofTwoLinkedLists.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -69,7 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ContainerWithMostWater.java" />
         <option value="$PROJECT_DIR$/src/IntegertoRoman.java" />
         <option value="$PROJECT_DIR$/src/threeSum.java" />
         <option value="$PROJECT_DIR$/src/threeSumClosest.java" />
@@ -120,6 +130,7 @@
         <option value="$PROJECT_DIR$/src/MaximumProductSubarray.java" />
         <option value="$PROJECT_DIR$/src/FindMinimuminRotatedSortedArray.java" />
         <option value="$PROJECT_DIR$/src/BinaryTreeUpsideDown.java" />
+        <option value="$PROJECT_DIR$/src/IntersectionofTwoLinkedLists.java" />
       </list>
     </option>
   </component>
@@ -361,14 +372,7 @@
       <workItem from="1524238035524" duration="963000" />
       <workItem from="1524279859698" duration="341000" />
       <workItem from="1524332931587" duration="2664000" />
-      <workItem from="1525286431227" duration="10554000" />
-    </task>
-    <task id="LOCAL-00268" summary="add new solution">
-      <created>1523484503009</created>
-      <option name="number" value="00268" />
-      <option name="presentableId" value="LOCAL-00268" />
-      <option name="project" value="LOCAL" />
-      <updated>1523484503009</updated>
+      <workItem from="1525286431227" duration="10782000" />
     </task>
     <task id="LOCAL-00269" summary="add new solution">
       <created>1523486227544</created>
@@ -706,11 +710,18 @@
       <option name="project" value="LOCAL" />
       <updated>1525571466464</updated>
     </task>
-    <option name="localTasksCounter" value="317" />
+    <task id="LOCAL-00317" summary="add new solution">
+      <created>1525574468952</created>
+      <option name="number" value="00317" />
+      <option name="presentableId" value="LOCAL-00317" />
+      <option name="project" value="LOCAL" />
+      <updated>1525574468952</updated>
+    </task>
+    <option name="localTasksCounter" value="318" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="260367000" />
+    <option name="totallyTimeSpent" value="260595000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -773,14 +784,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/CombinationSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SortColors.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1172,6 +1175,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
           <caret line="27" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntersectionofTwoLinkedLists.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" column="43" lean-forward="false" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
           <folding />
         </state>
       </provider>
