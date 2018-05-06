@@ -12,6 +12,10 @@
  *
  *
  */
+
+// time: O(n)
+// space: O(n)
+
 public class BinaryTreeUpsideDown {
     public TreeNode upsideDownBinaryTree(TreeNode root){
         if(root == null || root.left == null & root.right == null){
