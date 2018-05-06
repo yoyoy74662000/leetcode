@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/TwoSumIInputarrayissorted.java" afterPath="$PROJECT_DIR$/src/TwoSumIInputarrayissorted.java" />
+      <change beforePath="$PROJECT_DIR$/src/twosum.java" afterPath="$PROJECT_DIR$/src/twosum.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,20 +45,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="twosum.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="twosum.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/twosum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
-              <caret line="33" column="19" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="33" selection-end-column="19" />
+            <state relative-caret-position="284">
+              <caret line="22" column="18" lean-forward="false" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwoSumIInputarrayissorted.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TwoSumIInputarrayissorted.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TwoSumIInputarrayissorted.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
+            <state relative-caret-position="43">
               <caret line="24" column="28" lean-forward="false" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
               <folding />
             </state>
@@ -110,7 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/threeSumClosest.java" />
         <option value="$PROJECT_DIR$/src/ValidParentheses.java" />
         <option value="$PROJECT_DIR$/src/MergeTwoSortedLists.java" />
         <option value="$PROJECT_DIR$/src/SwapNodesinPairs.java" />
@@ -161,6 +160,7 @@
         <option value="$PROJECT_DIR$/src/BinaryTreeUpsideDown.java" />
         <option value="$PROJECT_DIR$/src/FindPeakElement.java" />
         <option value="$PROJECT_DIR$/src/TwoSumIInputarrayissorted.java" />
+        <option value="$PROJECT_DIR$/src/twosum.java" />
       </list>
     </option>
   </component>
@@ -414,14 +414,7 @@
       <workItem from="1524238035524" duration="963000" />
       <workItem from="1524279859698" duration="341000" />
       <workItem from="1524332931587" duration="2664000" />
-      <workItem from="1525286431227" duration="12719000" />
-    </task>
-    <task id="LOCAL-00273" summary="add new solution">
-      <created>1523487646849</created>
-      <option name="number" value="00273" />
-      <option name="presentableId" value="LOCAL-00273" />
-      <option name="project" value="LOCAL" />
-      <updated>1523487646849</updated>
+      <workItem from="1525286431227" duration="12941000" />
     </task>
     <task id="LOCAL-00274" summary="add new solution">
       <created>1523557647662</created>
@@ -759,11 +752,18 @@
       <option name="project" value="LOCAL" />
       <updated>1525585103725</updated>
     </task>
-    <option name="localTasksCounter" value="322" />
+    <task id="LOCAL-00322" summary="add new solution">
+      <created>1525588549156</created>
+      <option name="number" value="00322" />
+      <option name="presentableId" value="LOCAL-00322" />
+      <option name="project" value="LOCAL" />
+      <updated>1525588549156</updated>
+    </task>
+    <option name="localTasksCounter" value="323" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="262532000" />
+    <option name="totallyTimeSpent" value="262754000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -1214,18 +1214,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/twosum.java">
+    <entry file="file://$PROJECT_DIR$/src/TwoSumIInputarrayissorted.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="33" column="19" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="33" selection-end-column="19" />
+        <state relative-caret-position="43">
+          <caret line="24" column="28" lean-forward="false" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TwoSumIInputarrayissorted.java">
+    <entry file="file://$PROJECT_DIR$/src/twosum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="24" column="28" lean-forward="false" selection-start-line="24" selection-start-column="28" selection-end-line="24" selection-end-column="28" />
+        <state relative-caret-position="284">
+          <caret line="22" column="18" lean-forward="false" selection-start-line="22" selection-start-column="18" selection-end-line="22" selection-end-column="18" />
           <folding />
         </state>
       </provider>
