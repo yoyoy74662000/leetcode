@@ -20,7 +20,6 @@ public class twosum {
             return new int[]{-1, -1};
         }
         int res[] = new int[]{-1, -1};
-       Array.sort(nums);
         // step 3 hashmap
         HashMap<Integer, Integer> map = new HashMap<>();
         for (int i = 0; i < nums.length; i++) {
