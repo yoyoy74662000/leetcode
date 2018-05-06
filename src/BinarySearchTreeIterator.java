@@ -35,11 +35,9 @@ public class BinarySearchTreeIterator {
 
         /** @return the next smallest number */
         public int next() {
-            while(!stack.isEmpty() || cur != null) {
-                if(cur != null) {
-                    stack.push(cur);
-                    cur = cur.left;
-                }
+            while(cur != null) {
+                stack.push(cur);
+                cur = cur.left;
             }
             cur = stack.pop();
             int val = cur.val;
