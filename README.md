@@ -77,5 +77,5 @@ finished Reorder List<br>
 5/5 finished Binary Tree Upside Down, Find Peak Element<br>
 <strong>reviewed</strong> Intersection of Two Linked Lists, Two Sum II - Input array is sorted, Majority Element<br>
 5/6 finished Binary Search Tree Iterator, LargestNumber<br>
-5/7 finished Reverse Bits<br> 
+5/7 finished Reverse Bits, Binary Tree Right Side View<br> 
 <strong>reviewed</strong> Rotate Array <br>
