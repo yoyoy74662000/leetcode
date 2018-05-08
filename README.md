@@ -78,4 +78,4 @@ finished Reorder List<br>
 <strong>reviewed</strong> Intersection of Two Linked Lists, Two Sum II - Input array is sorted, Majority Element<br>
 5/6 finished Binary Search Tree Iterator, LargestNumber<br>
 5/7 finished Reverse Bits, Binary Tree Right Side View<br> 
-<strong>reviewed</strong> Rotate Array <br>
+<strong>reviewed</strong> Rotate Array, Reverse Linked List<br>
