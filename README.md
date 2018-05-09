@@ -80,4 +80,5 @@ finished Reorder List<br>
 5/7 finished Reverse Bits, Binary Tree Right Side View<br> 
 <strong>reviewed</strong> Rotate Array, Reverse Linked List<br>
 5/8 finished Minimum Size Subarray Sum, Kth Largest Element in an Array<br>
-5/9 <strong>reviewed</strong> Contains Duplicate <br>
+5/9 finished Maximal Square<br>
+<strong>reviewed</strong> Contains Duplicate <br>
