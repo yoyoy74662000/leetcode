@@ -82,4 +82,4 @@ finished Reorder List<br>
 5/8 finished Minimum Size Subarray Sum, Kth Largest Element in an Array<br>
 5/9 finished Maximal Square<br>
 <strong>reviewed</strong> Contains Duplicate <br>
-5/10 finished Count Complete Tree Nodes<br>
+5/10 finished Count Complete Tree Nodes, Implement Stack using Queues<br>
