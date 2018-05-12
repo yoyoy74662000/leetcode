@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ImplementStackusingQueues.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/InvertBinaryTree.java" afterPath="$PROJECT_DIR$/src/InvertBinaryTree.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,12 +15,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="InvertBinaryTree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="InvertBinaryTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/InvertBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
+            <state relative-caret-position="-100">
               <caret line="23" column="12" lean-forward="false" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ImplementStackusingQueues.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ImplementStackusingQueues.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <folding>
+                <element signature="e#144#145#0" expanded="true" />
+                <element signature="e#186#187#0" expanded="true" />
+                <element signature="e#466#467#0" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
+                <element signature="e#559#560#0" expanded="true" />
+                <element signature="e#594#595#0" expanded="true" />
+                <element signature="e#671#672#0" expanded="true" />
+                <element signature="e#709#710#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -50,7 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/CombinationSumII.java" />
         <option value="$PROJECT_DIR$/src/permutation.java" />
         <option value="$PROJECT_DIR$/src/RotateImage.java" />
         <option value="$PROJECT_DIR$/src/MaximumSubarray.java" />
@@ -101,6 +119,7 @@
         <option value="$PROJECT_DIR$/src/CountCompleteTreeNodes.java" />
         <option value="$PROJECT_DIR$/src/MaximalSquare.java" />
         <option value="$PROJECT_DIR$/src/InvertBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/ImplementStackusingQueues.java" />
       </list>
     </option>
   </component>
@@ -333,14 +352,7 @@
       <workItem from="1525286431227" duration="15255000" />
       <workItem from="1525732637550" duration="8447000" />
       <workItem from="1525904651139" duration="2423000" />
-      <workItem from="1526148119308" duration="957000" />
-    </task>
-    <task id="LOCAL-00291" summary="add new solution">
-      <created>1523977786474</created>
-      <option name="number" value="00291" />
-      <option name="presentableId" value="LOCAL-00291" />
-      <option name="project" value="LOCAL" />
-      <updated>1523977786474</updated>
+      <workItem from="1526148119308" duration="1169000" />
     </task>
     <task id="LOCAL-00292" summary="add new solution">
       <created>1523982357158</created>
@@ -678,11 +690,18 @@
       <option name="project" value="LOCAL" />
       <updated>1526151586697</updated>
     </task>
-    <option name="localTasksCounter" value="340" />
+    <task id="LOCAL-00340" summary="add new solution">
+      <created>1526151660634</created>
+      <option name="number" value="00340" />
+      <option name="presentableId" value="LOCAL-00340" />
+      <option name="project" value="LOCAL" />
+      <updated>1526151660635</updated>
+    </task>
+    <option name="localTasksCounter" value="341" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="276895000" />
+    <option name="totallyTimeSpent" value="277107000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -745,13 +764,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ValidateBinarySearchTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1037">
-          <caret line="61" column="20" lean-forward="false" selection-start-line="61" selection-start-column="20" selection-end-line="61" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SymmetricTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -1135,9 +1147,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/InvertBinaryTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
+        <state relative-caret-position="-100">
           <caret line="23" column="12" lean-forward="false" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ImplementStackusingQueues.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="5" lean-forward="false" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="e#144#145#0" expanded="true" />
+            <element signature="e#186#187#0" expanded="true" />
+            <element signature="e#466#467#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#671#672#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
