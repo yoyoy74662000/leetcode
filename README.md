@@ -84,4 +84,4 @@ finished Reorder List<br>
 <strong>reviewed</strong> Contains Duplicate <br>
 5/10 finished Count Complete Tree Nodes, Implement Stack using Queues<br>
 5/11 NA<br>
-5/12 finished Invert Binary Tree<br>
+5/12 finished Invert Binary Tree, Implement Queue using Stacks<br>
