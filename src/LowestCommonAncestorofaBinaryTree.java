@@ -32,7 +32,9 @@ public class LowestCommonAncestorofaBinaryTree {
         if (left != null && right != null){
             return root;
         }
-        return left == null ? right : left;
+        else {
+            return left == null ? right : left;
+        }
 
     }
 }
