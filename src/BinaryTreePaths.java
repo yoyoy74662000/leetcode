@@ -4,11 +4,11 @@ import java.util.List;
 /**
  * Given a binary tree, return all root-to-leaf paths.
  * For example, given the following binary tree:
- *    1
-    /   \
-   2     3
-   \
-    5
+ *     1
+     /   \
+    2     3
+   / \
+  4  5
  *
  *
  */
