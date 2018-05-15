@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="add new solution">
+    <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/PerfectSquares.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/BinaryTreePaths.java" afterPath="$PROJECT_DIR$/src/BinaryTreePaths.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,7 +65,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryTreePaths.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BinaryTreePaths.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BinaryTreePaths.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="109">
@@ -73,6 +73,16 @@
               <folding>
                 <element signature="e#383#391#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PerfectSquares.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PerfectSquares.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="18" column="2" lean-forward="false" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -112,7 +122,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Combinations.java" />
         <option value="$PROJECT_DIR$/src/RemoveDuplicatesfromSortedArrayII.java" />
         <option value="$PROJECT_DIR$/src/RemoveDuplicatesfromSortedListII.java" />
         <option value="$PROJECT_DIR$/src/PartitionList.java" />
@@ -163,6 +172,7 @@
         <option value="$PROJECT_DIR$/src/LowestCommonAncestorofaBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/LowestCommonAncestorofaBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/BinaryTreePaths.java" />
+        <option value="$PROJECT_DIR$/src/PerfectSquares.java" />
       </list>
     </option>
   </component>
@@ -410,14 +420,7 @@
       <workItem from="1526148119308" duration="3390000" />
       <workItem from="1526175310761" duration="6164000" />
       <workItem from="1526195696904" duration="2994000" />
-      <workItem from="1526358959301" duration="609000" />
-    </task>
-    <task id="LOCAL-00298" summary="add new solution">
-      <created>1524336249026</created>
-      <option name="number" value="00298" />
-      <option name="presentableId" value="LOCAL-00298" />
-      <option name="project" value="LOCAL" />
-      <updated>1524336249027</updated>
+      <workItem from="1526358959301" duration="2165000" />
     </task>
     <task id="LOCAL-00299" summary="add new solution">
       <created>1524340226885</created>
@@ -755,11 +758,18 @@
       <option name="project" value="LOCAL" />
       <updated>1526275203954</updated>
     </task>
-    <option name="localTasksCounter" value="347" />
+    <task id="LOCAL-00347" summary="add new solution">
+      <created>1526359789261</created>
+      <option name="number" value="00347" />
+      <option name="presentableId" value="LOCAL-00347" />
+      <option name="project" value="LOCAL" />
+      <updated>1526359789262</updated>
+    </task>
+    <option name="localTasksCounter" value="348" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="289095000" />
+    <option name="totallyTimeSpent" value="290651000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -822,13 +832,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SumRoottoLeafNumbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ValidPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
@@ -1191,6 +1194,14 @@
           <folding>
             <element signature="e#383#391#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PerfectSquares.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="18" column="2" lean-forward="false" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
