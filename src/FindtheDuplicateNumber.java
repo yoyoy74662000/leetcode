@@ -18,7 +18,8 @@
  * There is only one duplicate number in the array, but it could be repeated more than once.
  */
 
-
+// time : O(nlogn)
+// space : O(1)
 
 public class FindtheDuplicateNumber {
     public int findDuplicate(int[] nums) {
