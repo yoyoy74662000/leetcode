@@ -33,7 +33,6 @@ public class BinaryTreeRightSideView {
         }
         helper(res, root.right, level + 1);
         helper(res, root.left, level + 1);
-
     }
 }
 
