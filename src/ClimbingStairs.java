@@ -22,6 +22,10 @@
  2. 1 step + 2 steps
  3. 2 steps + 1 step
  */
+
+// time : O(n)
+// space : O(n)
+
 public class ClimbingStairs {
      if(n == 0 || n == 1 || n == 2){
         return n;
