@@ -29,6 +29,11 @@
  *
  *
  */
+
+// time: O(n)
+// space: O(n)
+
+
 public class PopulatingNextRightPointersinEachNode {
     public void connect(TreeLinkNode root) {
         if(root == null) return;
