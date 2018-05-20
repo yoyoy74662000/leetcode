@@ -92,5 +92,5 @@ finished Reorder List<br>
 5/16 <strong>reviewed</strong>AddDigits, DeleteNodeinaLinkedList, Climbing Stairs<br>
 5/17 update poforlio<br>
 5/18 finished Reverse String, Intersection of Two Arrays II, Sum of Two Integers<br>
-5/19 finished Word Search<br>
+5/19 finished Word Search, Populating Next Right Pointers in Each Node<br>
 <strong>reviewed</strong> Subsets<br>
