@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/KthSmallestElementinaBST.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/src/NumberofIslands.java" afterPath="$PROJECT_DIR$/src/NumberofIslands.java" />
     </list>
@@ -20,6 +21,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="56">
               <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KthSmallestElementinaBST.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/KthSmallestElementinaBST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -50,7 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/PathSum.java" />
         <option value="$PROJECT_DIR$/src/FlattenBinaryTreetoLinkedList.java" />
         <option value="$PROJECT_DIR$/src/PascalsTriangle.java" />
         <option value="$PROJECT_DIR$/src/ValidPalindrome.java" />
@@ -100,6 +110,7 @@
         <option value="$PROJECT_DIR$/src/SumofTwoIntegers.java" />
         <option value="$PROJECT_DIR$/src/WordSearch.java" />
         <option value="$PROJECT_DIR$/src/PopulatingNextRightPointersinEachNode.java" />
+        <option value="$PROJECT_DIR$/src/KthSmallestElementinaBST.java" />
         <option value="$PROJECT_DIR$/src/NumberofIslands.java" />
       </list>
     </option>
@@ -358,14 +369,7 @@
       <workItem from="1526411234621" duration="3534000" />
       <workItem from="1526510420613" duration="2427000" />
       <workItem from="1526694594311" duration="6009000" />
-      <workItem from="1526853678822" duration="628000" />
-    </task>
-    <task id="LOCAL-00314" summary="add new solution">
-      <created>1525477521734</created>
-      <option name="number" value="00314" />
-      <option name="presentableId" value="LOCAL-00314" />
-      <option name="project" value="LOCAL" />
-      <updated>1525477521734</updated>
+      <workItem from="1526853678822" duration="1277000" />
     </task>
     <task id="LOCAL-00315" summary="add new solution">
       <created>1525479017099</created>
@@ -703,11 +707,18 @@
       <option name="project" value="LOCAL" />
       <updated>1526854525695</updated>
     </task>
-    <option name="localTasksCounter" value="363" />
+    <task id="LOCAL-00363" summary="add new solution">
+      <created>1526854764897</created>
+      <option name="number" value="00363" />
+      <option name="presentableId" value="LOCAL-00363" />
+      <option name="project" value="LOCAL" />
+      <updated>1526854764897</updated>
+    </task>
+    <option name="localTasksCounter" value="364" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="303770000" />
+    <option name="totallyTimeSpent" value="304419000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -770,13 +781,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/InvertBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret line="23" column="12" lean-forward="false" selection-start-line="23" selection-start-column="12" selection-end-line="23" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ContainsDuplicate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="113">
@@ -1162,6 +1166,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="243">
           <caret line="33" column="13" lean-forward="false" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KthSmallestElementinaBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding />
         </state>
       </provider>
