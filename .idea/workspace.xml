@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/WordSearch.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/PopulatingNextRightPointersinEachNode.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,11 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WordSearch.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="WordSearch.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/WordSearch.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
               <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PopulatingNextRightPointersinEachNode.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PopulatingNextRightPointersinEachNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -50,7 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/BalancedBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/MinimumDepthofBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/PathSum.java" />
         <option value="$PROJECT_DIR$/src/FlattenBinaryTreetoLinkedList.java" />
@@ -101,6 +110,7 @@
         <option value="$PROJECT_DIR$/src/IntersectionofTwoArraysII.java" />
         <option value="$PROJECT_DIR$/src/SumofTwoIntegers.java" />
         <option value="$PROJECT_DIR$/src/WordSearch.java" />
+        <option value="$PROJECT_DIR$/src/PopulatingNextRightPointersinEachNode.java" />
       </list>
     </option>
   </component>
@@ -357,14 +367,7 @@
       <workItem from="1526358959301" duration="2686000" />
       <workItem from="1526411234621" duration="3534000" />
       <workItem from="1526510420613" duration="2427000" />
-      <workItem from="1526694594311" duration="4982000" />
-    </task>
-    <task id="LOCAL-00310" summary="add new solution">
-      <created>1525469363229</created>
-      <option name="number" value="00310" />
-      <option name="presentableId" value="LOCAL-00310" />
-      <option name="project" value="LOCAL" />
-      <updated>1525469363229</updated>
+      <workItem from="1526694594311" duration="5964000" />
     </task>
     <task id="LOCAL-00311" summary="add new solution">
       <created>1525473531277</created>
@@ -702,11 +705,18 @@
       <option name="project" value="LOCAL" />
       <updated>1526698100474</updated>
     </task>
-    <option name="localTasksCounter" value="359" />
+    <task id="LOCAL-00359" summary="add new solution">
+      <created>1526780876703</created>
+      <option name="number" value="00359" />
+      <option name="presentableId" value="LOCAL-00359" />
+      <option name="project" value="LOCAL" />
+      <updated>1526780876703</updated>
+    </task>
+    <option name="localTasksCounter" value="360" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="302115000" />
+    <option name="totallyTimeSpent" value="303097000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -769,14 +779,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/KthLargestElementinanArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="64" column="30" lean-forward="false" selection-start-line="56" selection-start-column="7" selection-end-line="64" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RotateArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -1168,6 +1170,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PopulatingNextRightPointersinEachNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="21" lean-forward="false" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
           <folding />
         </state>
       </provider>
