@@ -94,4 +94,4 @@ finished Reorder List<br>
 5/18 finished Reverse String, Intersection of Two Arrays II, Sum of Two Integers<br>
 5/19 finished Word Search, Populating Next Right Pointers in Each Node<br>
 <strong>reviewed</strong> Subsets<br>
-5/20 finshed Number of Islands<br>
+5/20 finshed Number of Islands, Kth Smallest Element in a BST<br>
