@@ -24,7 +24,7 @@
  */
 
 // time: O(n*n)
-// space: O(n*n)
+// space: O(1)
 
 public class NumberofIslands {
     public int numIslands(char[][] grid) {
