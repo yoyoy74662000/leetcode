@@ -96,3 +96,4 @@ finished Reorder List<br>
 <strong>reviewed</strong> Subsets<br>
 5/20 finshed Number of Islands, Kth Smallest Element in a BST<br>
 5/21 finished Product of Array Except Self, Odd Even Linked List<br>
+5/22 finished Increasing Triplet Subsequence<br>
