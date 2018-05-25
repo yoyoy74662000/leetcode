@@ -19,12 +19,14 @@
 
 
 public class DiameterofBinaryTree {
+    int max = 0;
+
     public int diameterOfBinaryTree(TreeNode root) {
         maxDepth(root);
         return max;
     }
 
-    public static int max = 0;
+
 
     private static int maxDepth(TreeNode root) {
         if (root == null) return 0;
