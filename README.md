@@ -98,3 +98,5 @@ finished Reorder List<br>
 5/21 finished Product of Array Except Self, Odd Even Linked List<br>
 5/22 finished Increasing Triplet Subsequence, Flatten Nested List Iterator<br>
 5/23 finished Kth Smallest Element in a Sorted Matrix<br>
+5/24 finsihed Target Sum<br>
+5/25 finsihed Convert BST to Greater Tree<br>
