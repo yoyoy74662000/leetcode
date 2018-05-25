@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/DiameterofBinaryTree.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -354,14 +353,7 @@
       <workItem from="1526694594311" duration="6009000" />
       <workItem from="1526853678822" duration="1725000" />
       <workItem from="1526943548370" duration="4088000" />
-      <workItem from="1527123484623" duration="2600000" />
-    </task>
-    <task id="LOCAL-00325" summary="add new solution">
-      <created>1525588905482</created>
-      <option name="number" value="00325" />
-      <option name="presentableId" value="LOCAL-00325" />
-      <option name="project" value="LOCAL" />
-      <updated>1525588905482</updated>
+      <workItem from="1527123484623" duration="3090000" />
     </task>
     <task id="LOCAL-00326" summary="add new solution">
       <created>1525636801855</created>
@@ -699,11 +691,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527282743999</updated>
     </task>
-    <option name="localTasksCounter" value="374" />
+    <task id="LOCAL-00374" summary="add new solution">
+      <created>1527286982841</created>
+      <option name="number" value="00374" />
+      <option name="presentableId" value="LOCAL-00374" />
+      <option name="project" value="LOCAL" />
+      <updated>1527286982841</updated>
+    </task>
+    <option name="localTasksCounter" value="375" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="311555000" />
+    <option name="totallyTimeSpent" value="312045000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
