@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/TargetSum.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ConvertBSTtoGreaterTree.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,16 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ProductofArrayExceptSelf.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ProductofArrayExceptSelf.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="22" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="OddEvenLinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/OddEvenLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -111,11 +101,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TargetSum.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TargetSum.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TargetSum.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="178">
-              <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConvertBSTtoGreaterTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ConvertBSTtoGreaterTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -146,7 +146,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/CopyListwithRandomPointer.java" />
         <option value="$PROJECT_DIR$/src/LinkedListCycleII.java" />
         <option value="$PROJECT_DIR$/src/ReorderList.java" />
         <option value="$PROJECT_DIR$/src/BinaryTreePreorderTraversal.java" />
@@ -197,6 +196,7 @@
         <option value="$PROJECT_DIR$/src/FlattenNestedListIterator.java" />
         <option value="$PROJECT_DIR$/src/KthSmallestElementinaSortedMatrix.java" />
         <option value="$PROJECT_DIR$/src/TargetSum.java" />
+        <option value="$PROJECT_DIR$/src/ConvertBSTtoGreaterTree.java" />
       </list>
     </option>
   </component>
@@ -450,14 +450,7 @@
       <workItem from="1526694594311" duration="6009000" />
       <workItem from="1526853678822" duration="1725000" />
       <workItem from="1526943548370" duration="4088000" />
-      <workItem from="1527123484623" duration="1510000" />
-    </task>
-    <task id="LOCAL-00323" summary="add new solution">
-      <created>1525588808590</created>
-      <option name="number" value="00323" />
-      <option name="presentableId" value="LOCAL-00323" />
-      <option name="project" value="LOCAL" />
-      <updated>1525588808590</updated>
+      <workItem from="1527123484623" duration="1888000" />
     </task>
     <task id="LOCAL-00324" summary="add new solution">
       <created>1525588860553</created>
@@ -795,11 +788,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527123917339</updated>
     </task>
-    <option name="localTasksCounter" value="372" />
+    <task id="LOCAL-00372" summary="add new solution">
+      <created>1527201197728</created>
+      <option name="number" value="00372" />
+      <option name="presentableId" value="LOCAL-00372" />
+      <option name="project" value="LOCAL" />
+      <updated>1527201197728</updated>
+    </task>
+    <option name="localTasksCounter" value="373" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="310465000" />
+    <option name="totallyTimeSpent" value="310843000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -862,13 +862,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SameTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MoveZeroes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -1277,7 +1270,15 @@
     <entry file="file://$PROJECT_DIR$/src/TargetSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="178">
-          <caret line="22" column="19" lean-forward="false" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="23" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ConvertBSTtoGreaterTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding />
         </state>
       </provider>
