@@ -100,4 +100,4 @@ finished Reorder List<br>
 5/23 finished Kth Smallest Element in a Sorted Matrix<br>
 5/24 finsihed Target Sum<br>
 5/25 finsihed Convert BST to Greater Tree, Diameter of Binary Tree, Subtree of Another Tree<br>
-5/26 finished Shortest Unsorted Continuous Subarray, Merge Two Binary Trees, Find All Numbers Disappeared in an Array<br>
+5/26 finished Shortest Unsorted Continuous Subarray, Merge Two Binary Trees, Find All Numbers Disappeared in an Array, Find All Duplicates in an Array<br>
