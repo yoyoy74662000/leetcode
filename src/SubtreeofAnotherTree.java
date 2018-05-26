@@ -57,9 +57,11 @@ public class SubtreeofAnotherTree {
         while(!stacktree.isEmpty()){
             TreeNode popelem = stacktree.pop();
             if(popelem==null)
-                sb.append("#,"); // Appending # inorder to handle same values but not subtree cases
+                sb.append(",#"); // Appending # inorder to handle same values but not subtree cases
+                                 //,12,#,#
+                                  //,2,#,#
             else
-                sb.append(popelem.val+",");
+                sb.append(","+popelem.val);
             if(popelem!=null){
                 stacktree.push(popelem.right);
                 stacktree.push(popelem.left);
