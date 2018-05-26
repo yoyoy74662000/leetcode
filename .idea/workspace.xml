@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/FindAllNumbersDisappearedinanArray.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/MergeTwoBinaryTrees.java" afterPath="$PROJECT_DIR$/src/MergeTwoBinaryTrees.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,12 +45,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MergeTwoBinaryTrees.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MergeTwoBinaryTrees.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MergeTwoBinaryTrees.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="515">
-              <caret line="38" column="5" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+            <state relative-caret-position="391">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="14" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindAllNumbersDisappearedinanArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FindAllNumbersDisappearedinanArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1037">
+              <caret line="61" column="5" lean-forward="false" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+              <folding>
+                <element signature="e#577#586#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,7 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/SortList.java" />
         <option value="$PROJECT_DIR$/src/MaximumProductSubarray.java" />
         <option value="$PROJECT_DIR$/src/FindMinimuminRotatedSortedArray.java" />
         <option value="$PROJECT_DIR$/src/IntersectionofTwoLinkedLists.java" />
@@ -131,6 +142,7 @@
         <option value="$PROJECT_DIR$/src/SubtreeofAnotherTree.java" />
         <option value="$PROJECT_DIR$/src/ShortestUnsortedContinuousSubarray.java" />
         <option value="$PROJECT_DIR$/src/MergeTwoBinaryTrees.java" />
+        <option value="$PROJECT_DIR$/src/FindAllNumbersDisappearedinanArray.java" />
       </list>
     </option>
   </component>
@@ -174,6 +186,12 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="FindAllNumbersDisappearedinanArray.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -384,14 +402,7 @@
       <workItem from="1526694594311" duration="6009000" />
       <workItem from="1526853678822" duration="1725000" />
       <workItem from="1526943548370" duration="4088000" />
-      <workItem from="1527123484623" duration="6197000" />
-    </task>
-    <task id="LOCAL-00332" summary="add new solution">
-      <created>1525739822729</created>
-      <option name="number" value="00332" />
-      <option name="presentableId" value="LOCAL-00332" />
-      <option name="project" value="LOCAL" />
-      <updated>1525739822730</updated>
+      <workItem from="1527123484623" duration="8737000" />
     </task>
     <task id="LOCAL-00333" summary="add new solution">
       <created>1525744450997</created>
@@ -729,11 +740,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527361398776</updated>
     </task>
-    <option name="localTasksCounter" value="381" />
+    <task id="LOCAL-00381" summary="add new solution">
+      <created>1527361423068</created>
+      <option name="number" value="00381" />
+      <option name="presentableId" value="LOCAL-00381" />
+      <option name="project" value="LOCAL" />
+      <updated>1527361423068</updated>
+    </task>
+    <option name="localTasksCounter" value="382" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="315152000" />
+    <option name="totallyTimeSpent" value="317692000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -796,14 +814,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BinarySearchTreeIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="7" lean-forward="false" selection-start-line="21" selection-start-column="7" selection-end-line="45" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ReverseBits.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -1211,9 +1221,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MergeTwoBinaryTrees.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="515">
-          <caret line="38" column="5" lean-forward="false" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        <state relative-caret-position="391">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="24" selection-end-column="14" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindAllNumbersDisappearedinanArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1037">
+          <caret line="61" column="5" lean-forward="false" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+          <folding>
+            <element signature="e#577#586#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
