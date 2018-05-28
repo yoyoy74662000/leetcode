@@ -7,7 +7,7 @@
 
 // time : O(m + n)
 // space : O(1)
-
+// 需要从尾开始遍历，否则在 nums1 上归并得到的值会覆盖还未进行归并比较的值
 
 public class MergeSortedArray {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
@@ -18,6 +18,9 @@ public class MergeSortedArray {
             nums1[k] = nums1[i] >= nums2[j] ? nums1[i--] : nums2[j--];
             k--;
         }
+        //這個是當num1 > num2
+        //num1 [4,5,6]
+        //num2 [1,2,3]
         while(j >= 0){
             nums1[k] = nums2[j--];
             k--;
