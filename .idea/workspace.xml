@@ -18,8 +18,8 @@
       <file leaf-file-name="BinaryTreePostorderTraversal.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BinaryTreePostorderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="274">
-              <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+            <state relative-caret-position="529">
+              <caret line="58" column="5" lean-forward="true" selection-start-line="41" selection-start-column="3" selection-end-line="58" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -411,14 +411,7 @@
       <workItem from="1526853678822" duration="1725000" />
       <workItem from="1526943548370" duration="4088000" />
       <workItem from="1527123484623" duration="11515000" />
-      <workItem from="1527446122693" duration="9801000" />
-    </task>
-    <task id="LOCAL-00342" summary="add new solution">
-      <created>1526153896351</created>
-      <option name="number" value="00342" />
-      <option name="presentableId" value="LOCAL-00342" />
-      <option name="project" value="LOCAL" />
-      <updated>1526153896351</updated>
+      <workItem from="1527446122693" duration="10270000" />
     </task>
     <task id="LOCAL-00343" summary="add new solution">
       <created>1526176523112</created>
@@ -756,11 +749,18 @@
       <option name="project" value="LOCAL" />
       <updated>1527793909842</updated>
     </task>
-    <option name="localTasksCounter" value="391" />
+    <task id="LOCAL-00391" summary="add new solution">
+      <created>1527794139970</created>
+      <option name="number" value="00391" />
+      <option name="presentableId" value="LOCAL-00391" />
+      <option name="project" value="LOCAL" />
+      <updated>1527794139970</updated>
+    </task>
+    <option name="localTasksCounter" value="392" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="330271000" />
+    <option name="totallyTimeSpent" value="330740000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -1235,8 +1235,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BinaryTreePostorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="274">
-          <caret line="24" column="36" lean-forward="false" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+        <state relative-caret-position="529">
+          <caret line="58" column="5" lean-forward="true" selection-start-line="41" selection-start-column="3" selection-end-line="58" selection-end-column="5" />
           <folding />
         </state>
       </provider>
