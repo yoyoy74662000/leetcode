@@ -21,9 +21,9 @@
 
 public class BinaryTreePostorderTraversal {
     public List<Integer> postorderTraversal(TreeNode root) {
-        if(root == null) return new ArrayList<>();
-
         List<Integer> res = new ArrayList<>();
+        if(root == null) return res;
+
         Stack<TreeNode> stack = new Stack<>();
         stack.push(root);
 
