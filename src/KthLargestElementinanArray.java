@@ -13,6 +13,8 @@ import java.util.PriorityQueue;
 // time : O(n) / O(nlogk)
 // space : O(1) / O(1)
 
+
+//快速排列
 public class KthLargestElementinanArray {
     public int findKthLargest(int[] nums, int k) {
         if (nums == null || nums.length == 0) return 0;
