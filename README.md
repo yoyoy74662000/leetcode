@@ -107,4 +107,4 @@ finished Reorder List<br>
 5/30
 5/31 finished Binary Tree Postorder Traversal, Two Sum IV - Input is a BST<br>
 6/1
-6/2 finished Minimum Absolute Difference in BST<br>
+6/2 finished Minimum Absolute Difference in BST, Find Mode in Binary Search Tree<br>
