@@ -18,6 +18,8 @@
 
 // time: O(n)
 // space: O(n)
+// 先遍歷右子樹
+
 
 public class ConvertBSTtoGreaterTree {
     public int sum = 0;
