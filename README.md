@@ -7,6 +7,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./algorithms/cpp/mostCommonWord/MostCommonWord.cpp)|Easy|
 
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
