@@ -1,5 +1,3 @@
-# leetcode
-
 LeetCode
 ========
 
@@ -7,7 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./algorithms/cpp/mostCommonWord/MostCommonWord.cpp)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/twosum.java)|Easy|
 
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
