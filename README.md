@@ -5,9 +5,10 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Date |
 |---| ----- | -------- | ---------- |------|
-|1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/twosum.java)|Easy|06/03|
-|100|[Same Tree](https://leetcode.com/problems/same-tree/description/) | [Java]()|Easy|06/03|
-
+|1|[Two Sum](https://leetcode.com/problems/two-sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/twosum.java)|Easy|06/03|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/AddTwoNumbers.java)|Medium|06/03|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LongestSubstringWithoutRepeatingCharacters.java)|Medium|06/03|
+|100|[Same Tree](https://leetcode.com/problems/same-tree) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SameTree.java)|Easy|06/03|
 
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
