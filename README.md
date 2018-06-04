@@ -11,6 +11,7 @@ LeetCode
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LongestSubstringWithoutRepeatingCharacters.java)|Medium|06/03|
 |100|[Same Tree](https://leetcode.com/problems/same-tree) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SameTree.java)|Easy|06/03|
 |101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SymmetricTree.java)|Easy|06/03|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LongestPalindromicSubstring.java)|Easy|06/03|
 
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
