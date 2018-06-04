@@ -23,3 +23,23 @@ public class MinimumDepthofBinaryTree {
         }
     }
 }
+
+
+public class MinimumDepthofBinaryTree2 {
+    public int minDepth(TreeNode root) {
+        if( root == null ) return 0;
+        return helper(root);
+    }
+
+    public int helper(TreeNode root){
+        if( root == null) return 0;
+        int left = helper(root.left);
+        int right = helper(root.right);
+        if(root.left == null || root.right == null){
+            return Math.max(left,right)+1;
+        }else{
+            return Math.min(left,right)+1;
+        }
+
+    }
+}
