@@ -1,4 +1,21 @@
-# leetcode
+LeetCode
+========
+
+### LeetCode Algorithm
+
+| # | Title | Solution | Difficulty | Date |
+|---| ----- | -------- | ---------- |------|
+||[]() | [Java]()|Easy|06/03|
+|1|[Two Sum](https://leetcode.com/problems/two-sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/twosum.java)|Easy|06/03|
+|2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/AddTwoNumbers.java)|Medium|06/03|
+|3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LongestSubstringWithoutRepeatingCharacters.java)|Medium|06/03|
+|5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LongestPalindromicSubstring.java)|Easy|06/03|
+|100|[Same Tree](https://leetcode.com/problems/same-tree) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SameTree.java)|Easy|06/03|
+|101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SymmetricTree.java)|Easy|06/03|
+|104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/MaximumDepthofBinaryTree.java)|Easy|06/04|
+|108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ConvertSortedArraytoBinarySearchTree.java)|Easy|06/04|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/BalancedBinaryTree.java)|Easy|06/03|
+
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
