@@ -46,3 +46,25 @@ public class BinaryTreeLevelOrderTraversalII {
         return result;
     }
 }
+
+public class BinaryTreeLevelOrderTraversalII2 {
+    public List<List<Integer>> levelOrderBottom(TreeNode root) {
+        List<List<Integer>> res = new ArrayList<>();
+        if(root == null) return res;
+        Deque<TreeNode> stack = new LinkedList<>();
+        stack.push(root);
+        while(!stack.isEmpty()){
+            int size = stack.size();
+
+            List<Integer> list = new ArrayList<>();
+            for(int i =0; i < size; i++){
+                TreeNode cur = stack.pop();
+                if(cur.left != null) stack.addLast(cur.left);
+                if(cur.right != null) stack.addLast(cur.right);
+                list.add(cur.val);
+            }
+            res.add(0,list);
+        }
+        return res;
+    }
+}
