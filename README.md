@@ -19,6 +19,8 @@ LeetCode
 |112|[Path Sum](https://leetcode.com/problems/path-sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/PathSum.java)|Easy|06/05|
 |257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/BinaryTreePaths.java)|Easy|06/05|
 |107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/BinaryTreeLevelOrderTraversalII.java)|Easy|06/05|
+|136|[Single Number](https://leetcode.com/problems/single-number) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SingleNumber.java)|Easy|06/06|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ContainsDuplicate.java)|Easy|06/06|
 
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
