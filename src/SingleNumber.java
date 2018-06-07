@@ -13,6 +13,7 @@ public class SingleNumber {
         int result = 0;
         for (int i = 0; i < nums.length; i++)
         {
+            // XOR 就是不相同為1 相同為 0 
             result ^= nums[i];
         }
         return result;
