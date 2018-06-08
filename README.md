@@ -22,7 +22,8 @@ LeetCode
 |136|[Single Number](https://leetcode.com/problems/single-number) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SingleNumber.java)|Easy|06/06|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ContainsDuplicate.java)|Easy|06/06|
 |219|[Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ContainsDuplicateII.java)|Easy|06/06|
-
+|242|[Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ValidAnagram.java)|Easy|06/07|
+|349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ValidAnagram.java)|Easy|06/07|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
