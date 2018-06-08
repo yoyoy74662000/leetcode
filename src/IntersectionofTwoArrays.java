@@ -19,8 +19,13 @@ public class IntersectionofTwoArrays {
         HashSet<Integer> intersection = new HashSet<>();
 
         for(int num : nums1){
-            set.add(num);
+            if(set.contains(num)){
+                continue;
+            }else{
+                set.add(num);
+            }
         }
+
         for(int num : nums2){
             if(set.contains(num)){
                 intersection.add(num);

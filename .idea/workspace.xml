@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/ContainsDuplicateII.java" afterPath="$PROJECT_DIR$/src/ContainsDuplicateII.java" />
-      <change beforePath="$PROJECT_DIR$/src/ValidAnagram.java" afterPath="$PROJECT_DIR$/src/ValidAnagram.java" />
+      <change beforePath="$PROJECT_DIR$/src/IntersectionofTwoArrays.java" afterPath="$PROJECT_DIR$/src/IntersectionofTwoArrays.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,11 +58,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ValidAnagram.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ValidAnagram.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ValidAnagram.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="512">
               <caret line="63" column="5" lean-forward="false" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IntersectionofTwoArrays.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/IntersectionofTwoArrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-457">
+              <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
               <folding />
             </state>
           </provider>
@@ -107,7 +116,6 @@
         <option value="$PROJECT_DIR$/src/AddDigits.java" />
         <option value="$PROJECT_DIR$/src/ClimbingStairs.java" />
         <option value="$PROJECT_DIR$/src/ReverseString.java" />
-        <option value="$PROJECT_DIR$/src/IntersectionofTwoArrays.java" />
         <option value="$PROJECT_DIR$/src/IntersectionofTwoArraysII.java" />
         <option value="$PROJECT_DIR$/src/SumofTwoIntegers.java" />
         <option value="$PROJECT_DIR$/src/WordSearch.java" />
@@ -145,6 +153,7 @@
         <option value="$PROJECT_DIR$/src/ContainsDuplicate.java" />
         <option value="$PROJECT_DIR$/src/ContainsDuplicateII.java" />
         <option value="$PROJECT_DIR$/src/ValidAnagram.java" />
+        <option value="$PROJECT_DIR$/src/IntersectionofTwoArrays.java" />
       </list>
     </option>
   </component>
@@ -200,6 +209,12 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ContainsDuplicateII.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="IntersectionofTwoArrays.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -410,14 +425,7 @@
       <workItem from="1528147608193" duration="2230000" />
       <workItem from="1528156738423" duration="119000" />
       <workItem from="1528260870084" duration="168000" />
-      <workItem from="1528345563831" duration="1725000" />
-    </task>
-    <task id="LOCAL-00352" summary="add new solution">
-      <created>1526419473040</created>
-      <option name="number" value="00352" />
-      <option name="presentableId" value="LOCAL-00352" />
-      <option name="project" value="LOCAL" />
-      <updated>1526419473040</updated>
+      <workItem from="1528345563831" duration="2633000" />
     </task>
     <task id="LOCAL-00353" summary="add new solution">
       <created>1526511279858</created>
@@ -755,11 +763,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528346599172</updated>
     </task>
-    <option name="localTasksCounter" value="401" />
+    <task id="LOCAL-00401" summary="add new solution">
+      <created>1528434537238</created>
+      <option name="number" value="00401" />
+      <option name="presentableId" value="LOCAL-00401" />
+      <option name="project" value="LOCAL" />
+      <updated>1528434537238</updated>
+    </task>
+    <option name="localTasksCounter" value="402" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="343377000" />
+    <option name="totallyTimeSpent" value="344285000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -822,13 +837,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/WordSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="35" lean-forward="false" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ProductofArrayExceptSelf.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -1208,6 +1216,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="512">
           <caret line="63" column="5" lean-forward="false" selection-start-line="63" selection-start-column="5" selection-end-line="63" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntersectionofTwoArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-457">
+          <caret line="27" column="8" lean-forward="false" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
           <folding />
         </state>
       </provider>
