@@ -26,7 +26,7 @@ LeetCode
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ValidAnagram.java)|Easy|06/07|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/IntersectionofTwoArraysII.java)|Easy|06/08|
 |290|[Word Pattern](https://leetcode.com/problems/word-pattern) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/WordPattern.java)|Easy|06/08|
-
+|27|[Remove Element](https://leetcode.com/problems/remove-element) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/RemoveElement.java)|Easy|06/08|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
