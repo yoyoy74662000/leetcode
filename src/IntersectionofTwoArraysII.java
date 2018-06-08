@@ -22,6 +22,7 @@ public class IntersectionofTwoArraysII {
 
         for(int num : nums1){
             if(map.containsKey(num)){
+                // map 可以覆蓋value
                 map.put(num, map.get(num)+1);
             }else{
                 map.put(num,1);
