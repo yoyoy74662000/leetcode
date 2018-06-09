@@ -29,6 +29,7 @@ LeetCode
 |27|[Remove Element](https://leetcode.com/problems/remove-element) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/RemoveElement.java)|Easy|06/08|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ImplementstrStr.java)|Easy|06/09|
 |88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/MergeSortedArray.java)|Easy|06/09|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LinkedListCycle.java)|Easy|06/09|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
