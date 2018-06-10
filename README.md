@@ -5,7 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Date |
 |---| ----- | -------- | ---------- |------|
-||[]() | [Java]()|Easy|06/03|
+||[]() | [Java]()|Easy|06/10|
 |1|[Two Sum](https://leetcode.com/problems/two-sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/twosum.java)|Easy|06/03|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/AddTwoNumbers.java)|Medium|06/03|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LongestSubstringWithoutRepeatingCharacters.java)|Medium|06/03|
@@ -32,6 +32,9 @@ LeetCode
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LinkedListCycle.java)|Easy|06/09|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/TwoSumIInputarrayissorted.java)|Easy|06/09|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/PalindromeLinkedList.java)|Easy|06/09|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/PalindromeLinkedList.java)|Easy|06/10|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/MoveZeroes.java)|Easy|06/10|
+|344|[Reverse String](https://leetcode.com/problems/reverse-string) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ReverseString.java)|Easy|06/10|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
