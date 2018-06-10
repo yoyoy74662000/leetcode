@@ -25,7 +25,13 @@ LeetCode
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ValidAnagram.java)|Easy|06/07|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ValidAnagram.java)|Easy|06/07|
 |350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/IntersectionofTwoArraysII.java)|Easy|06/08|
-
+|290|[Word Pattern](https://leetcode.com/problems/word-pattern) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/WordPattern.java)|Easy|06/08|
+|27|[Remove Element](https://leetcode.com/problems/remove-element) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/RemoveElement.java)|Easy|06/08|
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ImplementstrStr.java)|Easy|06/09|
+|88|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/MergeSortedArray.java)|Easy|06/09|
+|141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LinkedListCycle.java)|Easy|06/09|
+|167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/TwoSumIInputarrayissorted.java)|Easy|06/09|
+|234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/PalindromeLinkedList.java)|Easy|06/09|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
