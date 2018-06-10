@@ -37,6 +37,8 @@ public class PalindromeLinkedList {
     public ListNode findmiddle(ListNode head){
         ListNode slow = head;
         ListNode fast = head;
+        //1->2->2->1
+        // fast.next 相當於slow fast.next.next 相當於slow
         while(fast.next != null && fast.next.next != null){
             slow = slow.next;
             fast = fast.next.next;
