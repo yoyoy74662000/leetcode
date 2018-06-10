@@ -35,6 +35,7 @@ LeetCode
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/PalindromeLinkedList.java)|Easy|06/10|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/MoveZeroes.java)|Easy|06/10|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ReverseString.java)|Easy|06/10|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SearchInsertPosition.java)|Easy|06/10|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
