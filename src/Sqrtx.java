@@ -21,6 +21,7 @@ public class Sqrtx {
             int low = 1;
             int high = x;
             while(low <= high){
+                //注意long int
                 long mid = (high - low) / 2 + low;
                 if( mid * mid == x){
                     return (int)mid;

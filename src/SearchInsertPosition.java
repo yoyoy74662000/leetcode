@@ -28,11 +28,19 @@ public class SearchInsertPosition {
             }
         }
         // 下面是如果target 不在array 裡面的做法
+        //Input: [1,3,5,6], 2
+        //Output: 1
         if(target <= nums[start]){
             return start;
-        }else if (target <= nums[end]){
+        }
+        //Input: [1,3,5,6], 7
+        //Output: 4
+        else if (target <= nums[end]){
             return end;
-        }else{
+        }
+        //Input: [1,3,5,6], 0
+        //Output: 0
+        else{
             return end +1;
         }
     }
