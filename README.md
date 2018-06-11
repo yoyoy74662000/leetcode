@@ -37,6 +37,7 @@ LeetCode
 |344|[Reverse String](https://leetcode.com/problems/reverse-string) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ReverseString.java)|Easy|06/10|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SearchInsertPosition.java)|Easy|06/10|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/Sqrtx.java)|Easy|06/11|
+|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ValidPerfectSquare.java)|Easy|06/11|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
