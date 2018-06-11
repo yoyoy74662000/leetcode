@@ -5,7 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Date |
 |---| ----- | -------- | ---------- |------|
-||[]() | [Java]()|Easy|06/10|
+||[]() | [Java]()|Easy|06/11|
 |1|[Two Sum](https://leetcode.com/problems/two-sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/twosum.java)|Easy|06/03|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/AddTwoNumbers.java)|Medium|06/03|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LongestSubstringWithoutRepeatingCharacters.java)|Medium|06/03|
@@ -35,6 +35,8 @@ LeetCode
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/PalindromeLinkedList.java)|Easy|06/10|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/MoveZeroes.java)|Easy|06/10|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ReverseString.java)|Easy|06/10|
+|35|[Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SearchInsertPosition.java)|Easy|06/10|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/Sqrtx.java)|Easy|06/11|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
