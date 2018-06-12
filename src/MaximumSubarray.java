@@ -17,6 +17,7 @@ public class MaximumSubarray {
         int sum = nums[0];
         int res = nums[0];
         for (int i = 1 ; i < nums.length ; i++){
+            //比較當前的位置，和當前位置＋前面的
             sum = Math.max(nums[i], nums[i]+ sum);
             res = Math.max(res,sum);
         }
