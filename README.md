@@ -41,6 +41,7 @@ LeetCode
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/MaximumSubarray.java)|Easy|06/11|
 |169|[Majority Element](https://leetcode.com/problems/majority-element) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/MajorityElement.java)|Easy|06/11|
 |155|[Min Stack](https://leetcode.com/problems/min-stack) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/MinStack.java)|Easy|06/11|
+|225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ImplementStackusingQueues.java)|Easy|06/11|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
