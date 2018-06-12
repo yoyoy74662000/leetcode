@@ -5,7 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Date |
 |---| ----- | -------- | ---------- |------|
-||[]() | [Java]()|Easy|06/11|
+||[]() | [Java]()|Easy|06/12|
 |1|[Two Sum](https://leetcode.com/problems/two-sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/twosum.java)|Easy|06/03|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/AddTwoNumbers.java)|Medium|06/03|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LongestSubstringWithoutRepeatingCharacters.java)|Medium|06/03|
@@ -42,6 +42,7 @@ LeetCode
 |169|[Majority Element](https://leetcode.com/problems/majority-element) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/MajorityElement.java)|Easy|06/11|
 |155|[Min Stack](https://leetcode.com/problems/min-stack) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/MinStack.java)|Easy|06/11|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ImplementStackusingQueues.java)|Easy|06/11|
+|232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ImplementQueueusingStacks.java)|Easy|06/12|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
