@@ -44,6 +44,7 @@ LeetCode
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ImplementStackusingQueues.java)|Easy|06/11|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ImplementQueueusingStacks.java)|Easy|06/12|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ContainerWithMostWater.java)|Easy|06/12|
+|15|[3Sum](https://leetcode.com/problems/3sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/threeSum.java)|Easy|06/12|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
