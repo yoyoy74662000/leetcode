@@ -28,10 +28,14 @@ public class threeSum {
             if(i > 0 && nums[i] == nums[i-1]) continue;
             // 如果前後值一樣 就 下一個迴圈
             int low = i + 1, high = nums.length - 1, sum = 0 - nums[i];
+            // sum = 0 - nums[i] 是最前面的值，low 是中間的值，high 是後面的值
             while (low < high){
                 if (nums[low] + nums[high] == sum){
                     res.add(Arrays.asList(nums[i], nums[low], nums[high]));
+                    //while 迴圈是在說有沒有前後相同
+                    // low 如果與後面一樣的話，在往後
                     while( low < high && nums[low]==nums[low + 1]) low ++;
+                    // high 如果與前面一樣的話，在往前
                     while( low < high && nums[high]==nums[high - 1]) high--;
                     low ++;
                     high--;

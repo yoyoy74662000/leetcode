@@ -3,6 +3,7 @@ public class ImplementQueueusingStacks {
     Stack<Integer> s2 = new Stack<>();
 
     public void push(int x) {
+
         s1.push(x);
     }
 
@@ -27,6 +28,7 @@ public class ImplementQueueusingStacks {
     }
 
     public boolean empty() {
+
         return s1.isEmpty() && s2.isEmpty();
     }
 }
