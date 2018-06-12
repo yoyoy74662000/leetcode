@@ -40,6 +40,7 @@ LeetCode
 |367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ValidPerfectSquare.java)|Easy|06/11|
 |53|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/MaximumSubarray.java)|Easy|06/11|
 |169|[Majority Element](https://leetcode.com/problems/majority-element) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/MajorityElement.java)|Easy|06/11|
+|155|[Min Stack](https://leetcode.com/problems/min-stack) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/MinStack.java)|Easy|06/11|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
