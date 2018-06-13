@@ -43,7 +43,7 @@ public class threeSumClosest {
 public class threeSumClosest2 {
     public int threeSumClosest(int[] nums, int target) {
         if(nums == null || nums.length == 0) return 0;
-        int res = nums[0] + nums[1] + nums[2];
+        int res = num[0] + num[1] + num[num.length - 1];
         Arrays.sort(nums);
         for(int i = 0; i < nums.length - 2; i++){
             int start = i + 1, end = nums.length -1;
@@ -54,7 +54,7 @@ public class threeSumClosest2 {
                 }else{
                     start++;
                 }
-                if(Math.abs(target - sum) < Math.abs(target - res)){
+                if(Math.abs(sum - target) < Math.abs(res - target)){
                     res = sum;
                 }
 
