@@ -49,6 +49,7 @@ LeetCode
 |18|[4Sum](https://leetcode.com/problems/4sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/FourSum.java)|Easy|06/13|
 |31|[Next Permutation](https://leetcode.com/problems/next-permutation) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/NextPermutation.java)|Easy|06/15|
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SearchinRotatedSortedArray.java)|Easy|06/15|
+|34|[Search for a Range](https://leetcode.com/problems/search-for-a-range) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SearchforaRange.java)|Easy|06/15|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
