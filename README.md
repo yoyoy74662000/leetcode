@@ -47,6 +47,7 @@ LeetCode
 |15|[3Sum](https://leetcode.com/problems/3sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/threeSum.java)|medium|06/12|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/threeSumClosest.java)|medium|06/12|
 |18|[4Sum](https://leetcode.com/problems/4sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/FourSum.java)|Easy|06/13|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/NextPermutation.java)|Easy|06/15|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
