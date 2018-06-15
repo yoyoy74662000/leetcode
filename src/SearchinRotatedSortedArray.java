@@ -20,6 +20,7 @@ public class SearchinRotatedSortedArray {
                 return mid;
             }
             // 注意這邊
+            // [4,5,6,7,0,1,2]
             if (nums[start] < nums[mid]){
                 // 注意這邊
                 if (nums[start] <= target && target <= nums[mid]){
@@ -30,6 +31,7 @@ public class SearchinRotatedSortedArray {
                 }
             }else{
                 // 注意這邊
+                //[6,7,0,1,2,4,5]
                 if (nums[mid] <= target && target <= nums[end]){
                     start = mid;
                 }else{
