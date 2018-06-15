@@ -28,6 +28,7 @@ public class NextPermutation {
         int firstsmall = -1;
         // for 迴圈裡面的 i 要注意
         for (int i = nums.length - 2; i >= 0; i--){
+            // 前面一位跟後面一位比較
             if (nums[i] < nums[i + 1]){
                 firstsmall = i;
                 break;
@@ -42,6 +43,7 @@ public class NextPermutation {
 
         int firstlarge = -1;
         // for 迴圈裡面的 i 要注意
+        // i > firstsmall 就不會繼續跑到最前面
         for (int i = nums.length - 1 ; i > firstsmall; i--){
             if (nums[i] > nums[firstsmall]){
                 firstlarge = i;
