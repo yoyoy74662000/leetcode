@@ -5,7 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Date |
 |---| ----- | -------- | ---------- |------|
-||[]() | [Java]()|Easy|06/15|
+||[]() | [Java]()|Easy|06/16|
 |1|[Two Sum](https://leetcode.com/problems/two-sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/twosum.java)|Easy|06/03|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/AddTwoNumbers.java)|Medium|06/03|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LongestSubstringWithoutRepeatingCharacters.java)|Medium|06/03|
@@ -51,6 +51,7 @@ LeetCode
 |33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SearchinRotatedSortedArray.java)|Easy|06/15|
 |34|[Search for a Range](https://leetcode.com/problems/search-for-a-range) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SearchforaRange.java)|Easy|06/15|
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/CombinationSum.java)|Easy|06/15|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/CombinationSumII.java)|Easy|06/16|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
