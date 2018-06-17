@@ -17,6 +17,7 @@ import java.util.List;
 
 // time : O(2^n)
 // space : O(n)
+// Backtracking problem
 
 public class CombinationSum {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
