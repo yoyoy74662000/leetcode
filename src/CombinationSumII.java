@@ -36,10 +36,13 @@ public class CombinationSumII {
         }
         for(int i = start; i < candidates.length; i++){
             // 這裡就跟 combination sum 有差別
+            //[1,1,2,5,6,7,10] 2
             if(i != start && candidates[i] == candidates[i - 1]) continue;
             list.add(candidates[i]);
             helper(res, list, candidates, target - candidates[i], i + 1);
+            // [1,1]
             list.remove(list.size() -1 );
+            // [1] -> [1,2] for迴圈 i++
         }
     }
 }
