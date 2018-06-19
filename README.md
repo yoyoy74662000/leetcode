@@ -53,6 +53,7 @@ LeetCode
 |39|[Combination Sum](https://leetcode.com/problems/combination-sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/CombinationSum.java)|medium|06/15|
 |40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/CombinationSumII.java)|medium|06/16|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/RotateImage.java)|Medium|06/18|
+|55|[Jump Game](https://leetcode.com/problems/jump-game) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/JumpGame.java)|Medium|06/18|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
