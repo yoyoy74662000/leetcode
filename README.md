@@ -5,7 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Date |
 |---| ----- | -------- | ---------- |------|
-||[]() | [Java]()|Easy|06/16|
+||[]() | [Java]()|Medium|06/18|
 |1|[Two Sum](https://leetcode.com/problems/two-sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/twosum.java)|Easy|06/03|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/AddTwoNumbers.java)|Medium|06/03|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LongestSubstringWithoutRepeatingCharacters.java)|Medium|06/03|
@@ -46,12 +46,13 @@ LeetCode
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ContainerWithMostWater.java)|medium|06/12|
 |15|[3Sum](https://leetcode.com/problems/3sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/threeSum.java)|medium|06/12|
 |16|[3Sum Closest](https://leetcode.com/problems/3sum-closest) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/threeSumClosest.java)|medium|06/12|
-|18|[4Sum](https://leetcode.com/problems/4sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/FourSum.java)|Easy|06/13|
-|31|[Next Permutation](https://leetcode.com/problems/next-permutation) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/NextPermutation.java)|Easy|06/15|
-|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SearchinRotatedSortedArray.java)|Easy|06/15|
-|34|[Search for a Range](https://leetcode.com/problems/search-for-a-range) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SearchforaRange.java)|Easy|06/15|
-|39|[Combination Sum](https://leetcode.com/problems/combination-sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/CombinationSum.java)|Easy|06/15|
-|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/CombinationSumII.java)|Easy|06/16|
+|18|[4Sum](https://leetcode.com/problems/4sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/FourSum.java)|medium|06/13|
+|31|[Next Permutation](https://leetcode.com/problems/next-permutation) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/NextPermutation.java)|medium|06/15|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SearchinRotatedSortedArray.java)|medium|06/15|
+|34|[Search for a Range](https://leetcode.com/problems/search-for-a-range) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SearchforaRange.java)|medium|06/15|
+|39|[Combination Sum](https://leetcode.com/problems/combination-sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/CombinationSum.java)|medium|06/15|
+|40|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/CombinationSumII.java)|medium|06/16|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/RotateImage.java)|Medium|06/18|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
