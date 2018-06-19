@@ -21,6 +21,7 @@ public class JumpGame {
         for (int i = 0; i < nums.length; i++){
             if (i > max) return false;
             // index 加上自己 的 nums
+            // 貪心思想，球最大值
             max = Math.max(nums[i] + i, max);
         }
         return true;
