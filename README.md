@@ -59,6 +59,7 @@ LeetCode
 |64|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/MinimumPathSum.java)|Medium|06/20|
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SetMatrixZeroes.java)|Medium|06/20|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/Searcha2DMatrix.java)|Medium|06/20|
+|75|[Sort Colors](https://leetcode.com/problems/sort-colors) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SortColors.java)|Medium|06/20|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
