@@ -6,7 +6,10 @@
 
 // time : O(n)
 // space : O(1)
-
+//[1,0,2,1,1,0]
+//[0,1,2,1,1,0]
+//[0,1,0,1,1,2]
+//[0,0,1,1,1,2]
 public class SortColors {
     public void sortColors(int[] nums) {
         if (nums == null || nums.length ==0) return;
