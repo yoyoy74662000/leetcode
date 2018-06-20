@@ -55,6 +55,7 @@ LeetCode
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/RotateImage.java)|Medium|06/18|
 |55|[Jump Game](https://leetcode.com/problems/jump-game) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/JumpGame.java)|Medium|06/18|
 |59|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SpiralMatrixII.java)|Medium|06/19|
+|62|[Unique Paths](https://leetcode.com/problems/unique-paths) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/UniquePaths.java)|Medium|06/19|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
