@@ -36,3 +36,42 @@ public class Searcha2DMatrix {
         return false;
     }
 }
+public class Searcha2DMatrix2 {
+    public boolean searchMatrix(int[][] matrix, int target) {
+        int i = 0, j = matrix[0].length - 1;
+        while (i < matrix.length && j >= 0) {
+            if (matrix[i][j] == target) {
+                return true;
+            } else if (matrix[i][j] > target) {
+                j--;
+            } else {
+                i++;
+            }
+        }
+
+        return false;
+    }
+}
+
+
+public class Searcha2DMatrix3 {
+    public boolean searchMatrix(int[][] matrix, int target) {
+        if(matrix == null || matrix.length==0 || matrix[0].length==0){
+            return false;
+        }
+        int rows = matrix.length, cols=matrix[0].length;
+        for(int i=0;i<rows;i++){
+            if(matrix[i][cols-1] >= target){
+                int[] arr = matrix[i];
+                for(int j=0;j<arr.length;j++){
+                    if(arr[j] == target){
+                        return true;
+                    }
+                }
+                break;
+            }
+        }
+
+        return false;
+    }
+}
