@@ -38,17 +38,18 @@ public class Searcha2DMatrix {
 }
 public class Searcha2DMatrix2 {
     public boolean searchMatrix(int[][] matrix, int target) {
-        int i = 0, j = matrix[0].length - 1;
-        while (i < matrix.length && j >= 0) {
-            if (matrix[i][j] == target) {
+        if (matrix == null || matrix.length == 0 || matrix[0].length == 0) return false;
+        int m = 0;
+        int n = matrix[0].length-1;
+        while(m < matrix.length && n >=0){
+            if(matrix[m][n] == target){
                 return true;
-            } else if (matrix[i][j] > target) {
-                j--;
-            } else {
-                i++;
+            }else if(matrix[m][n] < target){
+                m++;
+            }else{
+                n--;
             }
         }
-
         return false;
     }
 }
