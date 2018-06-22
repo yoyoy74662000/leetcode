@@ -61,6 +61,7 @@ LeetCode
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/Searcha2DMatrix.java)|Medium|06/20|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SortColors.java)|Medium|06/20|
 |78|[Subsets](https://leetcode.com/problems/subsets) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/Subsets.java)|Medium|06/22|
+|79|[Word Search](https://leetcode.com/problems/word-search) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/WordSearch.java)|Medium|06/22|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
