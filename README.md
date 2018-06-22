@@ -5,7 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Date |
 |---| ----- | -------- | ---------- |------|
-||[]() | [Java]()|Medium|06/20|
+||[]() | [Java]()|Medium|06/22|
 |1|[Two Sum](https://leetcode.com/problems/two-sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/twosum.java)|Easy|06/03|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/AddTwoNumbers.java)|Medium|06/03|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LongestSubstringWithoutRepeatingCharacters.java)|Medium|06/03|
@@ -60,6 +60,7 @@ LeetCode
 |73|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SetMatrixZeroes.java)|Medium|06/20|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/Searcha2DMatrix.java)|Medium|06/20|
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SortColors.java)|Medium|06/20|
+|78|[Subsets](https://leetcode.com/problems/subsets) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/Subsets.java)|Medium|06/22|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
