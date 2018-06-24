@@ -62,6 +62,8 @@ LeetCode
 |75|[Sort Colors](https://leetcode.com/problems/sort-colors) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SortColors.java)|Medium|06/20|
 |78|[Subsets](https://leetcode.com/problems/subsets) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/Subsets.java)|Medium|06/22|
 |79|[Word Search](https://leetcode.com/problems/word-search) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/WordSearch.java)|Medium|06/22|
+|81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SearchinRotatedSortedArrayII.java)|Medium|06/22|
+|90|[Subsets II](https://leetcode.com/problems/subsets-ii) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SubsetsII.java)|Medium|06/23|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/RemoveDuplicatesfromSortedArrayII.java)|Medium|06/22|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
