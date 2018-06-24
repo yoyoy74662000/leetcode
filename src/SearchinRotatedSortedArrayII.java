@@ -37,6 +37,7 @@ public class SearchinRotatedSortedArrayII {
 
 
             //多加這行，判斷前後重複
+            //[1,1,1,3,1]
             if(nums[start] == nums[mid] && nums[mid] == nums[end]){
                 start++;
                 end--;

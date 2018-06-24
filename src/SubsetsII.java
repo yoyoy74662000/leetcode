@@ -22,6 +22,7 @@ public class SubsetsII {
     public List<List<Integer>> subsetsWithDup(int[] nums) {
         List<List<Integer>> res = new ArrayList<>();
         if(nums == null || nums.length ==0) return res;
+        //HERE
         Arrays.sort(nums);
         List<Integer> temp = new ArrayList<>();
         helper(res, temp, nums, 0);
