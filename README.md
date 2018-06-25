@@ -66,6 +66,7 @@ LeetCode
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SubsetsII.java)|Medium|06/23|
 |80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/RemoveDuplicatesfromSortedArrayII.java)|Medium|06/23|
 |105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ConstructBinaryTreefromPreorderandInorderTraversal.java)|Medium|06/25|
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/MaximumProductSubarray.java)|Medium|06/25|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
