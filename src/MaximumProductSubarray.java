@@ -7,7 +7,7 @@
  [2,3,-2,4]
  max = 2, min = 2, res = 2
  i = 1 max = 6 min = 3 res = 6
- i = 2 max = -1 min = -12 res = 6
+ i = 2 max = -2 min = -12 res = 6
  i = 3 max 4 min = -48 res = 6
 
 
@@ -24,7 +24,7 @@ public class MaximumProductSubarray {
         int min = nums[0];
         int res = nums[0];
         for (int i = 1; i < nums.length; i++){
-            int temp = max;
+            int temp = max; // 上一個最大的
             max = Math.max(Math.max(max * nums[i], min * nums[i]), nums[i]);
             min = Math.min(Math.min(temp * nums[i], min * nums[i]), nums[i]);
             res = Math.max(res, max);

@@ -38,6 +38,7 @@ public class FindPeakElement {
         while(start + 1 < end) {
             int mid = start + (end - start) / 2;
             if(nums[mid] == nums[mid + 1]) {
+                //if 迴圈決定是前面還是後面
                 end = mid;
             } else if (nums[mid] < nums[mid + 1]) {
                 start = mid;
