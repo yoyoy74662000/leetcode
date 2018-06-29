@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/FindPeakElement.java" afterPath="$PROJECT_DIR$/src/FindPeakElement.java" />
-      <change beforePath="$PROJECT_DIR$/src/MaximumProductSubarray.java" afterPath="$PROJECT_DIR$/src/MaximumProductSubarray.java" />
+      <change beforePath="$PROJECT_DIR$/src/MinimumSizeSubarraySum.java" afterPath="$PROJECT_DIR$/src/MinimumSizeSubarraySum.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,11 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FindPeakElement.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FindPeakElement.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FindPeakElement.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="425">
               <caret line="40" column="32" lean-forward="false" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MinimumSizeSubarraySum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MinimumSizeSubarraySum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="39" lean-forward="false" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -51,7 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/FindAllDuplicatesinanArray.java" />
         <option value="$PROJECT_DIR$/src/FindAllNumbersDisappearedinanArray.java" />
         <option value="$PROJECT_DIR$/src/LongestSubstringWithoutRepeatingCharacters.java" />
         <option value="$PROJECT_DIR$/src/SumofSquareNumbers.java" />
@@ -102,6 +110,7 @@
         <option value="$PROJECT_DIR$/src/SubsetsII.java" />
         <option value="$PROJECT_DIR$/src/MaximumProductSubarray.java" />
         <option value="$PROJECT_DIR$/src/FindPeakElement.java" />
+        <option value="$PROJECT_DIR$/src/MinimumSizeSubarraySum.java" />
       </list>
     </option>
   </component>
@@ -361,14 +370,7 @@
       <workItem from="1528147608193" duration="2230000" />
       <workItem from="1528156738423" duration="119000" />
       <workItem from="1528260870084" duration="168000" />
-      <workItem from="1528345563831" duration="41177000" />
-    </task>
-    <task id="LOCAL-00379" summary="add new solution">
-      <created>1527360515243</created>
-      <option name="number" value="00379" />
-      <option name="presentableId" value="LOCAL-00379" />
-      <option name="project" value="LOCAL" />
-      <updated>1527360515244</updated>
+      <workItem from="1528345563831" duration="43315000" />
     </task>
     <task id="LOCAL-00380" summary="add new solution">
       <created>1527361398776</created>
@@ -706,11 +708,18 @@
       <option name="project" value="LOCAL" />
       <updated>1529802211976</updated>
     </task>
-    <option name="localTasksCounter" value="428" />
+    <task id="LOCAL-00428" summary="add new solution">
+      <created>1530311598817</created>
+      <option name="number" value="00428" />
+      <option name="presentableId" value="LOCAL-00428" />
+      <option name="project" value="LOCAL" />
+      <updated>1530311598817</updated>
+    </task>
+    <option name="localTasksCounter" value="429" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="382829000" />
+    <option name="totallyTimeSpent" value="384967000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -802,17 +811,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ContainsDuplicateII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-191">
-          <caret line="7" column="24" lean-forward="false" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-          <folding>
-            <element signature="e#570#579#0" expanded="true" />
-            <element signature="e#978#996#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ValidAnagram.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="512">
@@ -1216,6 +1214,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="40" column="32" lean-forward="false" selection-start-line="40" selection-start-column="32" selection-end-line="40" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MinimumSizeSubarraySum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="39" lean-forward="false" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
           <folding />
         </state>
       </provider>

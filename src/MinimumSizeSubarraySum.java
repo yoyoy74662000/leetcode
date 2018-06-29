@@ -19,8 +19,8 @@ public class MinimumSizeSubarraySum {
         for(int i = 0; i < nums.length; i++){
             sum += nums[i];
             while(left <= i && sum >= s){
-                res = Math.min(res, i-left+1);
-                sum -= nums[left++];
+                res = Math.min(res, i-left+1); //4 , 4 , 3 , 2 ,
+                sum -= nums[left++]; //8-2 , 10 - 3 , 7 - 1 , 9 - 2
             }
         }
         return res == Integer.MAX_VALUE ? 0 : res;
