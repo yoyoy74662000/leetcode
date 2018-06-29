@@ -5,7 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Date |
 |---| ----- | -------- | ---------- |------|
-||[]() | [Java]()|Medium|06/22|
+||[]() | [Java]()|Medium|06/29|
 |1|[Two Sum](https://leetcode.com/problems/two-sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/twosum.java)|Easy|06/03|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/AddTwoNumbers.java)|Medium|06/03|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LongestSubstringWithoutRepeatingCharacters.java)|Medium|06/03|
@@ -64,7 +64,11 @@ LeetCode
 |79|[Word Search](https://leetcode.com/problems/word-search) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/WordSearch.java)|Medium|06/22|
 |81|[Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SearchinRotatedSortedArrayII.java)|Medium|06/22|
 |90|[Subsets II](https://leetcode.com/problems/subsets-ii) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SubsetsII.java)|Medium|06/23|
-|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/RemoveDuplicatesfromSortedArrayII.java)|Medium|06/22|
+|80|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/RemoveDuplicatesfromSortedArrayII.java)|Medium|06/23|
+|105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ConstructBinaryTreefromPreorderandInorderTraversal.java)|Medium|06/25|
+|152|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/MaximumProductSubarray.java)|Medium|06/25|
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/FindMinimuminRotatedSortedArray.java)|Medium|06/25|
+|162|[Find Peak Element](https://leetcode.com/problems/find-peak-element) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/FindPeakElement.java)|Medium|06/29|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
