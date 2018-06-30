@@ -32,3 +32,18 @@ public class FindtheDuplicateNumber {
         return -1;
     }
 }
+
+public class FindtheDuplicateNumber2 {
+    public int findDuplicate(int[] nums) {
+        if(nums == null || nums.length ==0) return 0;
+        Arrays.sort(nums);
+        int res = 0;
+        for(int i = 0; i < nums.length; i++){
+            if(nums[i] == nums[i+1]){
+                res = nums[i];
+                break;
+            }
+        }
+        return res;
+    }
+}
