@@ -29,13 +29,14 @@ public class GroupAnagrams {
             Arrays.sort(ch);
             String s = new String(ch);
             if (map.containsKey(s)){
-                List<String> list = res.get(map.get(s));
+                List<String> list = res.get(map.get(s)-1);
+                // res.get 是指 get ArrayList index 位置
                 list.add(str);
             }else{
                 List<String> list = new ArrayList<>();
                 list.add(str);
-                map.put(s,res.size());
                 res.add(list);
+                map.put(s,res.size());
             }
         }
         return res;
