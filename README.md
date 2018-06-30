@@ -73,6 +73,7 @@ LeetCode
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ProductofArrayExceptSelf.java)|Medium|06/29|
 |287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/FindtheDuplicateNumber.java)|Medium|06/30|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/GroupAnagrams.java)|Medium|06/30|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/BinaryTreeInorderTraversal.java)|Medium|06/30|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
