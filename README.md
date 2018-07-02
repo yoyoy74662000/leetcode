@@ -78,6 +78,7 @@ LeetCode
 |380|[Insert Delete GetRandom](https://leetcode.com/problems/insert-delete-getrandom-o1) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/InsertDeleteGetRandom.java)|Medium|06/30|
 |525|[Contiguous Array](https://leetcode.com/problems/contiguous-array) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ContiguousArray.java)|Medium|07/02|
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SubarraySumEqualsK.java)|Medium|07/02|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/RemoveNthNodeFromEndofList.java)|Medium|07/02|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
