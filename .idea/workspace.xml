@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/SubarraySumEqualsK.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -451,14 +450,7 @@
       <workItem from="1528147608193" duration="2230000" />
       <workItem from="1528156738423" duration="119000" />
       <workItem from="1528260870084" duration="168000" />
-      <workItem from="1528345563831" duration="48909000" />
-    </task>
-    <task id="LOCAL-00384" summary="add new solution">
-      <created>1527446220000</created>
-      <option name="number" value="00384" />
-      <option name="presentableId" value="LOCAL-00384" />
-      <option name="project" value="LOCAL" />
-      <updated>1527446220001</updated>
+      <workItem from="1528345563831" duration="49032000" />
     </task>
     <task id="LOCAL-00385" summary="add new solution">
       <created>1527463654351</created>
@@ -796,11 +788,18 @@
       <option name="project" value="LOCAL" />
       <updated>1530556556216</updated>
     </task>
-    <option name="localTasksCounter" value="433" />
+    <task id="LOCAL-00433" summary="add new solution">
+      <created>1530564950287</created>
+      <option name="number" value="00433" />
+      <option name="presentableId" value="LOCAL-00433" />
+      <option name="project" value="LOCAL" />
+      <updated>1530564950287</updated>
+    </task>
+    <option name="localTasksCounter" value="434" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="390561000" />
+    <option name="totallyTimeSpent" value="390684000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
