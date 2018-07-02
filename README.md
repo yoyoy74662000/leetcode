@@ -75,6 +75,7 @@ LeetCode
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/GroupAnagrams.java)|Medium|06/30|
 |94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/BinaryTreeInorderTraversal.java)|Medium|06/30|
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/CopyListwithRandomPointer.java)|Medium|06/30|
+|380|[Insert Delete GetRandom](https://leetcode.com/problems/insert-delete-getrandom-o1) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/InsertDeleteGetRandom.java)|Medium|06/30|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
