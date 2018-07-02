@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ContiguousArray.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/SubarraySumEqualsK.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -78,11 +78,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ContiguousArray.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ContiguousArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ContiguousArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="127">
-              <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SubarraySumEqualsK.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SubarraySumEqualsK.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="158">
+              <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -113,7 +123,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ValidPalindromeII.java" />
         <option value="$PROJECT_DIR$/src/MergeSortedArray.java" />
         <option value="$PROJECT_DIR$/src/KthLargestElementinanArray.java" />
         <option value="$PROJECT_DIR$/src/BinaryTreePreorderTraversal.java" />
@@ -164,6 +173,7 @@
         <option value="$PROJECT_DIR$/src/GroupAnagrams.java" />
         <option value="$PROJECT_DIR$/src/InsertDeleteGetRandom.java" />
         <option value="$PROJECT_DIR$/src/ContiguousArray.java" />
+        <option value="$PROJECT_DIR$/src/SubarraySumEqualsK.java" />
       </list>
     </option>
   </component>
@@ -441,14 +451,7 @@
       <workItem from="1528147608193" duration="2230000" />
       <workItem from="1528156738423" duration="119000" />
       <workItem from="1528260870084" duration="168000" />
-      <workItem from="1528345563831" duration="48477000" />
-    </task>
-    <task id="LOCAL-00383" summary="add new solution">
-      <created>1527366296483</created>
-      <option name="number" value="00383" />
-      <option name="presentableId" value="LOCAL-00383" />
-      <option name="project" value="LOCAL" />
-      <updated>1527366296483</updated>
+      <workItem from="1528345563831" duration="48909000" />
     </task>
     <task id="LOCAL-00384" summary="add new solution">
       <created>1527446220000</created>
@@ -786,11 +789,18 @@
       <option name="project" value="LOCAL" />
       <updated>1530391713755</updated>
     </task>
-    <option name="localTasksCounter" value="432" />
+    <task id="LOCAL-00432" summary="add new solution">
+      <created>1530556556216</created>
+      <option name="number" value="00432" />
+      <option name="presentableId" value="LOCAL-00432" />
+      <option name="project" value="LOCAL" />
+      <updated>1530556556216</updated>
+    </task>
+    <option name="localTasksCounter" value="433" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="390129000" />
+    <option name="totallyTimeSpent" value="390561000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -882,14 +892,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/LinkedListCycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="49" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/PalindromeLinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
@@ -1257,17 +1259,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/InsertDeleteGetRandom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-          <folding>
-            <element signature="e#1486#1487#0" expanded="true" />
-            <element signature="e#1554#1555#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FindtheDuplicateNumber.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -1292,10 +1283,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/InsertDeleteGetRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="27" lean-forward="false" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
+          <folding>
+            <element signature="e#1486#1487#0" expanded="true" />
+            <element signature="e#1554#1555#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ContiguousArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="127">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SubarraySumEqualsK.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="23" column="22" lean-forward="false" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
           <folding />
         </state>
       </provider>
