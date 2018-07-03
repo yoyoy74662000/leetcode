@@ -81,6 +81,7 @@ LeetCode
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/RemoveNthNodeFromEndofList.java)|Medium|07/02|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SwapNodesinPairs.java)|Medium|07/03|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/RotateList.java)|Medium|07/03|
+|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/RemoveDuplicatesfromSortedListII.java)|Medium|07/03|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
