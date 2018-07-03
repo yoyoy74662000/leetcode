@@ -15,19 +15,18 @@ public class SwapNodesinPairs {
         if(head == null || head.next == null) return head;
         ListNode dummy = new ListNode(0);
         dummy.next = head;
-        ListNode l1 = dummy;
-        ListNode l2 = head;
-        while(l2 != null && l2.next != null){
-            ListNode nextstart = l2.next.next;
-            l1.next = l2.next;
-            l2.next.next = l2;
-            l2.next = nextstart;
-            l1 = l2;
-            l2 = l2.next;
-
+        ListNode prev = dummy;
+        // ListNode first = prev.next;
+        // ListNode second = prev.next.next;
+        while(prev.next != null && prev.next.next != null){
+            //每執行一個迴圈，重新定義prev, first, second
+            ListNode first = prev.next;
+            ListNode second = prev.next.next;
+            first.next = second.next;
+            prev.next = second;
+            prev.next.next = first;
+            prev = prev.next.next;
         }
         return dummy.next;
-
-
     }
 }
