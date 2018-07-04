@@ -5,7 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Date |
 |---| ----- | -------- | ---------- |------|
-||[]() | [Java]()|Medium|07/03|
+||[]() | [Java]()|Medium|07/04|
 |1|[Two Sum](https://leetcode.com/problems/two-sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/twosum.java)|Easy|06/03|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/AddTwoNumbers.java)|Medium|06/03|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LongestSubstringWithoutRepeatingCharacters.java)|Medium|06/03|
@@ -82,6 +82,7 @@ LeetCode
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SwapNodesinPairs.java)|Medium|07/03|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/RotateList.java)|Medium|07/03|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/RemoveDuplicatesfromSortedListII.java)|Medium|07/03|
+|86|[Partition List](https://leetcode.com/problems/partition-list) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/PartitionList.java)|Medium|07/04|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
