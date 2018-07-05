@@ -5,7 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Date |
 |---| ----- | -------- | ---------- |------|
-||[]() | [Java]()|Medium|07/03|
+||[]() | [Java]()|Medium|07/05|
 |1|[Two Sum](https://leetcode.com/problems/two-sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/twosum.java)|Easy|06/03|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/AddTwoNumbers.java)|Medium|06/03|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LongestSubstringWithoutRepeatingCharacters.java)|Medium|06/03|
@@ -80,6 +80,14 @@ LeetCode
 |560|[Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SubarraySumEqualsK.java)|Medium|07/02|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/RemoveNthNodeFromEndofList.java)|Medium|07/02|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SwapNodesinPairs.java)|Medium|07/03|
+|61|[Rotate List](https://leetcode.com/problems/rotate-list) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/RotateList.java)|Medium|07/03|
+|82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/RemoveDuplicatesfromSortedListII.java)|Medium|07/03|
+|86|[Partition List](https://leetcode.com/problems/partition-list) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/PartitionList.java)|Medium|07/04|
+|92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ReverseLinkedListII.java)|Medium|07/04|
+|109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ConvertSortedListtoBinarySearchTree.java)|Medium|07/04|
+||[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [Java]()|Medium|07/05|
+|142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LinkedListCycleII.java)|Medium|07/05|
+|143|[Reorder List](https://leetcode.com/problems/reorder-list) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ReorderList.java)|Medium|07/05|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
