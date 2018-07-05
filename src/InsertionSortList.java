@@ -19,12 +19,14 @@ public class InsertionSortList {
         ListNode cur = head;
         ListNode prev = null, temp = null;
         while(cur != null && cur.next != null){
+            // 看後者有沒有小於前者
             if(cur.val <= cur.next.val){
                 cur = cur.next;
             }else{
                 temp = cur.next;
                 cur.next = temp.next;
                 prev = dummy;
+                // 如果 prev.next 小於 temp prev = prev.next
                 while(prev.next.val <= temp.val){
                     prev = prev.next;
                 }
