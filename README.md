@@ -90,6 +90,7 @@ LeetCode
 |143|[Reorder List](https://leetcode.com/problems/reorder-list) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ReorderList.java)|Medium|07/05|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/InsertionSortList.java)|Medium|07/05|
 |148|[Sort List](https://leetcode.com/problems/sort-list) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SortList.java)|Medium|07/06|
+|46|[Permutations](https://leetcode.com/problems/permutations) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/permutation.java)|Medium|07/06|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
