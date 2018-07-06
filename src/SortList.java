@@ -5,7 +5,57 @@
 // time : O(nlogn)
 // space : O(1)
 
-public class SortList {
+
+public class SortList1 {
+    public ListNode sortList(ListNode head) {
+        if(head == null || head.next == null) return head;
+
+        ListNode mid = findMiddle(head);
+        ListNode right = sortList(mid.next);
+        mid.next = null;
+        ListNode left = sortList(head);
+        return doMerge(left, right);
+    }
+
+    private ListNode findMiddle(ListNode head) {
+        ListNode slow = head;
+        ListNode fast = head;
+        ListNode prev = null;
+        while(fast != null && fast.next != null) {
+            prev = slow;
+            slow = slow.next;
+            fast = fast.next.next;
+        }
+        return prev;
+    }
+
+    public static ListNode doMerge(ListNode left, ListNode right) {
+        ListNode dummy = new ListNode(0);
+        ListNode current = dummy;
+
+        while(left != null && right != null) {
+            if(left.val < right.val) {
+                current.next = left;
+                left = left.next;
+            } else {
+                current.next = right;
+                right = right.next;
+            }
+            current = current.next;
+        }
+
+        if(left != null) {
+            current.next = left;
+        }
+        if(right != null) {
+            current.next = right;
+        }
+        return dummy.next;
+    }
+}
+
+
+public class SortList2 {
     public ListNode sortList(ListNode head) {
         if (head == null || head.next == null) {
             return head;
@@ -49,7 +99,7 @@ public class SortList {
 
     }
 }
-public class SortList2 {
+public class SortList3 {
     public ListNode sortList(ListNode head) {
         if (head == null || head.next == null) return head;
         ListNode mid = getmid(head);
