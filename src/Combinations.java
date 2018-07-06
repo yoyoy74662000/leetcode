@@ -44,3 +44,27 @@ public class Combinations {
         }
     }
 }
+
+public class Combinations2 {
+    public List<List<Integer>> combine(int n, int k) {
+        List<List<Integer>> res = new ArrayList<>();
+        List<Integer> list = new ArrayList<>();
+        helper(res, list, n, k, 1);
+        return res;
+    }
+
+    public static void helper(List<List<Integer>> res, List<Integer> list, int n, int k, int start){
+        if(list.size() == k){
+            res.add(new ArrayList<>(list));
+            return;
+        }
+        for(int i = start; i <= n; i++){
+            if(list.contains(i)) continue;
+            else{
+                list.add(i);
+            }
+            helper(res, list, n, k, i + 1);
+            list.remove(list.size() - 1);
+        }
+    }
+}
