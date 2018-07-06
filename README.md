@@ -5,7 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Date |
 |---| ----- | -------- | ---------- |------|
-||[]() | [Java]()|Medium|07/05|
+||[]() | [Java]()|Medium|07/06|
 |1|[Two Sum](https://leetcode.com/problems/two-sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/twosum.java)|Easy|06/03|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/AddTwoNumbers.java)|Medium|06/03|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LongestSubstringWithoutRepeatingCharacters.java)|Medium|06/03|
@@ -89,6 +89,8 @@ LeetCode
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LinkedListCycleII.java)|Medium|07/05|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ReorderList.java)|Medium|07/05|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/InsertionSortList.java)|Medium|07/05|
+|148|[Sort List](https://leetcode.com/problems/sort-list) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SortList.java)|Medium|07/06|
+|46|[Permutations](https://leetcode.com/problems/permutations) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/permutation.java)|Medium|07/06|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
