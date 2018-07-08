@@ -5,7 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Date |
 |---| ----- | -------- | ---------- |------|
-||[]() | [Java]()|Medium|07/06|
+||[]() | [Java]()|Medium|07/08|
 |1|[Two Sum](https://leetcode.com/problems/two-sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/twosum.java)|Easy|06/03|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/AddTwoNumbers.java)|Medium|06/03|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LongestSubstringWithoutRepeatingCharacters.java)|Medium|06/03|
@@ -85,12 +85,18 @@ LeetCode
 |86|[Partition List](https://leetcode.com/problems/partition-list) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/PartitionList.java)|Medium|07/04|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ReverseLinkedListII.java)|Medium|07/04|
 |109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ConvertSortedListtoBinarySearchTree.java)|Medium|07/04|
-||[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [Java]()|Medium|07/05|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LinkedListCycleII.java)|Medium|07/05|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/ReorderList.java)|Medium|07/05|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/InsertionSortList.java)|Medium|07/05|
 |148|[Sort List](https://leetcode.com/problems/sort-list) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SortList.java)|Medium|07/06|
 |46|[Permutations](https://leetcode.com/problems/permutations) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/permutation.java)|Medium|07/06|
+|77|[Combinations](https://leetcode.com/problems/combinations) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/Combinations.java)|Medium|07/06|
+|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/PalindromePartitioning.java)|Medium|07/07|
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/BinaryTreePreorderTraversal.java)|Medium|07/07|
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/BinarySearchTreeIterator.java)|Medium|07/07|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/KthLargestElementinanArray.java)|Medium|07/08|
+|179|[Largest Number](https://leetcode.com/problems/largest-number) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LargestNumber.java)|Medium|07/08|
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/UniqueBinarySearchTrees.java)|Medium|07/08|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
