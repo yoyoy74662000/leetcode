@@ -94,6 +94,7 @@ LeetCode
 |77|[Combinations](https://leetcode.com/problems/combinations) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/Combinations.java)|Medium|07/06|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/PalindromePartitioning.java)|Medium|07/07|
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/BinaryTreePreorderTraversal.java)|Medium|07/07|
+|173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/BinarySearchTreeIterator.java)|Medium|07/07|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
