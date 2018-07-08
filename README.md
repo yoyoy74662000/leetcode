@@ -93,6 +93,7 @@ LeetCode
 |46|[Permutations](https://leetcode.com/problems/permutations) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/permutation.java)|Medium|07/06|
 |77|[Combinations](https://leetcode.com/problems/combinations) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/Combinations.java)|Medium|07/06|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/PalindromePartitioning.java)|Medium|07/07|
+|144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/BinaryTreePreorderTraversal.java)|Medium|07/07|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
