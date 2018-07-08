@@ -9,6 +9,10 @@
  *   /     /       \                 \
  *  2     1         2                 3
  *
+ *       1             2                       3
+        / \           / \                    /  \
+      0  2 3         1   3                 1 2  0
+ count(0) count(2)  count(1) count(1)  count(2) count(0)
  */
 
 
@@ -26,6 +30,5 @@ public class UniqueBinarySearchTrees {
             }
         }
         return count[n];
-
     }
 }

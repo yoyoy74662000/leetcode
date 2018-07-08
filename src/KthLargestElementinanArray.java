@@ -57,6 +57,8 @@ public class KthLargestElementinanArray {
 public class KthLargestElementinanArray {
     public int findKthLargest(int[] nums, int k) {
         if (nums == null || nums.length == 0) return 0;
+        //Priority queue 有別於一般的 queue，
+        // 每一個 element 都額外帶有優先值，愈優先的 (一般來說是優先值愈低的) 放在愈前面。
         PriorityQueue<Integer> minheap = new PriorityQueue<>();
         for (int num : nums){
             minheap.offer(num);
