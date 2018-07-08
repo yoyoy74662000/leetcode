@@ -96,6 +96,7 @@ LeetCode
 |173|[Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/BinarySearchTreeIterator.java)|Medium|07/07|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/KthLargestElementinanArray.java)|Medium|07/08|
 |179|[Largest Number](https://leetcode.com/problems/largest-number) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LargestNumber.java)|Medium|07/08|
+|96|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/UniqueBinarySearchTrees.java)|Medium|07/08|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
