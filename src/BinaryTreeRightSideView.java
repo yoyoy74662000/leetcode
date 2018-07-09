@@ -29,6 +29,7 @@ public class BinaryTreeRightSideView {
     public static void helper(List<Integer> res, TreeNode root, int level){
         if(root == null) return;
         if(res.size() == level){
+            //先level 再來增加 size
             res.add(root.val);
         }
         helper(res, root.right, level + 1);
