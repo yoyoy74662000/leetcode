@@ -104,6 +104,7 @@ LeetCode
 |116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/PopulatingNextRightPointersinEachNode.java)|Medium|07/08|
 |129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/SumRoottoLeafNumbers.java)|Medium|07/08|
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/CountCompleteTreeNodes.java)|Medium|07/09|
+|230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/KthSmallestElementinaBST.java)|Medium|07/09|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
