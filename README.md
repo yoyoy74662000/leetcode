@@ -106,6 +106,7 @@ LeetCode
 |222|[Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/CountCompleteTreeNodes.java)|Medium|07/09|
 |230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/KthSmallestElementinaBST.java)|Medium|07/09|
 |236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LowestCommonAncestorofaBinaryTree.java)|Medium|07/10|
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LowestCommonAncestorofaBinarySearchTree.java)|Medium|07/10|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
