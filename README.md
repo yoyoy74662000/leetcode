@@ -110,6 +110,8 @@ LeetCode
 |200|[Number of Islands](https://leetcode.com/problems/number-of-islands) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/NumberofIslands.java)|Medium|07/10|
 |310|[Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/MinimumHeightTrees.java)|Medium|07/10|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/BinaryTreeZigzagLevelOrderTraversal.java)|Medium|07/10|
+|Course Schedule|[]() | [Java]()|Medium|07/10|
+|Course Schedule II|[]() | [Java]()|Medium|07/10|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
