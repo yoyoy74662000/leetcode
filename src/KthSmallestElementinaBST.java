@@ -14,7 +14,13 @@
  Input: root = [5,3,6,2,4,null,null,1], k = 3
  Output: 3
  *
- *
+ *         5
+          / \
+         3   6
+        / \
+       2   4
+      /
+     1
  */
 
 // time: O(n)
@@ -29,6 +35,26 @@ public class KthSmallestElementinaBST {
     }
 
     public void helper(TreeNode root){
+        if(root == null) return;
+        helper(root.left);
+        count--;
+        if(count == 0){
+            res = root.val;
+        }
+        helper(root.right);
+    }
+}
+
+public class KthSmallestElementinaBST2 {
+    private static int res = 0, count = 0;
+    public int kthSmallest(TreeNode root, int k) {
+        if(root == null) return 0;
+        count = k;
+        helper(root);
+        return res;
+    }
+
+    public static void helper(TreeNode root){
         if(root == null) return;
         helper(root.left);
         count--;
