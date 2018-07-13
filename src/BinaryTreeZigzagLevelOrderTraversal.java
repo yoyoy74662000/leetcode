@@ -17,6 +17,12 @@
  [20,9],
  [15,7]
  ]
+ *
+ * [3] true
+ * [20,9] false
+ * [15,7] true
+ *
+ *
  */
 
 
@@ -36,9 +42,11 @@ public class BinaryTreeZigzagLevelOrderTraversal {
             List<Integer> list = new ArrayList<>();
             for(int i = 0; i < size; i++){
                 TreeNode cur = queue.poll();
+                // if true 的話由左到右
                 if(x){
                     list.add(cur.val);
                 }else{
+                //如果是false的話 由右到左
                     list.add(0,cur.val);
                 }
                 if(cur.left != null){
