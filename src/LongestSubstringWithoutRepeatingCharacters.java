@@ -38,6 +38,7 @@ public class LongestSubstringWithoutRepeatingCharacters2 {
         if (s == null || s.length() == 0) return 0;
         HashSet<Character> set = new HashSet<>();
         int res = 0;
+        //注意 i++ j++
         for (int i =0,j =0; i < s.length();){
             if (set.contains(s.charAt(i))){
                 set.remove(s.charAt(j++));
