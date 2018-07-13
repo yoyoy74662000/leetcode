@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
+    <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="add new solution">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/LongestPalindromicSubstring.java" afterPath="$PROJECT_DIR$/src/LongestPalindromicSubstring.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="LongestSubstringWithoutRepeatingCharacters.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LongestSubstringWithoutRepeatingCharacters.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LongestSubstringWithoutRepeatingCharacters.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="401">
               <caret line="40" column="20" lean-forward="false" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LongestPalindromicSubstring.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LongestPalindromicSubstring.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="559">
+              <caret line="35" column="9" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="35" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -49,7 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/IntersectionofTwoArraysII.java" />
         <option value="$PROJECT_DIR$/src/WordPattern.java" />
         <option value="$PROJECT_DIR$/src/PalindromeLinkedList.java" />
         <option value="$PROJECT_DIR$/src/ReverseString.java" />
@@ -100,6 +110,7 @@
         <option value="$PROJECT_DIR$/src/MinimumHeightTrees.java" />
         <option value="$PROJECT_DIR$/src/BinaryTreeZigzagLevelOrderTraversal.java" />
         <option value="$PROJECT_DIR$/src/LongestSubstringWithoutRepeatingCharacters.java" />
+        <option value="$PROJECT_DIR$/src/LongestPalindromicSubstring.java" />
       </list>
     </option>
   </component>
@@ -375,14 +386,7 @@
       <workItem from="1528147608193" duration="2230000" />
       <workItem from="1528156738423" duration="119000" />
       <workItem from="1528260870084" duration="168000" />
-      <workItem from="1528345563831" duration="87156000" />
-    </task>
-    <task id="LOCAL-00397" summary="add new solution">
-      <created>1528152436555</created>
-      <option name="number" value="00397" />
-      <option name="presentableId" value="LOCAL-00397" />
-      <option name="project" value="LOCAL" />
-      <updated>1528152436555</updated>
+      <workItem from="1528345563831" duration="88208000" />
     </task>
     <task id="LOCAL-00398" summary="add new solution">
       <created>1528260919425</created>
@@ -720,11 +724,18 @@
       <option name="project" value="LOCAL" />
       <updated>1531452745844</updated>
     </task>
-    <option name="localTasksCounter" value="446" />
+    <task id="LOCAL-00446" summary="add new solution">
+      <created>1531452755248</created>
+      <option name="number" value="00446" />
+      <option name="presentableId" value="LOCAL-00446" />
+      <option name="project" value="LOCAL" />
+      <updated>1531452755248</updated>
+    </task>
+    <option name="localTasksCounter" value="447" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="428808000" />
+    <option name="totallyTimeSpent" value="429860000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -866,14 +877,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ContiguousArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/InsertDeleteGetRandom.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -1273,6 +1276,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="401">
           <caret line="40" column="20" lean-forward="false" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LongestPalindromicSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="559">
+          <caret line="35" column="9" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="35" selection-end-column="9" />
           <folding />
         </state>
       </provider>

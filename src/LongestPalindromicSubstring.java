@@ -17,7 +17,9 @@ public class LongestPalindromicSubstring {
     public String longestPalindrome(String s) {
         if (s ==null || s.length() == 0) return null;
         for (int i = 0; i < s.length(); i++){
+            //odd
             helper(s, i, i);
+            //even
             helper(s, i, i + 1);
         }
         return res;
