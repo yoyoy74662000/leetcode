@@ -33,23 +33,25 @@ public class MergeTwoSortedLists {
 // dummy 方法
 public class MergeTwoSortedLists2 {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
-        if(l1 == null && l2 == null) return null;
         ListNode dummy = new ListNode(0);
         ListNode cur = dummy;
-        while(l1 != null && l2 != null){
-            if(l1.val < l2.val){
-                cur.next = new ListNode(l1.val);
-                l1 = l1.next;
-            }else{
-                cur.next = new ListNode(l2.val);
-                l2 = l2.next;
+        ListNode p = l1;
+        ListNode q = l2;
+        while(p != null && q != null){
+            if(p.val < q.val){
+                cur.next = new ListNode(p.val);
+                p = p.next;
+            }
+            else{
+                cur.next = new ListNode(q.val);
+                q = q.next;
             }
             cur = cur.next;
         }
-        if(l1 != null){
-            cur.next = l1;
+        if(p != null){
+            cur.next = p;
         }else{
-            cur.next = l2;
+            cur.next = q;
         }
         return dummy.next;
     }
