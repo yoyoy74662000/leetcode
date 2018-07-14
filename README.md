@@ -5,7 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty | Date |
 |---| ----- | -------- | ---------- |------|
-||[]() | [Java]()|Medium|07/13|
+||[]() | [Java]()|Medium|07/14|
 |1|[Two Sum](https://leetcode.com/problems/two-sum) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/twosum.java)|Easy|06/03|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/AddTwoNumbers.java)|Medium|06/03|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/LongestSubstringWithoutRepeatingCharacters.java)|Medium|06/03|
@@ -112,7 +112,8 @@ LeetCode
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/BinaryTreeZigzagLevelOrderTraversal.java)|Medium|07/10|
 |Course Schedule|[]() | [Java]()|Medium|07/10|
 |Course Schedule II|[]() | [Java]()|Medium|07/10|
-|8|[String to Integer](https://leetcode.com/problems/string-to-integer-atoi) | [Java]()|Medium|07/13|
+|8|[String to Integer](https://leetcode.com/problems/string-to-integer-atoi) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/StringtoInteger.java)|Medium|07/13|
+|23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/MergekSortedLists.java)|Medium|07/14|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
