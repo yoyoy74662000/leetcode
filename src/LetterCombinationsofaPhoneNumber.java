@@ -10,27 +10,27 @@ import java.util.List;
  *
  */
 
-// time : O(3^n)
+// time : O(3^n) 时间复杂度：假设总共有n个digit，每个digit可以代表k个字符，那么时间复杂度是O(k^n)，就是结果的数量,所以是O(3^n)
 // space : O(n)
 
 public class LetterCombinationsofaPhoneNumber {
     private String[] mapping = new String[]{"0", "1", "abc", "def", "ghi", "jkl", "mno", "pqrs", "tuv", "wxyz"};
     public List<String> letterCombinations(String digits) {
-        List<String> res = new ArrayList<>();
-        if (digits == null || digits.length() == 0) return res;
-
-        helper(res, digits, "", 0);
-        return res;
+        List<String> list = new ArrayList<>();
+        if(digits == null || digits.length() == 0) return list;
+        helper(digits, list, "", 0);
+        return list;
     }
 
-    public void helper(List<String> res, String digits, String s, int index){
-        if (index == digits.length()){
-            res.add(s);
+    public void helper(String digits, List<String> list, String s, int start){
+        if(s.length() == digits.length()){
+            list.add(s);
             return;
         }
-        String letters = mapping[digits.charAt(index) - '0'];
-        for (int i = 0; i < letters.length(); i++){
-            helper(res, digits, s + letters.charAt(i), index + 1);
+
+        String letters = mapping[digits.charAt(start) - '0']; //"abc"
+        for(int i = 0; i < letters.length(); i++){
+            helper(digits, list, s + letters.charAt(i), start + 1);
         }
     }
 }
