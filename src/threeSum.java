@@ -25,6 +25,7 @@ public class threeSum {
         if(nums == null || nums.length == 0) return res;
         Arrays.sort(nums);
         for (int i = 0; i < nums.length - 2; i++){
+            // i > 0 是因為 要從 i = 0 開始算
             if(i > 0 && nums[i] == nums[i-1]) continue;
             // 如果前後值一樣 就 下一個迴圈
             int low = i + 1, high = nums.length - 1, sum = 0 - nums[i];

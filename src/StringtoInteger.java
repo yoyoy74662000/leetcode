@@ -1,6 +1,6 @@
 public class StringtoInteger {
     str = str.trim();
-        if (str == null || str.length() == 0) return 0;
+    if (str == null || str.length() == 0) return 0;
     int sign = 1;
     int start = 0;
     long res = 0;
