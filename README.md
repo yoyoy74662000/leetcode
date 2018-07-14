@@ -114,6 +114,7 @@ LeetCode
 |Course Schedule II|[]() | [Java]()|Medium|07/10|
 |8|[String to Integer](https://leetcode.com/problems/string-to-integer-atoi) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/StringtoInteger.java)|Medium|07/13|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Java](https://github.com/yoyoy74662000/leetcode/blob/master/src/MergekSortedLists.java)|Medium|07/14|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [Java]()|Medium|07/14|
 <p>This is the solution of leetcode problem in Java</p>
 2/18 finished twosum <br>
 2/19 finished Reverse Integer, Palindrome Number<br>
