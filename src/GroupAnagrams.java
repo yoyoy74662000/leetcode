@@ -29,9 +29,8 @@ public class GroupAnagrams {
             Arrays.sort(ch);
             String s = new String(ch);
             if (map.containsKey(s)){
-                List<String> list = res.get(map.get(s)-1);
                 // res.get 是指 get ArrayList index 位置
-                list.add(str);
+                res.get(map.get(s)-1).add(str);
             }else{
                 List<String> list = new ArrayList<>();
                 list.add(str);
