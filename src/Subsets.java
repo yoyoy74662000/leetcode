@@ -34,7 +34,7 @@ public class Subsets {
     }
 
     public static void helper(List<List<Integer>> res, List<Integer> list, int[]nums, int index){
-        //List<Integer> temp = new ArrayList<>(list);
+        if(index > nums.length) return;
         res.add(new ArrayList<>(list));
         for (int i = index; i < nums.length; i++){
             list.add(nums[i]);
