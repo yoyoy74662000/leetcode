@@ -18,15 +18,15 @@
 
  Input:
  [
- [0,1,2,0],
- [3,4,5,2],
+ [1,1,1,1],
+ [3,4,0,2],
  [1,3,1,5]
  ]
  Output:
  [
+ [1,1,0,1],
  [0,0,0,0],
- [0,4,5,0],
- [0,3,1,0]
+ [1,3,0,5]
  ]
  */
 
@@ -36,47 +36,45 @@
 
 public class SetMatrixZeroes {
     public void setZeroes(int[][] matrix) {
-        if(matrix == null || matrix.length == 0) return;
+        if (matrix == null || matrix.length == 0) return;
         int m = matrix.length;
         int n = matrix[0].length;
         boolean row = false;
         boolean col = false;
-
-        for(int i = 0; i < m; i++){
-            for(int j = 0; j < n; j++){
-                if(matrix[i][j] == 0){
-                    matrix[i][0] = 0;
-                    matrix[0][j] = 0;
-                    if(i == 0) row = true;
-                    if(j == 0) col = true;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (matrix[i][j] == 0) {
+                    matrix[0][j] = 0; // 先標記端點
+                    matrix[i][0] = 0; // 先標記端點
+                    if (i == 0) row = true;
+                    if (j == 0) col = true;
                 }
             }
         }
-
-        for(int i = 1; i < m; i++){
-            if(matrix[i][0] == 0){
-                for(int j = 0; j < n; j++){
+        // 從端點往下
+        for (int i = 1; i < m; i++) {
+            if (matrix[i][0] == 0) {
+                for (int j = 1; j < n; j++) {
                     matrix[i][j] = 0;
                 }
             }
         }
 
-        for(int j = 1; j < n; j++){
-            if(matrix[0][j] == 0){
-                for(int i = 0; i < m; i++){
+        // 從端點往右
+        for (int j = 1; j < n; j++) {
+            if (matrix[0][j] == 0) {
+                for (int i = 1; i < m; i++) {
                     matrix[i][j] = 0;
                 }
             }
         }
-
-        if(row){
-            for(int j = 0; j < n; j++){
+        if (row) {
+            for (int j = 0; j < n; j++) {
                 matrix[0][j] = 0;
             }
         }
-
-        if(col){
-            for(int i = 0; i < m; i++){
+        if (col) {
+            for (int i = 0; i < m; i++) {
                 matrix[i][0] = 0;
             }
         }
