@@ -51,6 +51,7 @@ public class BinaryTreeRightSideView2 {
                 // TreeNode 必須在 for loop 裡面
                 TreeNode cur = queue.poll();
                 if(i == 0) res.add(cur.val);
+                // i = 0 就是最右邊的node
                 if(cur.right != null) queue.offer(cur.right);
                 if(cur.left != null) queue.offer(cur.left);
             }
