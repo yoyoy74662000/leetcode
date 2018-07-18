@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/CountPrimes.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/BinaryTreeRightSideView.java" afterPath="$PROJECT_DIR$/src/BinaryTreeRightSideView.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +25,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryTreeRightSideView.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BinaryTreeRightSideView.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BinaryTreeRightSideView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="523">
+            <state relative-caret-position="423">
               <caret line="53" column="35" lean-forward="false" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CountPrimes.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CountPrimes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -60,7 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ImplementQueueusingStacks.java" />
         <option value="$PROJECT_DIR$/src/ContainerWithMostWater.java" />
         <option value="$PROJECT_DIR$/src/threeSumClosest.java" />
         <option value="$PROJECT_DIR$/src/FourSum.java" />
@@ -111,6 +120,7 @@
         <option value="$PROJECT_DIR$/src/PascalsTriangleII.java" />
         <option value="$PROJECT_DIR$/src/WordLadder.java" />
         <option value="$PROJECT_DIR$/src/BinaryTreeRightSideView.java" />
+        <option value="$PROJECT_DIR$/src/CountPrimes.java" />
       </list>
     </option>
   </component>
@@ -158,8 +168,7 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BinaryTreeRightSideView.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -386,14 +395,7 @@
       <workItem from="1528147608193" duration="2230000" />
       <workItem from="1528156738423" duration="119000" />
       <workItem from="1528260870084" duration="168000" />
-      <workItem from="1528345563831" duration="105910000" />
-    </task>
-    <task id="LOCAL-00410" summary="add new solution">
-      <created>1528835392235</created>
-      <option name="number" value="00410" />
-      <option name="presentableId" value="LOCAL-00410" />
-      <option name="project" value="LOCAL" />
-      <updated>1528835392235</updated>
+      <workItem from="1528345563831" duration="106461000" />
     </task>
     <task id="LOCAL-00411" summary="add new solution">
       <created>1528908769464</created>
@@ -731,11 +733,18 @@
       <option name="project" value="LOCAL" />
       <updated>1531793297864</updated>
     </task>
-    <option name="localTasksCounter" value="459" />
+    <task id="LOCAL-00459" summary="add new solution">
+      <created>1531947332525</created>
+      <option name="number" value="00459" />
+      <option name="presentableId" value="LOCAL-00459" />
+      <option name="project" value="LOCAL" />
+      <updated>1531947332525</updated>
+    </task>
+    <option name="localTasksCounter" value="460" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="447562000" />
+    <option name="totallyTimeSpent" value="448113000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -877,14 +886,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BinaryTreeUpsideDown.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/KthLargestElementinanArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
@@ -1282,8 +1283,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BinaryTreeRightSideView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
+        <state relative-caret-position="423">
           <caret line="53" column="35" lean-forward="false" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CountPrimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
           <folding />
         </state>
       </provider>
