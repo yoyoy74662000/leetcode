@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/CountPrimes.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/CountPrimes.java" afterPath="$PROJECT_DIR$/src/CountPrimes.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,8 +38,8 @@
       <file leaf-file-name="CountPrimes.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CountPrimes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            <state relative-caret-position="289">
+              <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -395,14 +395,7 @@
       <workItem from="1528147608193" duration="2230000" />
       <workItem from="1528156738423" duration="119000" />
       <workItem from="1528260870084" duration="168000" />
-      <workItem from="1528345563831" duration="106461000" />
-    </task>
-    <task id="LOCAL-00411" summary="add new solution">
-      <created>1528908769464</created>
-      <option name="number" value="00411" />
-      <option name="presentableId" value="LOCAL-00411" />
-      <option name="project" value="LOCAL" />
-      <updated>1528908769464</updated>
+      <workItem from="1528345563831" duration="106511000" />
     </task>
     <task id="LOCAL-00412" summary="add new solution">
       <created>1529076200429</created>
@@ -740,11 +733,18 @@
       <option name="project" value="LOCAL" />
       <updated>1531947332525</updated>
     </task>
-    <option name="localTasksCounter" value="460" />
+    <task id="LOCAL-00460" summary="add new solution">
+      <created>1531950402474</created>
+      <option name="number" value="00460" />
+      <option name="presentableId" value="LOCAL-00460" />
+      <option name="project" value="LOCAL" />
+      <updated>1531950402474</updated>
+    </task>
+    <option name="localTasksCounter" value="461" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="448113000" />
+    <option name="totallyTimeSpent" value="448163000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -1291,8 +1291,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CountPrimes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="6" lean-forward="false" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        <state relative-caret-position="289">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
           <folding />
         </state>
       </provider>
