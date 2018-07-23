@@ -1,9 +1,22 @@
 /**
  * Reverse a singly linked list.
+ * Input: 1->2->3->4->5->NULL
+ * Output: 5->4->3->2->1->NULL
  *
  *
  *
- *
+ 1->2->3->4->5->NULL
+    T
+ 1->null  2->3->4->5->NULL
+          T
+ 1->null  2->3->4->5->NULL
+ p        T
+ 1->null  2->3->4->5->NULL
+ p        h
+ 1->null  2->3->4->5->NULL
+ p        h  T
+ 2->1->null  3->4->5->NULL
+ p           h
  */
 
 // time : O(n)
