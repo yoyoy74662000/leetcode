@@ -19,10 +19,11 @@ public class PalindromeLinkedList {
     public boolean isPalindrome(ListNode head) {
         if(head == null) return true;
         ListNode middle = findmiddle(head);
-        middle.next = reverse(middle.next);
+        ListNode secondhead = reverse(middle.next);
+        middle.next = null;
 
         ListNode p = head;
-        ListNode q = middle.next;
+        ListNode q = secondhead;
         while(p != null && q != null){
             if(p.val != q.val){
                 return false;
