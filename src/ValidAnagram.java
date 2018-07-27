@@ -20,7 +20,9 @@ public class ValidAnagram {
         char[] str2 = t.toCharArray();
         Arrays.sort(str1);
         Arrays.sort(str2);
-
+//        array1.equals(array2) is the same as array1 == array2, i.e. is it the same array.
+//        As @alf points out it's not what most people expect.
+//        Arrays.equals(array1, array2) compares the contents of the arrays.
         return Arrays.equals(str1,str2);
     }
 }

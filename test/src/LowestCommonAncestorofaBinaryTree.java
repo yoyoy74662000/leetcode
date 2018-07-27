@@ -38,8 +38,8 @@ public class LowestCommonAncestorofaBinaryTree {
         n1.right = n3;
         n2.left = n4;
         n2.right = n5;
-        n3.left = n6;
-        n3.right = n7;
+        n4.left = n6;
+        n4.right = n7;
 
         System.out.println(lowestCommonAncestor(n1, n2, n7).val);
     }
