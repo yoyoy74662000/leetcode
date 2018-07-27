@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/test2/src/mergetwobianrytree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/test2/test2.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/JewelsandStones.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/MergeTwoBinaryTrees.java" afterPath="$PROJECT_DIR$/src/MergeTwoBinaryTrees.java" />
-      <change beforePath="$PROJECT_DIR$/src/ValidAnagram.java" afterPath="$PROJECT_DIR$/src/ValidAnagram.java" />
-      <change beforePath="$PROJECT_DIR$/test/src/LowestCommonAncestorofaBinaryTree.java" afterPath="$PROJECT_DIR$/test/src/LowestCommonAncestorofaBinaryTree.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,11 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="mergetwobianrytree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="mergetwobianrytree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test2/src/mergetwobianrytree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-40">
               <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JewelsandStones.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/JewelsandStones.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -55,7 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/CombinationSumII.java" />
         <option value="$PROJECT_DIR$/src/JumpGame.java" />
         <option value="$PROJECT_DIR$/src/SpiralMatrixII.java" />
         <option value="$PROJECT_DIR$/src/UniquePaths.java" />
@@ -106,6 +110,7 @@
         <option value="$PROJECT_DIR$/src/MergeTwoBinaryTrees.java" />
         <option value="$PROJECT_DIR$/test/src/LowestCommonAncestorofaBinaryTree.java" />
         <option value="$PROJECT_DIR$/test2/src/mergetwobianrytree.java" />
+        <option value="$PROJECT_DIR$/src/JewelsandStones.java" />
       </list>
     </option>
   </component>
@@ -144,6 +149,11 @@
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -397,14 +407,7 @@
       <workItem from="1528147608193" duration="2230000" />
       <workItem from="1528156738423" duration="119000" />
       <workItem from="1528260870084" duration="168000" />
-      <workItem from="1528345563831" duration="114911000" />
-    </task>
-    <task id="LOCAL-00415" summary="add new solution">
-      <created>1529376782992</created>
-      <option name="number" value="00415" />
-      <option name="presentableId" value="LOCAL-00415" />
-      <option name="project" value="LOCAL" />
-      <updated>1529376782992</updated>
+      <workItem from="1528345563831" duration="115160000" />
     </task>
     <task id="LOCAL-00416" summary="add new solution">
       <created>1529383378820</created>
@@ -742,11 +745,18 @@
       <option name="project" value="LOCAL" />
       <updated>1532384773270</updated>
     </task>
-    <option name="localTasksCounter" value="464" />
+    <task id="LOCAL-00464" summary="add new solution">
+      <created>1532724092137</created>
+      <option name="number" value="00464" />
+      <option name="presentableId" value="LOCAL-00464" />
+      <option name="project" value="LOCAL" />
+      <updated>1532724092137</updated>
+    </task>
+    <option name="localTasksCounter" value="465" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="456563000" />
+    <option name="totallyTimeSpent" value="456812000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -888,14 +898,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/PopulatingNextRightPointersinEachNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="587">
-          <caret line="36" column="13" lean-forward="false" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CountCompleteTreeNodes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="842">
@@ -1295,6 +1297,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-40">
           <caret line="15" column="24" lean-forward="false" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JewelsandStones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
           <folding />
         </state>
       </provider>
