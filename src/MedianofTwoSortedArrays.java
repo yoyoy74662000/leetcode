@@ -2,6 +2,7 @@
  * time :O(m+n)
  * space :O(n)
  *
+ * don't know O(log(m+n))
  *
  */
 public class MedianofTwoSortedArrays {
