@@ -28,8 +28,8 @@
       <file leaf-file-name="MedianofTwoSortedArrays.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MedianofTwoSortedArrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+            <state relative-caret-position="142">
+              <caret line="41" column="5" lean-forward="false" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -426,14 +426,7 @@
       <workItem from="1528156738423" duration="119000" />
       <workItem from="1528260870084" duration="168000" />
       <workItem from="1528345563831" duration="115169000" />
-      <workItem from="1533098540962" duration="5937000" />
-    </task>
-    <task id="LOCAL-00419" summary="add new solution">
-      <created>1529466939024</created>
-      <option name="number" value="00419" />
-      <option name="presentableId" value="LOCAL-00419" />
-      <option name="project" value="LOCAL" />
-      <updated>1529466939024</updated>
+      <workItem from="1533098540962" duration="6025000" />
     </task>
     <task id="LOCAL-00420" summary="add new solution">
       <created>1529471171617</created>
@@ -771,11 +764,18 @@
       <option name="project" value="LOCAL" />
       <updated>1533252101379</updated>
     </task>
-    <option name="localTasksCounter" value="468" />
+    <task id="LOCAL-00468" summary="add new solution">
+      <created>1533252161498</created>
+      <option name="number" value="00468" />
+      <option name="presentableId" value="LOCAL-00468" />
+      <option name="project" value="LOCAL" />
+      <updated>1533252161498</updated>
+    </task>
+    <option name="localTasksCounter" value="469" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="462758000" />
+    <option name="totallyTimeSpent" value="462846000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -1282,8 +1282,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MedianofTwoSortedArrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="7" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
+        <state relative-caret-position="142">
+          <caret line="41" column="5" lean-forward="false" selection-start-line="41" selection-start-column="5" selection-end-line="41" selection-end-column="5" />
           <folding />
         </state>
       </provider>
