@@ -1,4 +1,6 @@
 /**
+ * Given a sorted array nums, remove the duplicates in-place such
+ * that duplicates appeared at most twice and return the new length.
  * For example,
  * Given sorted array nums = [1,1,1,2,2,3],
  * Your function should return length = 5,

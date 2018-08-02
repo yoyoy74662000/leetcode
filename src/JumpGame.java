@@ -25,6 +25,5 @@ public class JumpGame {
             max = Math.max(nums[i] + i, max);
         }
         return true;
-
     }
 }
