@@ -18,14 +18,15 @@ public class LongestPalindromicSubstring {
         if (s ==null || s.length() == 0) return null;
         for (int i = 0; i < s.length(); i++){
             //odd
-            helper(s, i, i);
+            helper(s, i, i); //assume odd length, try to extend Palindrome as possible
             //even
-            helper(s, i, i + 1);
+            helper(s, i, i + 1);//assume even length.
         }
         return res;
     }
 
     public static void helper(String s, int left, int right){
+        //又中心點 left--, right++ 去看兩側有沒有一樣
         while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)){
             left--;
             right++;
