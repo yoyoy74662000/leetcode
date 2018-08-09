@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/OneEditDistance.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/PalindromePermutation.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -35,12 +35,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OneEditDistance.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="OneEditDistance.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/OneEditDistance.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="478">
               <caret line="41" column="73" lean-forward="false" selection-start-line="41" selection-start-column="73" selection-end-line="41" selection-end-column="73" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PalindromePermutation.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PalindromePermutation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+              <folding>
+                <element signature="e#276#287#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -70,7 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ContiguousArray.java" />
         <option value="$PROJECT_DIR$/src/SubarraySumEqualsK.java" />
         <option value="$PROJECT_DIR$/src/SwapNodesinPairs.java" />
         <option value="$PROJECT_DIR$/src/RotateList.java" />
@@ -121,6 +132,7 @@
         <option value="$PROJECT_DIR$/src/ValidPalindrome.java" />
         <option value="$PROJECT_DIR$/src/ReverseWordsinaString.java" />
         <option value="$PROJECT_DIR$/src/OneEditDistance.java" />
+        <option value="$PROJECT_DIR$/src/PalindromePermutation.java" />
       </list>
     </option>
   </component>
@@ -466,14 +478,7 @@
       <workItem from="1528156738423" duration="119000" />
       <workItem from="1528260870084" duration="168000" />
       <workItem from="1528345563831" duration="115169000" />
-      <workItem from="1533098540962" duration="20442000" />
-    </task>
-    <task id="LOCAL-00429" summary="add new solution">
-      <created>1530314563142</created>
-      <option name="number" value="00429" />
-      <option name="presentableId" value="LOCAL-00429" />
-      <option name="project" value="LOCAL" />
-      <updated>1530314563142</updated>
+      <workItem from="1533098540962" duration="20875000" />
     </task>
     <task id="LOCAL-00430" summary="add new solution">
       <created>1530383629280</created>
@@ -811,11 +816,18 @@
       <option name="project" value="LOCAL" />
       <updated>1533755204113</updated>
     </task>
-    <option name="localTasksCounter" value="478" />
+    <task id="LOCAL-00478" summary="add new solution">
+      <created>1533839386979</created>
+      <option name="number" value="00478" />
+      <option name="presentableId" value="LOCAL-00478" />
+      <option name="project" value="LOCAL" />
+      <updated>1533839386979</updated>
+    </task>
+    <option name="localTasksCounter" value="479" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="477263000" />
+    <option name="totallyTimeSpent" value="477696000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -957,14 +969,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/KthLargestElementinanArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="512">
-          <caret line="70" column="30" lean-forward="true" selection-start-line="59" selection-start-column="7" selection-end-line="70" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LowestCommonAncestorofaBinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="490">
@@ -1357,6 +1361,16 @@
         <state relative-caret-position="478">
           <caret line="41" column="73" lean-forward="false" selection-start-line="41" selection-start-column="73" selection-end-line="41" selection-end-column="73" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PalindromePermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+          <folding>
+            <element signature="e#276#287#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
