@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/ReverseWordsinaString.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/OneEditDistance.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/ValidPalindrome.java" afterPath="$PROJECT_DIR$/src/ValidPalindrome.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,11 +25,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReverseWordsinaString.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ReverseWordsinaString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ReverseWordsinaString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
               <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OneEditDistance.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/OneEditDistance.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="478">
+              <caret line="41" column="73" lean-forward="false" selection-start-line="41" selection-start-column="73" selection-end-line="41" selection-end-column="73" />
               <folding />
             </state>
           </provider>
@@ -61,7 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/InsertDeleteGetRandom.java" />
         <option value="$PROJECT_DIR$/src/ContiguousArray.java" />
         <option value="$PROJECT_DIR$/src/SubarraySumEqualsK.java" />
         <option value="$PROJECT_DIR$/src/SwapNodesinPairs.java" />
@@ -112,6 +120,7 @@
         <option value="$PROJECT_DIR$/src/LongestValidParentheses.java" />
         <option value="$PROJECT_DIR$/src/ValidPalindrome.java" />
         <option value="$PROJECT_DIR$/src/ReverseWordsinaString.java" />
+        <option value="$PROJECT_DIR$/src/OneEditDistance.java" />
       </list>
     </option>
   </component>
@@ -457,14 +466,7 @@
       <workItem from="1528156738423" duration="119000" />
       <workItem from="1528260870084" duration="168000" />
       <workItem from="1528345563831" duration="115169000" />
-      <workItem from="1533098540962" duration="20037000" />
-    </task>
-    <task id="LOCAL-00428" summary="add new solution">
-      <created>1530311598817</created>
-      <option name="number" value="00428" />
-      <option name="presentableId" value="LOCAL-00428" />
-      <option name="project" value="LOCAL" />
-      <updated>1530311598817</updated>
+      <workItem from="1533098540962" duration="20442000" />
     </task>
     <task id="LOCAL-00429" summary="add new solution">
       <created>1530314563142</created>
@@ -802,11 +804,18 @@
       <option name="project" value="LOCAL" />
       <updated>1533704174288</updated>
     </task>
-    <option name="localTasksCounter" value="477" />
+    <task id="LOCAL-00477" summary="add new solution">
+      <created>1533755204113</created>
+      <option name="number" value="00477" />
+      <option name="presentableId" value="LOCAL-00477" />
+      <option name="project" value="LOCAL" />
+      <updated>1533755204113</updated>
+    </task>
+    <option name="localTasksCounter" value="478" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="476858000" />
+    <option name="totallyTimeSpent" value="477263000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -948,13 +957,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BinaryTreeRightSideView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="53" column="35" lean-forward="false" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/KthLargestElementinanArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="512">
@@ -1346,6 +1348,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/OneEditDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="478">
+          <caret line="41" column="73" lean-forward="false" selection-start-line="41" selection-start-column="73" selection-end-line="41" selection-end-column="73" />
           <folding />
         </state>
       </provider>
