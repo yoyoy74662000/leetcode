@@ -15,10 +15,10 @@
 
 public class TwoSumIInputarrayissorted {
     public int[] twoSum(int[] numbers, int target) {
-        if(numbers ==null || numbers.length<2){
-            return new int[]{-1,-1};
-        }
         int res[] = new int[]{-1,-1};
+        if(numbers ==null || numbers.length<2) {
+            return res;
+        }
         Arrays.sort(numbers);
         HashMap<Integer,Integer> map = new HashMap<>();
         for(int i =0; i<numbers.length; i++){

@@ -23,7 +23,7 @@ public class threeSum {
     public List<List<Integer>> threeSum(int[] nums) {
         List<List<Integer>> res = new ArrayList<>();
         if(nums == null || nums.length == 0) return res;
-        Arrays.sort(nums);
+        Arrays.sort(nums); // [-1, -1, 0, 1, 2],
         for (int i = 0; i < nums.length - 2; i++){
             // i > 0 是因為 要從 i = 0 開始算
             if(i > 0 && nums[i] == nums[i-1]) continue;
