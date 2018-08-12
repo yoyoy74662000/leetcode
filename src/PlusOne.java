@@ -21,7 +21,7 @@ public class PlusOne {
             }
         }
 
-        int[] res = new int[digits.length + 1];
+        int[] res = new int[digits.length + 1]; // [9,9,9]
         res[0] = 1;
 
         return res;

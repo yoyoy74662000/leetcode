@@ -33,11 +33,9 @@ public class twosum {
                 break;
             }
             //step 2
-            map.put(nums[i], i);
+            map.add(nums[i], i);
         }
         return res;
-
-
     }
 }
 
