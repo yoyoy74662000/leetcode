@@ -40,14 +40,14 @@ public class BinaryTreePostorderTraversal {
 
 public class BinaryTreePostorderTraversal2 {
     public List<Integer> postorderTraversal(TreeNode root) {
-        LinkedList<Integer> ans = new LinkedList<>();
+        ArrayList<Integer> ans = new ArrayList<>();
         Stack<TreeNode> stack = new Stack<>();
         if (root == null) return ans;
 
         stack.push(root);
         while (!stack.isEmpty()) {
             TreeNode cur = stack.pop();
-            ans.addFirst(cur.val);
+            ans.add(0,cur.val);
             if (cur.left != null) {
                 stack.push(cur.left);
             }

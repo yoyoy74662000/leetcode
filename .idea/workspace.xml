@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/BinaryTreePreorderTraversal.java" afterPath="$PROJECT_DIR$/src/BinaryTreePreorderTraversal.java" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryTreePostorderTraversal.java" afterPath="$PROJECT_DIR$/src/BinaryTreePostorderTraversal.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +25,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinaryTreePreorderTraversal.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BinaryTreePreorderTraversal.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BinaryTreePreorderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+            <state relative-caret-position="309">
+              <caret line="31" column="19" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="31" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryTreePostorderTraversal.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BinaryTreePostorderTraversal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="33" column="58" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="33" selection-end-column="58" />
               <folding />
             </state>
           </provider>
@@ -60,7 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/SortList.java" />
         <option value="$PROJECT_DIR$/src/Combinations.java" />
         <option value="$PROJECT_DIR$/src/UniqueBinarySearchTrees.java" />
         <option value="$PROJECT_DIR$/src/KthSmallestElementinaBST.java" />
@@ -111,6 +120,7 @@
         <option value="$PROJECT_DIR$/src/FourSum.java" />
         <option value="$PROJECT_DIR$/src/TwoSumIInputarrayissorted.java" />
         <option value="$PROJECT_DIR$/src/BinaryTreePreorderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/BinaryTreePostorderTraversal.java" />
       </list>
     </option>
   </component>
@@ -174,6 +184,12 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="BinaryTreeLevelOrderTraversalII.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BinaryTreePostorderTraversal.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -421,14 +437,7 @@
       <workItem from="1528156738423" duration="119000" />
       <workItem from="1528260870084" duration="168000" />
       <workItem from="1528345563831" duration="115169000" />
-      <workItem from="1533098540962" duration="30797000" />
-    </task>
-    <task id="LOCAL-00434" summary="add new solution">
-      <created>1530565265743</created>
-      <option name="number" value="00434" />
-      <option name="presentableId" value="LOCAL-00434" />
-      <option name="project" value="LOCAL" />
-      <updated>1530565265743</updated>
+      <workItem from="1533098540962" duration="31546000" />
     </task>
     <task id="LOCAL-00435" summary="add new solution">
       <created>1530650715014</created>
@@ -766,11 +775,18 @@
       <option name="project" value="LOCAL" />
       <updated>1534106766213</updated>
     </task>
-    <option name="localTasksCounter" value="483" />
+    <task id="LOCAL-00483" summary="add new solution">
+      <created>1534178321922</created>
+      <option name="number" value="00483" />
+      <option name="presentableId" value="LOCAL-00483" />
+      <option name="project" value="LOCAL" />
+      <updated>1534178321924</updated>
+    </task>
+    <option name="localTasksCounter" value="484" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="487618000" />
+    <option name="totallyTimeSpent" value="488367000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -912,14 +928,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/RotateArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="517">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="25" selection-start-column="8" selection-end-line="39" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MedianofTwoSortedArrays.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
@@ -1316,8 +1324,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BinaryTreePreorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="35" lean-forward="false" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+        <state relative-caret-position="309">
+          <caret line="31" column="19" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="31" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTreePostorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="33" column="58" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="33" selection-end-column="58" />
           <folding />
         </state>
       </provider>
