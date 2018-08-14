@@ -25,17 +25,18 @@
 
 public class SumRoottoLeafNumbers {
     public int sumNumbers(TreeNode root) {
-        return helper(root, 0);
+        if(root == null) return 0;
+        int sum = 0;
+        return helper(root, sum);
     }
 
-    public static int helper(TreeNode root, int sum) {
-        if (root == null) return 0;
-
+    public int helper(TreeNode root, int sum){
+        if(root == null) return 0;
         sum = sum * 10 + root.val;
-
-        if (root.left == null && root.right == null) {
+        if(root.left == null && root.right == null){
             return sum;
         }
+
         int left = helper(root.left, sum);
         int right = helper(root.right, sum);
 
