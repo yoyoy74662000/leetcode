@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/BinaryTreeZigzagLevelOrderTraversal.java" afterPath="$PROJECT_DIR$/src/BinaryTreeZigzagLevelOrderTraversal.java" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryTreeLevelOrderTraversal.java" afterPath="$PROJECT_DIR$/src/BinaryTreeLevelOrderTraversal.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BinaryTreeZigzagLevelOrderTraversal.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/BinaryTreeZigzagLevelOrderTraversal.java">
+      <file leaf-file-name="BinaryTreeLevelOrderTraversal.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BinaryTreeLevelOrderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="599">
-              <caret line="66" column="5" lean-forward="true" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+            <state relative-caret-position="518">
+              <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -50,7 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/StringtoInteger.java" />
         <option value="$PROJECT_DIR$/src/LetterCombinationsofaPhoneNumber.java" />
         <option value="$PROJECT_DIR$/src/MergeTwoSortedLists.java" />
         <option value="$PROJECT_DIR$/src/MergekSortedLists.java" />
@@ -101,6 +100,7 @@
         <option value="$PROJECT_DIR$/src/MaximumDepthofBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/BinaryTreeMaximumPathSum.java" />
         <option value="$PROJECT_DIR$/src/BinaryTreeZigzagLevelOrderTraversal.java" />
+        <option value="$PROJECT_DIR$/src/BinaryTreeLevelOrderTraversal.java" />
       </list>
     </option>
   </component>
@@ -151,7 +151,7 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MinimumDepthofBinaryTree.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="BinaryTreeLevelOrderTraversal.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
@@ -393,14 +393,7 @@
       <workItem from="1528156738423" duration="119000" />
       <workItem from="1528260870084" duration="168000" />
       <workItem from="1528345563831" duration="115169000" />
-      <workItem from="1533098540962" duration="39929000" />
-    </task>
-    <task id="LOCAL-00442" summary="add new solution">
-      <created>1531110111827</created>
-      <option name="number" value="00442" />
-      <option name="presentableId" value="LOCAL-00442" />
-      <option name="project" value="LOCAL" />
-      <updated>1531110111827</updated>
+      <workItem from="1533098540962" duration="40699000" />
     </task>
     <task id="LOCAL-00443" summary="add new solution">
       <created>1531356276525</created>
@@ -738,11 +731,18 @@
       <option name="project" value="LOCAL" />
       <updated>1534384685179</updated>
     </task>
-    <option name="localTasksCounter" value="491" />
+    <task id="LOCAL-00491" summary="add new solution">
+      <created>1534385297885</created>
+      <option name="number" value="00491" />
+      <option name="presentableId" value="LOCAL-00491" />
+      <option name="project" value="LOCAL" />
+      <updated>1534385297885</updated>
+    </task>
+    <option name="localTasksCounter" value="492" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="496750000" />
+    <option name="totallyTimeSpent" value="497520000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
@@ -1142,14 +1142,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinaryTreeLevelOrderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="29" column="8" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/BinaryTreePreorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
@@ -1162,14 +1154,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
           <caret line="33" column="58" lean-forward="true" selection-start-line="30" selection-start-column="12" selection-end-line="33" selection-end-column="58" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinaryTreeInorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-233">
-          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -1288,8 +1272,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BinaryTreeZigzagLevelOrderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="66" column="5" lean-forward="true" selection-start-line="66" selection-start-column="5" selection-end-line="66" selection-end-column="5" />
+        <state relative-caret-position="528">
+          <caret line="63" column="12" lean-forward="false" selection-start-line="63" selection-start-column="12" selection-end-line="63" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTreeInorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTreeLevelOrderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
           <folding />
         </state>
       </provider>
