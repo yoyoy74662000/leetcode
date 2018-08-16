@@ -35,8 +35,13 @@ public class BinaryTreeZigzagLevelOrderTraversal {
         List<List<Integer>> res = new ArrayList<>();
         if(root == null) return res;
         Queue<TreeNode> queue = new LinkedList<>();
-        queue.offer(root);
+        helper(res, queue, root);
+        return res;
+    }
+
+    public void helper(List<List<Integer>> res, Queue<TreeNode> queue, TreeNode root){
         boolean x = true;
+        queue.offer(root);
         while(!queue.isEmpty()){
             int size = queue.size();
             List<Integer> list = new ArrayList<>();
@@ -46,7 +51,7 @@ public class BinaryTreeZigzagLevelOrderTraversal {
                 if(x){
                     list.add(cur.val);
                 }else{
-                //如果是false的話 由右到左
+                    //如果是false的話 由右到左
                     list.add(0,cur.val);
                 }
                 if(cur.left != null){
@@ -59,6 +64,5 @@ public class BinaryTreeZigzagLevelOrderTraversal {
             x = x ? false : true;
             res.add(list);
         }
-        return res;
     }
 }
