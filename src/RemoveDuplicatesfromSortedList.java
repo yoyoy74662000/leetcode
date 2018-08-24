@@ -26,3 +26,18 @@ public class RemoveDuplicatesfromSortedList {
         return head;
     }
 }
+
+public class RemoveDuplicatesfromSortedList {
+    public ListNode deleteDuplicates(ListNode head) {
+        if (head == null) return null;
+        ListNode cur = head;
+        while (cur != null && cur.next != null) {
+            if (cur.val != cur.next.val) {
+                cur = cur.next;
+            } else {
+                cur.next = cur.next.next;
+            }
+        }
+        return head;
+    }
+}
