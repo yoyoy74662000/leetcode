@@ -22,8 +22,8 @@ public class SwapNodesinPairs {
             //每執行一個迴圈，重新定義prev, first, second
             ListNode first = prev.next;
             ListNode second = prev.next.next;
-            first.next = second.next;
             prev.next = second;
+            first.next = second.next;
             second.next = first;
             prev = prev.next.next;
         }

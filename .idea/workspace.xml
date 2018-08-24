@@ -18,8 +18,8 @@
       <file leaf-file-name="SwapNodesinPairs.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SwapNodesinPairs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="32" lean-forward="false" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+            <state relative-caret-position="459">
+              <caret line="27" column="23" lean-forward="false" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -402,14 +402,7 @@
       <workItem from="1533098540962" duration="46277000" />
       <workItem from="1534713049323" duration="4219000" />
       <workItem from="1534973937488" duration="73000" />
-      <workItem from="1534996546260" duration="4373000" />
-    </task>
-    <task id="LOCAL-00452" summary="add new solution">
-      <created>1531592995873</created>
-      <option name="number" value="00452" />
-      <option name="presentableId" value="LOCAL-00452" />
-      <option name="project" value="LOCAL" />
-      <updated>1531592995873</updated>
+      <workItem from="1534996546260" duration="4480000" />
     </task>
     <task id="LOCAL-00453" summary="add new solution">
       <created>1531620598770</created>
@@ -747,11 +740,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535092135782</updated>
     </task>
-    <option name="localTasksCounter" value="501" />
+    <task id="LOCAL-00501" summary="add new solution">
+      <created>1535093744722</created>
+      <option name="number" value="00501" />
+      <option name="presentableId" value="LOCAL-00501" />
+      <option name="project" value="LOCAL" />
+      <updated>1535093744722</updated>
+    </task>
+    <option name="localTasksCounter" value="502" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="511763000" />
+    <option name="totallyTimeSpent" value="511870000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1052" extended-state="6" />
@@ -1271,8 +1271,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SwapNodesinPairs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="32" lean-forward="false" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+        <state relative-caret-position="459">
+          <caret line="27" column="23" lean-forward="false" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
           <folding />
         </state>
       </provider>
