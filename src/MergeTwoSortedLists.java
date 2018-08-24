@@ -48,6 +48,7 @@ public class MergeTwoSortedLists2 {
             }
             cur = cur.next;
         }
+        //這是為了看誰先走完
         if(p != null){
             cur.next = p;
         }else{
