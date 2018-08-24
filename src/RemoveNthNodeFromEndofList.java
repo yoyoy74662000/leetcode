@@ -27,3 +27,24 @@ public class RemoveNthNodeFromEndofList {
         return dummy.next;
     }
 }
+
+public class RemoveNthNodeFromEndofList2 {
+    public ListNode removeNthFromEnd(ListNode head, int n) {
+        if(head == null) return null;
+        int count = 0;
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+        ListNode cur = dummy;
+
+        while(head != null){
+            count++;
+            head = head.next;
+
+        }
+        for(int i = 0; i < count - n; i++){
+            cur = cur.next;
+        }
+        cur.next = cur.next.next;
+        return dummy.next;
+    }
+}
