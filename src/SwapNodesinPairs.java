@@ -24,7 +24,7 @@ public class SwapNodesinPairs {
             ListNode second = prev.next.next;
             first.next = second.next;
             prev.next = second;
-            prev.next.next = first;
+            second.next = first;
             prev = prev.next.next;
         }
         return dummy.next;
