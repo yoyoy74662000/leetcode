@@ -33,27 +33,37 @@ public class MergeTwoSortedLists {
 // dummy 方法
 public class MergeTwoSortedLists2 {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
+        if(l1 == null && l2 == null) return null;
+        ListNode dummy = new ListNode(0);
+        ListNode current = dummy;
+        current.next = merge(l1, l2);
+        return dummy.next;
+    }
+    public ListNode merge(ListNode l1, ListNode l2){
+
+        ListNode p = l1, q = l2;
         ListNode dummy = new ListNode(0);
         ListNode cur = dummy;
-        ListNode p = l1;
-        ListNode q = l2;
+
         while(p != null && q != null){
             if(p.val < q.val){
                 cur.next = new ListNode(p.val);
                 p = p.next;
             }
+
             else{
                 cur.next = new ListNode(q.val);
                 q = q.next;
             }
+
             cur = cur.next;
         }
-        //這是為了看誰先走完
         if(p != null){
             cur.next = p;
         }else{
             cur.next = q;
         }
+
         return dummy.next;
     }
 }
