@@ -40,7 +40,7 @@ public class RotateList {
         for(int i = 1; i < len - k%len; i++){
             head = head.next;
         }
-        ListNode res = head.next;
+        ListNode res = head.next; //特別要注意這行
         head.next = null;
         return res;
     }
