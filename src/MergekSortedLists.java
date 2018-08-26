@@ -16,16 +16,19 @@
 public class MergekSortedLists {
     public ListNode mergeKLists(ListNode[] lists) {
         if(lists == null) return null;
+        int len = lists.length;
+        if(len == 0) return null;
         ListNode dummy = new ListNode(0);
-        ListNode current = dummy;
         dummy.next = lists[0];
-        for(int i = 1; i < lists.length; i++){
+        ListNode current = dummy;
+
+        for(int i = 1; i < len; i++){
             current.next = merge(lists, dummy.next, lists[i]);
         }
         return dummy.next;
     }
 
-    public ListNode mergeTwoLists(ListNode l1, ListNode l2){
+    public ListNode mergeTwoLists(ListNode[] lists, ListNode l1, ListNode l2){
         ListNode dummy = new ListNode(0);
         ListNode cur = dummy;
         ListNode p = l1;

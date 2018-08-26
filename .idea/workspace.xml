@@ -18,8 +18,8 @@
       <file leaf-file-name="MergekSortedLists.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MergekSortedLists.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="696">
-              <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+            <state relative-caret-position="444">
+              <caret line="27" column="26" lean-forward="false" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -431,14 +431,7 @@
       <workItem from="1534713049323" duration="4219000" />
       <workItem from="1534973937488" duration="73000" />
       <workItem from="1534996546260" duration="7364000" />
-      <workItem from="1535167117242" duration="3447000" />
-    </task>
-    <task id="LOCAL-00456" summary="add new solution">
-      <created>1531688650514</created>
-      <option name="number" value="00456" />
-      <option name="presentableId" value="LOCAL-00456" />
-      <option name="project" value="LOCAL" />
-      <updated>1531688650514</updated>
+      <workItem from="1535167117242" duration="3834000" />
     </task>
     <task id="LOCAL-00457" summary="add new solution">
       <created>1531695440551</created>
@@ -776,11 +769,18 @@
       <option name="project" value="LOCAL" />
       <updated>1535264811814</updated>
     </task>
-    <option name="localTasksCounter" value="505" />
+    <task id="LOCAL-00505" summary="add new solution">
+      <created>1535319182311</created>
+      <option name="number" value="00505" />
+      <option name="presentableId" value="LOCAL-00505" />
+      <option name="project" value="LOCAL" />
+      <updated>1535319182311</updated>
+    </task>
+    <option name="localTasksCounter" value="506" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="518201000" />
+    <option name="totallyTimeSpent" value="518588000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1052" extended-state="6" />
@@ -1310,8 +1310,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MergekSortedLists.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="696">
-          <caret line="24" column="26" lean-forward="false" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        <state relative-caret-position="444">
+          <caret line="27" column="26" lean-forward="false" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
           <folding />
         </state>
       </provider>
