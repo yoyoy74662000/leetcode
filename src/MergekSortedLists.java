@@ -15,17 +15,13 @@
  */
 public class MergekSortedLists {
     public ListNode mergeKLists(ListNode[] lists) {
-        int len = lists.length;
-        if(len == 0) return null;
-
+        if(lists == null) return null;
         ListNode dummy = new ListNode(0);
+        ListNode current = dummy;
         dummy.next = lists[0];
-
-        for(int i = 1; i < len; i++) {
-            dummy.next = mergeTwoLists(dummy.next, lists[i]);
+        for(int i = 1; i < lists.length; i++){
+            current.next = merge(lists, dummy.next, lists[i]);
         }
-
-
         return dummy.next;
     }
 
