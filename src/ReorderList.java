@@ -53,16 +53,16 @@ public class ReorderList {
         return prev;
     }
 
-    public static ListNode merge(ListNode l1, ListNode l2){
-        while(l1 != null || l2 != null){
-            ListNode n1 = l1.next;
-            ListNode n2 = l2.next;
-            l1.next = l2;
+    public static ListNode merge(ListNode p, ListNode q){
+        while(p != null || q != null){
+            ListNode n1 = p.next;
+            ListNode n2 = q.next;
+            p.next = q;
             if(n1 == null) break;
-            l2.next = n1;
-            l1 = n1;
-            l2 = n2;
+            q.next = n1;
+            p = n1;
+            q = n2;
         }
-        return l1;
+        return p;
     }
 }
