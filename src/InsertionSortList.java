@@ -16,7 +16,7 @@ public class InsertionSortList {
         if(head == null || head.next == null) return head;
         ListNode dummy = new ListNode(0);
         dummy.next = head;
-        ListNode cur = head;
+        ListNode cur = dummy;
         ListNode prev = null, temp = null;
         while(cur != null && cur.next != null){
             // 看後者有沒有小於前者
