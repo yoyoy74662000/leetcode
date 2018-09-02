@@ -51,7 +51,7 @@ public class SetMatrixZeroes {
                 }
             }
         }
-        // 從端點往下
+        // 從端點往右
         for (int i = 1; i < m; i++) {
             if (matrix[i][0] == 0) {
                 for (int j = 1; j < n; j++) {
@@ -60,7 +60,7 @@ public class SetMatrixZeroes {
             }
         }
 
-        // 從端點往右
+        // 從端點往下
         for (int j = 1; j < n; j++) {
             if (matrix[0][j] == 0) {
                 for (int i = 1; i < m; i++) {
