@@ -33,7 +33,7 @@ public class SurroundedRegions {
         int m = board.length - 1; // row 長度
         int n = board[0].length -1; // col 長度
         // row 邊界
-        for(int i = 0; i <= m; i++){
+        for(int i = 0; i <= m; i++){ //最左右兩邊
             if(board[i][0] == 'O'){
                 dfs(board, i, 0);
             }
@@ -42,7 +42,7 @@ public class SurroundedRegions {
             }
         }
         // col 邊界
-        for(int i = 0; i <= n; i++){
+        for(int i = 0; i <= n; i++){ //最上下兩邊
             if(board[0][i] == 'O'){
                 dfs(board, 0, i);
             }
@@ -50,7 +50,7 @@ public class SurroundedRegions {
                 dfs(board, m, i);
             }
         }
-
+        // 遍歷Ｏ變成Ｘ
         for(int i = 0; i <= m; i++){
             for(int j = 0; j <= n; j++){
                 if(board[i][j] == 'O'){
