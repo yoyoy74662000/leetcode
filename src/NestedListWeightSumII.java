@@ -22,24 +22,28 @@ public class NestedListWeightSumII {
     public int depthSumInverse(List<NestedInteger> nestedList) {
         if(nestedList == null || nestedList.size() == 0) return 0;
         int h = helper(nestedList);
-        int res = getSum(nestedList, h);
+        return getSum(nestedList, h);
+    }
+    private int getSum(List<NestedInteger> nestedList, int layer) {
+        if(nestedList == null || nestedList.size() == 0) return 0;
+        int res = 0;
+        for(NestedInteger nest : nestedList) {
+            if(nest.isInteger()) {
+                res = res + nest.getInteger() * layer;
+            }
+            else res = res + getSum(nest.getList(), layer - 1);
+        }
         return res;
     }
-    private int getSum(List<NestedInteger> l, int layer) {
-        int sum = 0;
-        if(l == null || l.size() == 0) return sum;
-        for(NestedInteger n : l) {
-            if(n.isInteger()) sum += n.getInteger() * layer;
-            else sum += getSum(n.getList(), layer - 1);
-        }
-        return sum;
-    }
-    private int helper(List<NestedInteger> l) {
-        if(l == null || l.size() == 0) return 0;
+    private int helper(List<NestedInteger> nestedList) {
+        if(nestedList == null || nestedList.size() == 0) return 0;
         int max = 0;
-        for(NestedInteger n : l) {
-            if(n.isInteger()) max = Math.max(max, 1);
-            else max = Math.max(max, helper(n.getList()) + 1);
+        for(NestedInteger nest : nestedList){
+            if(nest.isInteger()){
+                max = Math.max(max,1);
+            }else{
+                max = Math.max(max, helper(nest.getList()) + 1);
+            }
         }
         return max;
     }
