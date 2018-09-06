@@ -27,6 +27,7 @@ public class FlattenNestedListIterator {
 
         @Override
         public Integer next() {
+
             return stack.pop().getInteger();
         }
 
