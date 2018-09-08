@@ -41,29 +41,34 @@ public class MergeTwoSortedLists2 {
     }
     public ListNode merge(ListNode l1, ListNode l2){
 
+        if(l1 == null && l2 == null) return null;
+        ListNode dummy = new ListNode(0);
+        ListNode cur = dummy;
+        cur.next = merger(l1,l2);
+        return dummy.next;
+    }
+
+    public static ListNode merger(ListNode l1, ListNode l2){
         ListNode p = l1, q = l2;
         ListNode dummy = new ListNode(0);
         ListNode cur = dummy;
 
         while(p != null && q != null){
-            if(p.val < q.val){
+            if(p.val <= q.val){
                 cur.next = new ListNode(p.val);
                 p = p.next;
-            }
-
-            else{
+                cur = cur.next;
+            }else{
                 cur.next = new ListNode(q.val);
                 q = q.next;
+                cur = cur.next;
             }
-
-            cur = cur.next;
         }
-        if(p != null){
-            cur.next = p;
-        }else{
+        if(p == null){
             cur.next = q;
+        }else{
+            cur.next = p;
         }
-
         return dummy.next;
     }
 }
