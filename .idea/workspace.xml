@@ -28,8 +28,8 @@
       <file leaf-file-name="MergeTwoSortedLists.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MergeTwoSortedLists.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="543">
-              <caret line="71" column="26" lean-forward="false" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="26" />
+            <state relative-caret-position="563">
+              <caret line="63" column="26" lean-forward="false" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -458,14 +458,7 @@
       <workItem from="1535167117242" duration="9086000" />
       <workItem from="1535382220325" duration="267000" />
       <workItem from="1535415274007" duration="25338000" />
-      <workItem from="1536348204931" duration="2641000" />
-    </task>
-    <task id="LOCAL-00472" summary="add new solution">
-      <created>1533666805412</created>
-      <option name="number" value="00472" />
-      <option name="presentableId" value="LOCAL-00472" />
-      <option name="project" value="LOCAL" />
-      <updated>1533666805412</updated>
+      <workItem from="1536348204931" duration="2747000" />
     </task>
     <task id="LOCAL-00473" summary="add new solution">
       <created>1533667055584</created>
@@ -803,11 +796,18 @@
       <option name="project" value="LOCAL" />
       <updated>1536278114756</updated>
     </task>
-    <option name="localTasksCounter" value="521" />
+    <task id="LOCAL-00521" summary="add new solution">
+      <created>1536423421938</created>
+      <option name="number" value="00521" />
+      <option name="presentableId" value="LOCAL-00521" />
+      <option name="project" value="LOCAL" />
+      <updated>1536423421939</updated>
+    </task>
+    <option name="localTasksCounter" value="522" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="552086000" />
+    <option name="totallyTimeSpent" value="552192000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="0" />
@@ -1305,8 +1305,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MergeTwoSortedLists.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="543">
-          <caret line="71" column="26" lean-forward="false" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="26" />
+        <state relative-caret-position="563">
+          <caret line="63" column="26" lean-forward="false" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
           <folding />
         </state>
       </provider>
