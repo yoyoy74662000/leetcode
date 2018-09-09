@@ -13,8 +13,8 @@
  Output: 1
  Example 2:
 
- Input: [2,2,2,0,1]
- Output: 0
+ Input: [1,1,1,1,2,1]
+ Output: 1
  *
  *
  */
