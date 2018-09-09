@@ -32,7 +32,7 @@ public class FindMinimuminRotatedSortedArray {
             if(nums[mid] < nums[end]){
                 end = mid;
             }else{ // [1,3,3] 類似有重複
-                start = mid + 1;
+                start = mid;
             }
         }
         if(nums[start] < nums[end]) return nums[start];
