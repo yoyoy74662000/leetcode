@@ -27,7 +27,7 @@
 // space : O(n)
 
 public class ClimbingStairs {
-     if(n == 0 || n == 1 || n == 2){
+    if(n == 0 || n == 1 || n == 2){
         return n;
     }
     int[] mem = new int[n];
