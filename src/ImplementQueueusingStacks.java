@@ -8,7 +8,9 @@ public class ImplementQueueusingStacks {
     }
 
     public int pop() {
-        if(!s2.isEmpty()) return s2.pop();
+        if(!s2.isEmpty()) {
+            return s2.pop();
+        }
         else{
             while(!s1.isEmpty()){
                 s2.push(s1.pop());

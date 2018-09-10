@@ -42,7 +42,8 @@ public class WordSearch {
                           exist(board, word, i, j - 1, start);
             board[i][j] = c;
             return res;
+        }else {
+            return false;
         }
-        return false;
     }
 }
