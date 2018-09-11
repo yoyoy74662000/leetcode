@@ -23,23 +23,24 @@ public class GroupAnagrams {
     public List<List<String>> groupAnagrams(String[] strs) {
         List<List<String>> res = new ArrayList<>();
         if (strs == null || strs.length == 0) return res;
+        helper(res, strs);
+        return res;
+    }
+    public void helper(List<List<String>> res, String[] strs){
         HashMap<String, Integer> map = new HashMap<>();
-        for (String str : strs ){
-            char[] ch = str.toCharArray();
-            Arrays.sort(ch);
-            String s = new String(ch);
-            if (map.containsKey(s)){
-                // res.get 是指 get ArrayList index 位置
-                res.get(map.get(s)-1).add(str);
+        for(String str : strs){
+            char[] c = str.toCharArray();
+            Arrays.sort(c);
+            String string = new String(c);
+            if(map.containsKey(string)){
+                res.get(map.get(string)-1).add(str);
             }else{
                 List<String> list = new ArrayList<>();
                 list.add(str);
                 res.add(list);
-                map.put(s,res.size());
+                map.put(string, res.size());
             }
         }
-        return res;
-
     }
 }
 
