@@ -15,7 +15,9 @@ public class MoveZeroes {
         int start = 0;
         if(nums == null || nums.length == 0) return;
         for(int  i = 0; i < nums.length; i++){
-            if(nums[i] != 0){
+            if(nums[i] == 0){
+                continue;
+            }else{
                 nums[start] = nums[i];
                 start++;
             }
