@@ -33,9 +33,11 @@ public class permutation {
         }
         for(int i = 0; i < nums.length; i++){
             if(list.contains(nums[i])) continue;
-            list.add(nums[i]);
-            helper(res, list, nums);
-            list.remove(list.size() - 1);
+            else {
+                list.add(nums[i]);
+                helper(res, list, nums);
+                list.remove(list.size() - 1);
+            }
         }
 
 
