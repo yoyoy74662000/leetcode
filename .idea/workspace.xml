@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/DecodeWays.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/LengthofLastWord.java" afterPath="$PROJECT_DIR$/src/LengthofLastWord.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,11 +55,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LengthofLastWord.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LengthofLastWord.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LengthofLastWord.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
               <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DecodeWays.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DecodeWays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="80" lean-forward="false" selection-start-line="18" selection-start-column="80" selection-end-line="18" selection-end-column="80" />
               <folding />
             </state>
           </provider>
@@ -100,7 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/KthSmallestElementinaBST.java" />
         <option value="$PROJECT_DIR$/src/LowestCommonAncestorofaBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/ClosestBinarySearchTreeValue.java" />
         <option value="$PROJECT_DIR$/src/InorderSuccessorinBST.java" />
@@ -151,6 +160,7 @@
         <option value="$PROJECT_DIR$/src/Subsets.java" />
         <option value="$PROJECT_DIR$/src/camelCaseString.java" />
         <option value="$PROJECT_DIR$/src/LengthofLastWord.java" />
+        <option value="$PROJECT_DIR$/src/DecodeWays.java" />
       </list>
     </option>
   </component>
@@ -546,14 +556,7 @@
       <workItem from="1537297675980" duration="574000" />
       <workItem from="1537506345307" duration="515000" />
       <workItem from="1537541206582" duration="1079000" />
-      <workItem from="1537727411943" duration="183000" />
-    </task>
-    <task id="LOCAL-00489" summary="add new solution">
-      <created>1534360226565</created>
-      <option name="number" value="00489" />
-      <option name="presentableId" value="LOCAL-00489" />
-      <option name="project" value="LOCAL" />
-      <updated>1534360226566</updated>
+      <workItem from="1537727411943" duration="700000" />
     </task>
     <task id="LOCAL-00490" summary="add new solution">
       <created>1534384685179</created>
@@ -891,11 +894,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537564258211</updated>
     </task>
-    <option name="localTasksCounter" value="538" />
+    <task id="LOCAL-00538" summary="add new solution">
+      <created>1537727608985</created>
+      <option name="number" value="00538" />
+      <option name="presentableId" value="LOCAL-00538" />
+      <option name="project" value="LOCAL" />
+      <updated>1537727608986</updated>
+    </task>
+    <option name="localTasksCounter" value="539" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="591799000" />
+    <option name="totallyTimeSpent" value="592316000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1046,13 +1056,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MedianofTwoSortedArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="553">
-          <caret line="75" column="5" lean-forward="true" selection-start-line="45" selection-start-column="4" selection-end-line="75" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RemoveDuplicatesfromSortedListII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -1408,6 +1411,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecodeWays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="80" lean-forward="false" selection-start-line="18" selection-start-column="80" selection-end-line="18" selection-end-column="80" />
           <folding />
         </state>
       </provider>
