@@ -11,3 +11,13 @@ public class LengthofLastWord {
         return length;
     }
 }
+
+public class LengthofLastWord2 {
+    public int lengthOfLastWord(String s) {
+        String[] arr = s.split(" ");
+        if(arr == null || arr.length == 0) return 0;
+        else{
+            return arr[arr.length-1].length();
+        }
+    }
+}
