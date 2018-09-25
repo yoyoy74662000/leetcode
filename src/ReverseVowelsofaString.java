@@ -15,7 +15,34 @@
 // time : O(n)
 // space : O(n)
 
-public class ReverseVowelsofaString {
+public class ReverseVowelsofaString{
+    public String reverseVowels(String s) {
+        int start = 0;
+        int end = s.length()-1;
+        String vowels = "aeiouAEIOU";
+        char[] chars = s.toCharArray();
+        while(start < end){
+            while(start < end && vowels.indexOf(s.charAt(start)) == -1){
+                start++;
+            }
+            while(start < end && vowels.indexOf(s.charAt(end)) == -1){
+                end--;
+            }
+            char temp = chars[start];
+            chars[start] = chars[end];
+            chars[end] = temp;
+            start++;
+            end--;
+        }
+        return new String(chars);
+    }
+}
+
+
+
+
+
+public class ReverseVowelsofaString2 {
     private HashSet<Character> vowels = new HashSet<>(Arrays.asList('a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'));
     // hello
     public String reverseVowels(String s) {

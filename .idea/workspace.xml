@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/FlipGame.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/ReverseVowelsofaString.java" afterPath="$PROJECT_DIR$/src/ReverseVowelsofaString.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +25,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FlipGame.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FlipGame.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FlipGame.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
               <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReverseVowelsofaString.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ReverseVowelsofaString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="583">
+              <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -60,7 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/RemoveNthNodeFromEndofList.java" />
         <option value="$PROJECT_DIR$/src/SwapNodesinPairs.java" />
         <option value="$PROJECT_DIR$/src/RemoveDuplicatesfromSortedList.java" />
         <option value="$PROJECT_DIR$/src/PlusOneLinkedList.java" />
@@ -111,6 +120,7 @@
         <option value="$PROJECT_DIR$/src/BasicCalculatorII.java" />
         <option value="$PROJECT_DIR$/src/EncodeandDecodeStrings.java" />
         <option value="$PROJECT_DIR$/src/FlipGame.java" />
+        <option value="$PROJECT_DIR$/src/ReverseVowelsofaString.java" />
       </list>
     </option>
   </component>
@@ -507,14 +517,7 @@
       <workItem from="1537506345307" duration="515000" />
       <workItem from="1537541206582" duration="1079000" />
       <workItem from="1537727411943" duration="2840000" />
-      <workItem from="1537811208135" duration="2529000" />
-    </task>
-    <task id="LOCAL-00496" summary="add new solution">
-      <created>1534825537811</created>
-      <option name="number" value="00496" />
-      <option name="presentableId" value="LOCAL-00496" />
-      <option name="project" value="LOCAL" />
-      <updated>1534825537811</updated>
+      <workItem from="1537811208135" duration="3119000" />
     </task>
     <task id="LOCAL-00497" summary="add new solution">
       <created>1534830022458</created>
@@ -852,11 +855,18 @@
       <option name="project" value="LOCAL" />
       <updated>1537814063975</updated>
     </task>
-    <option name="localTasksCounter" value="545" />
+    <task id="LOCAL-00545" summary="add new solution">
+      <created>1537857340791</created>
+      <option name="number" value="00545" />
+      <option name="presentableId" value="LOCAL-00545" />
+      <option name="project" value="LOCAL" />
+      <updated>1537857340791</updated>
+    </task>
+    <option name="localTasksCounter" value="546" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="596985000" />
+    <option name="totallyTimeSpent" value="597575000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1007,13 +1017,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test3/test3.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FindMinimuminRotatedSortedArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="517">
@@ -1384,6 +1387,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="5" lean-forward="false" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ReverseVowelsofaString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
           <folding />
         </state>
       </provider>
