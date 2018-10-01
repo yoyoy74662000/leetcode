@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/MinimumMovestoEqualArrayElements.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/BinaryTreeTilt.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -55,11 +55,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MinimumMovestoEqualArrayElements.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MinimumMovestoEqualArrayElements.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MinimumMovestoEqualArrayElements.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+            <state relative-caret-position="442">
+              <caret line="26" column="5" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BinaryTreeTilt.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BinaryTreeTilt.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -90,7 +100,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/NQueensII.java" />
         <option value="$PROJECT_DIR$/src/SurroundedRegions.java" />
         <option value="$PROJECT_DIR$/src/WallsandGates.java" />
         <option value="$PROJECT_DIR$/src/NestedListWeightSum.java" />
@@ -141,6 +150,7 @@
         <option value="$PROJECT_DIR$/src/ShortestWordDistanceIII.java" />
         <option value="$PROJECT_DIR$/src/MovingAveragefromDataStream.java" />
         <option value="$PROJECT_DIR$/src/MinimumMovestoEqualArrayElements.java" />
+        <option value="$PROJECT_DIR$/src/BinaryTreeTilt.java" />
       </list>
     </option>
   </component>
@@ -466,14 +476,7 @@
       <workItem from="1538172220508" duration="711000" />
       <workItem from="1538204239091" duration="650000" />
       <workItem from="1538281571671" duration="3194000" />
-      <workItem from="1538416354269" duration="835000" />
-    </task>
-    <task id="LOCAL-00508" summary="add new solution">
-      <created>1535325406225</created>
-      <option name="number" value="00508" />
-      <option name="presentableId" value="LOCAL-00508" />
-      <option name="project" value="LOCAL" />
-      <updated>1535325406225</updated>
+      <workItem from="1538416354269" duration="1115000" />
     </task>
     <task id="LOCAL-00509" summary="add new solution">
       <created>1535341245860</created>
@@ -811,11 +814,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538416455367</updated>
     </task>
-    <option name="localTasksCounter" value="557" />
+    <task id="LOCAL-00557" summary="add new solution">
+      <created>1538417742539</created>
+      <option name="number" value="00557" />
+      <option name="presentableId" value="LOCAL-00557" />
+      <option name="project" value="LOCAL" />
+      <updated>1538417742539</updated>
+    </task>
+    <option name="localTasksCounter" value="558" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="606478000" />
+    <option name="totallyTimeSpent" value="606758000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -966,13 +976,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/MoveZeroes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/KthSmallestElementinaBST.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
@@ -1324,8 +1327,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MinimumMovestoEqualArrayElements.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="47" lean-forward="false" selection-start-line="14" selection-start-column="47" selection-end-line="14" selection-end-column="47" />
+        <state relative-caret-position="442">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BinaryTreeTilt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
           <folding />
         </state>
       </provider>
