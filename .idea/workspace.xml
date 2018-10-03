@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/LongestPalindromicSubstring.java" afterPath="$PROJECT_DIR$/src/LongestPalindromicSubstring.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,11 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ValidPalindrome.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ValidPalindrome.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ValidPalindrome.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="217">
               <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LongestPalindromicSubstring.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LongestPalindromicSubstring.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -67,7 +78,6 @@
         <option value="$PROJECT_DIR$/src/ClimbingStairs.java" />
         <option value="$PROJECT_DIR$/src/WordSearch.java" />
         <option value="$PROJECT_DIR$/src/LongestSubstringWithoutRepeatingCharacters.java" />
-        <option value="$PROJECT_DIR$/src/LongestPalindromicSubstring.java" />
         <option value="$PROJECT_DIR$/src/GroupAnagrams.java" />
         <option value="$PROJECT_DIR$/src/ShortestPalindrome.java" />
         <option value="$PROJECT_DIR$/src/MoveZeroes.java" />
@@ -101,6 +111,7 @@
         <option value="$PROJECT_DIR$/src/SubdomainVisitCount.java" />
         <option value="$PROJECT_DIR$/src/SummaryRanges.java" />
         <option value="$PROJECT_DIR$/src/longestPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/LongestPalindromicSubstring.java" />
       </list>
     </option>
   </component>
@@ -427,14 +438,7 @@
       <workItem from="1538204239091" duration="650000" />
       <workItem from="1538281571671" duration="3194000" />
       <workItem from="1538416354269" duration="3595000" />
-      <workItem from="1538542445009" duration="1575000" />
-    </task>
-    <task id="LOCAL-00513" summary="add new solution">
-      <created>1535923716971</created>
-      <option name="number" value="00513" />
-      <option name="presentableId" value="LOCAL-00513" />
-      <option name="project" value="LOCAL" />
-      <updated>1535923716971</updated>
+      <workItem from="1538542445009" duration="2810000" />
     </task>
     <task id="LOCAL-00514" summary="add new solution">
       <created>1535941090747</created>
@@ -772,11 +776,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538585162760</updated>
     </task>
-    <option name="localTasksCounter" value="562" />
+    <task id="LOCAL-00562" summary="add new solution 10/03">
+      <created>1538586355222</created>
+      <option name="number" value="00562" />
+      <option name="presentableId" value="LOCAL-00562" />
+      <option name="project" value="LOCAL" />
+      <updated>1538586355222</updated>
+    </task>
+    <option name="localTasksCounter" value="563" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="610813000" />
+    <option name="totallyTimeSpent" value="612048000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -953,13 +964,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="56" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LongestPalindromicSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="28" column="40" lean-forward="false" selection-start-line="28" selection-start-column="40" selection-end-line="29" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -1296,6 +1300,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="217">
           <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LongestPalindromicSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
           <folding />
         </state>
       </provider>

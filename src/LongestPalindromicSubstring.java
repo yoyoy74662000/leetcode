@@ -27,6 +27,7 @@ public class LongestPalindromicSubstring {
 
     public static void helper(String s, int left, int right){
         //又中心點 left--, right++ 去看兩側有沒有一樣
+        //注意 while
         while (left >= 0 && right <= s.length()-1 && s.charAt(left) == s.charAt(right)){
             left--;
             right++;
