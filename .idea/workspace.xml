@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/SubdomainVisitCount.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/SummaryRanges.java" afterPath="$PROJECT_DIR$/src/SummaryRanges.java" />
+      <change beforePath="$PROJECT_DIR$/src/longestPalindrome.java" afterPath="$PROJECT_DIR$/src/longestPalindrome.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,81 +16,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ShortestWordDistanceII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ShortestWordDistanceII.java">
+      <file leaf-file-name="longestPalindrome.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/longestPalindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="765">
-              <caret line="45" column="5" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="45" selection-end-column="5" />
+            <state relative-caret-position="500">
+              <caret line="38" column="9" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ShortestWordDistance.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ShortestWordDistance.java">
+      <file leaf-file-name="ImplementstrStr.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ImplementstrStr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="10" lean-forward="false" selection-start-line="7" selection-start-column="10" selection-end-line="8" selection-end-column="41" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShortestWordDistanceIII.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ShortestWordDistanceIII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="5" lean-forward="false" selection-start-line="15" selection-start-column="4" selection-end-line="33" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MovingAveragefromDataStream.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MovingAveragefromDataStream.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MinimumMovestoEqualArrayElements.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MinimumMovestoEqualArrayElements.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="5" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BinaryTreeTilt.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BinaryTreeTilt.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="38" column="5" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="38" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RobotReturntoOrigin.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/RobotReturntoOrigin.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="164" lean-forward="false" selection-start-line="18" selection-start-column="164" selection-end-line="18" selection-end-column="164" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SubdomainVisitCount.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SubdomainVisitCount.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5">
-              <caret line="21" column="228" lean-forward="false" selection-start-line="21" selection-start-column="228" selection-end-line="21" selection-end-column="228" />
+            <state relative-caret-position="204">
+              <caret line="12" column="74" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="12" selection-end-column="74" />
               <folding />
             </state>
           </provider>
@@ -107,6 +48,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>PascalsTriangle</find>
+      <find>\/\*\*\n \*\n Given a sorted integer array without duplicates\, return the summary of its ranges\.\n\n Example 1\:\n\n Input\:  \[0\,1\,2\,4\,5\,7\]\n Output\: \[\&quot;0\-\&gt;2\&quot;\,\&quot;4\-\&gt;5\&quot;\,\&quot;7\&quot;\]\n Explanation\: 0\,1\,2 form a continuous range\; 4\,5 form a continuous range\.\n Example 2\:\n\n Input\:  \[0\,2\,3\,4\,6\,8\,9\]\n Output\: \[\&quot;0\&quot;\,\&quot;2\-\&gt;4\&quot;\,\&quot;6\&quot;\,\&quot;8\-\&gt;9\&quot;\]\n Explanation\: 2\,3\,4 form a continuous range\; 8\,9 form a continuous range\.\n \*\n \*\/\npublic class SummaryRanges \{\n    public List\&lt;String\&gt; summaryRanges\(int\[\] nums\) \{\n        List\&lt;String\&gt; list \= new ArrayList\&lt;\&gt;\(\)\;\n        if\(nums\.length\=\=1\)\{\n            list\.add\(nums\[0\]\+\&quot;\&quot;\)\;\n            return list\;\n        \}\n        for\(int i\=0\;i\&lt;nums\.length\;i\+\+\)\{\n            int a\=nums\[i\]\;\n            while\(i\+1\&lt;nums\.length\&amp;\&amp;\(nums\[i\+1\]\-nums\[i\]\)\=\=1\)\{\n                i\+\+\;\n            \}\n            if\(a\!\=nums\[i\]\)\{\n                list\.add\(a\+\&quot;\-\&gt;\&quot;\+nums\[i\]\)\;\n            \}else\{\n                list\.add\(a\+\&quot;\&quot;\)\;\n            \}\n        \}\n        return list\;\n    \}\n\}\n</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -142,7 +84,6 @@
         <option value="$PROJECT_DIR$/src/ShortestPalindrome.java" />
         <option value="$PROJECT_DIR$/src/MoveZeroes.java" />
         <option value="$PROJECT_DIR$/src/permutation.java" />
-        <option value="$PROJECT_DIR$/src/longestPalindrome.java" />
         <option value="$PROJECT_DIR$/src/CombinationSumII.java" />
         <option value="$PROJECT_DIR$/src/PermutationsII.java" />
         <option value="$PROJECT_DIR$/src/UniquePathsII.java" />
@@ -163,7 +104,6 @@
         <option value="$PROJECT_DIR$/src/distinctsumtozero.java" />
         <option value="$PROJECT_DIR$/src/matchABC.java" />
         <option value="$PROJECT_DIR$/src/WordBreak.java" />
-        <option value="$PROJECT_DIR$/src/SummaryRanges.java" />
         <option value="$PROJECT_DIR$/src/ShortestWordDistanceII.java" />
         <option value="$PROJECT_DIR$/src/ShortestWordDistanceIII.java" />
         <option value="$PROJECT_DIR$/src/MovingAveragefromDataStream.java" />
@@ -171,6 +111,8 @@
         <option value="$PROJECT_DIR$/src/BinaryTreeTilt.java" />
         <option value="$PROJECT_DIR$/src/RobotReturntoOrigin.java" />
         <option value="$PROJECT_DIR$/src/SubdomainVisitCount.java" />
+        <option value="$PROJECT_DIR$/src/SummaryRanges.java" />
+        <option value="$PROJECT_DIR$/src/longestPalindrome.java" />
       </list>
     </option>
   </component>
@@ -205,7 +147,7 @@
     <panes>
       <pane id="AndroidView" />
       <pane id="Scratches" />
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -222,7 +164,7 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -496,14 +438,8 @@
       <workItem from="1538172220508" duration="711000" />
       <workItem from="1538204239091" duration="650000" />
       <workItem from="1538281571671" duration="3194000" />
-      <workItem from="1538416354269" duration="1924000" />
-    </task>
-    <task id="LOCAL-00511" summary="add new solution">
-      <created>1535565876479</created>
-      <option name="number" value="00511" />
-      <option name="presentableId" value="LOCAL-00511" />
-      <option name="project" value="LOCAL" />
-      <updated>1535565876479</updated>
+      <workItem from="1538416354269" duration="3595000" />
+      <workItem from="1538542445009" duration="1134000" />
     </task>
     <task id="LOCAL-00512" summary="add new solution">
       <created>1535921614943</created>
@@ -841,11 +777,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538438116305</updated>
     </task>
-    <option name="localTasksCounter" value="560" />
+    <task id="LOCAL-00560" summary="add new solution">
+      <created>1538449015553</created>
+      <option name="number" value="00560" />
+      <option name="presentableId" value="LOCAL-00560" />
+      <option name="project" value="LOCAL" />
+      <updated>1538449015553</updated>
+    </task>
+    <option name="localTasksCounter" value="561" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="607567000" />
+    <option name="totallyTimeSpent" value="610372000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -872,7 +815,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13126844" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22294022" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22617124" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -996,20 +939,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SortList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-69">
-          <caret line="9" column="8" lean-forward="false" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LinkedListCycle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="45" lean-forward="false" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ShortestPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
@@ -1042,13 +971,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="56" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/longestPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="39" column="5" lean-forward="true" selection-start-line="22" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -1292,13 +1214,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SummaryRanges.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ShortestWordDistanceII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
@@ -1359,6 +1274,38 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="5">
           <caret line="21" column="228" lean-forward="false" selection-start-line="21" selection-start-column="228" selection-end-line="21" selection-end-column="228" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/BasicCalculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="27" column="22" lean-forward="true" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SummaryRanges.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/longestPalindrome.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="38" column="9" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ImplementstrStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="74" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="12" selection-end-column="74" />
           <folding />
         </state>
       </provider>

@@ -9,7 +9,7 @@
  Example:
 
  Input:
- "abccccdd"
+ "ab cc cc dd"
 
  Output:
  7
