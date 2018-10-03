@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/SummaryRanges.java" afterPath="$PROJECT_DIR$/src/SummaryRanges.java" />
-      <change beforePath="$PROJECT_DIR$/src/longestPalindrome.java" afterPath="$PROJECT_DIR$/src/longestPalindrome.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,21 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="longestPalindrome.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/longestPalindrome.java">
+      <file leaf-file-name="ValidPalindrome.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ValidPalindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="38" column="9" lean-forward="true" selection-start-line="34" selection-start-column="8" selection-end-line="38" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ImplementstrStr.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ImplementstrStr.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="74" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="12" selection-end-column="74" />
+            <state relative-caret-position="217">
+              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -439,14 +427,7 @@
       <workItem from="1538204239091" duration="650000" />
       <workItem from="1538281571671" duration="3194000" />
       <workItem from="1538416354269" duration="3595000" />
-      <workItem from="1538542445009" duration="1134000" />
-    </task>
-    <task id="LOCAL-00512" summary="add new solution">
-      <created>1535921614943</created>
-      <option name="number" value="00512" />
-      <option name="presentableId" value="LOCAL-00512" />
-      <option name="project" value="LOCAL" />
-      <updated>1535921614947</updated>
+      <workItem from="1538542445009" duration="1575000" />
     </task>
     <task id="LOCAL-00513" summary="add new solution">
       <created>1535923716971</created>
@@ -784,11 +765,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538449015553</updated>
     </task>
-    <option name="localTasksCounter" value="561" />
+    <task id="LOCAL-00561" summary="add new solution 10/03">
+      <created>1538585162759</created>
+      <option name="number" value="00561" />
+      <option name="presentableId" value="LOCAL-00561" />
+      <option name="project" value="LOCAL" />
+      <updated>1538585162760</updated>
+    </task>
+    <option name="localTasksCounter" value="562" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="610372000" />
+    <option name="totallyTimeSpent" value="610813000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -880,7 +868,8 @@
     <MESSAGE value="PalindromeNumber" />
     <MESSAGE value="ReverseInteger" />
     <MESSAGE value="add new solution" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new solution" />
+    <MESSAGE value="add new solution 10/03" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new solution 10/03" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -939,13 +928,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ShortestPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="76" lean-forward="false" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ClimbingStairs.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="347">
@@ -1294,6 +1276,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ImplementstrStr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/longestPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
@@ -1302,10 +1292,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ImplementstrStr.java">
+    <entry file="file://$PROJECT_DIR$/src/ValidPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="74" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="12" selection-end-column="74" />
+        <state relative-caret-position="217">
+          <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding />
         </state>
       </provider>
