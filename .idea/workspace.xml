@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/FindKClosestElements.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -438,14 +437,7 @@
       <workItem from="1538204239091" duration="650000" />
       <workItem from="1538281571671" duration="3194000" />
       <workItem from="1538416354269" duration="3595000" />
-      <workItem from="1538542445009" duration="4320000" />
-    </task>
-    <task id="LOCAL-00517" summary="add new solution">
-      <created>1536030060776</created>
-      <option name="number" value="00517" />
-      <option name="presentableId" value="LOCAL-00517" />
-      <option name="project" value="LOCAL" />
-      <updated>1536030060776</updated>
+      <workItem from="1538542445009" duration="4397000" />
     </task>
     <task id="LOCAL-00518" summary="add new solution">
       <created>1536080738148</created>
@@ -783,11 +775,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538598431175</updated>
     </task>
-    <option name="localTasksCounter" value="566" />
+    <task id="LOCAL-00566" summary="add new solution 10/03">
+      <created>1538674208330</created>
+      <option name="number" value="00566" />
+      <option name="presentableId" value="LOCAL-00566" />
+      <option name="project" value="LOCAL" />
+      <updated>1538674208330</updated>
+    </task>
+    <option name="localTasksCounter" value="567" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="613558000" />
+    <option name="totallyTimeSpent" value="613635000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
