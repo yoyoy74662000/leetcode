@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/FindMinimuminRotatedSortedArray.java" afterPath="$PROJECT_DIR$/src/FindMinimuminRotatedSortedArray.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,21 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FindPeakElement.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FindPeakElement.java">
+      <file leaf-file-name="FindKClosestElements.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/FindKClosestElements.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="557">
-              <caret line="48" column="55" lean-forward="true" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
+            <state relative-caret-position="221">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FindKClosestElements.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/FindKClosestElements.java">
+      <file leaf-file-name="FindMinimuminRotatedSortedArray.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FindMinimuminRotatedSortedArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="296">
+              <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -68,7 +69,6 @@
         <option value="$PROJECT_DIR$/src/MergeTwoSortedLists.java" />
         <option value="$PROJECT_DIR$/src/SortList.java" />
         <option value="$PROJECT_DIR$/test3/src/solution.java" />
-        <option value="$PROJECT_DIR$/src/FindMinimuminRotatedSortedArray.java" />
         <option value="$PROJECT_DIR$/src/FindMinimuminRotatedSortedArrayII.java" />
         <option value="$PROJECT_DIR$/src/ImplementQueueusingStacks.java" />
         <option value="$PROJECT_DIR$/src/RemoveDuplicatesfromSortedArray.java" />
@@ -111,6 +111,7 @@
         <option value="$PROJECT_DIR$/src/LongestPalindromicSubstring.java" />
         <option value="$PROJECT_DIR$/src/FindFirstandLastPositionofElementinSortedArray.java" />
         <option value="$PROJECT_DIR$/src/FindKClosestElements.java" />
+        <option value="$PROJECT_DIR$/src/FindMinimuminRotatedSortedArray.java" />
       </list>
     </option>
   </component>
@@ -437,14 +438,7 @@
       <workItem from="1538204239091" duration="650000" />
       <workItem from="1538281571671" duration="3194000" />
       <workItem from="1538416354269" duration="3595000" />
-      <workItem from="1538542445009" duration="4397000" />
-    </task>
-    <task id="LOCAL-00518" summary="add new solution">
-      <created>1536080738148</created>
-      <option name="number" value="00518" />
-      <option name="presentableId" value="LOCAL-00518" />
-      <option name="project" value="LOCAL" />
-      <updated>1536080738148</updated>
+      <workItem from="1538542445009" duration="5026000" />
     </task>
     <task id="LOCAL-00519" summary="add new solution">
       <created>1536180408255</created>
@@ -782,11 +776,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538674208330</updated>
     </task>
-    <option name="localTasksCounter" value="567" />
+    <task id="LOCAL-00567" summary="add new solution 10/04">
+      <created>1538674302067</created>
+      <option name="number" value="00567" />
+      <option name="presentableId" value="LOCAL-00567" />
+      <option name="project" value="LOCAL" />
+      <updated>1538674302067</updated>
+    </task>
+    <option name="localTasksCounter" value="568" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="613635000" />
+    <option name="totallyTimeSpent" value="614264000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -879,7 +880,8 @@
     <MESSAGE value="ReverseInteger" />
     <MESSAGE value="add new solution" />
     <MESSAGE value="add new solution 10/03" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new solution 10/03" />
+    <MESSAGE value="add new solution 10/04" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new solution 10/04" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -938,13 +940,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/CopyListwithRandomPointer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="56" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Combinations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="597">
@@ -1310,6 +1305,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindMinimuminRotatedSortedArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="39" />
           <folding />
         </state>
       </provider>

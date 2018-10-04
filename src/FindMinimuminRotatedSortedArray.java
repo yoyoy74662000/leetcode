@@ -22,7 +22,7 @@
 // space: O(1)
 
 
-public class FindMinimuminRotatedSortedArray {
+public class sFindMinimuminRotatedSortedArray {
     public int findMin(int[] nums) {
         if(nums.length == 0) return -1;
         int start = 0;
