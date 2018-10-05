@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/MiddleoftheLinkedList.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/TwoSumIIIDatastructuredesign.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -25,11 +25,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MiddleoftheLinkedList.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MiddleoftheLinkedList.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MiddleoftheLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
               <caret line="18" column="83" lean-forward="false" selection-start-line="18" selection-start-column="83" selection-end-line="18" selection-end-column="83" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TwoSumIIIDatastructuredesign.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/TwoSumIIIDatastructuredesign.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -61,7 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LargestRectangleinHistogram.java" />
         <option value="$PROJECT_DIR$/src/DecodeString.java" />
         <option value="$PROJECT_DIR$/src/FlattenNestedListIterator.java" />
         <option value="$PROJECT_DIR$/src/TopKFrequentElements.java" />
@@ -112,6 +121,7 @@
         <option value="$PROJECT_DIR$/src/FindKClosestElements.java" />
         <option value="$PROJECT_DIR$/src/FindMinimuminRotatedSortedArray.java" />
         <option value="$PROJECT_DIR$/src/MiddleoftheLinkedList.java" />
+        <option value="$PROJECT_DIR$/src/TwoSumIIIDatastructuredesign.java" />
       </list>
     </option>
   </component>
@@ -439,14 +449,7 @@
       <workItem from="1538281571671" duration="3194000" />
       <workItem from="1538416354269" duration="3595000" />
       <workItem from="1538542445009" duration="6421000" />
-      <workItem from="1538689197696" duration="798000" />
-    </task>
-    <task id="LOCAL-00521" summary="add new solution">
-      <created>1536423421938</created>
-      <option name="number" value="00521" />
-      <option name="presentableId" value="LOCAL-00521" />
-      <option name="project" value="LOCAL" />
-      <updated>1536423421939</updated>
+      <workItem from="1538689197696" duration="973000" />
     </task>
     <task id="LOCAL-00522" summary="add new solution">
       <created>1536423782912</created>
@@ -784,11 +787,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538692174103</updated>
     </task>
-    <option name="localTasksCounter" value="570" />
+    <task id="LOCAL-00570" summary="add new solution 10/04">
+      <created>1538693908197</created>
+      <option name="number" value="00570" />
+      <option name="presentableId" value="LOCAL-00570" />
+      <option name="project" value="LOCAL" />
+      <updated>1538693908197</updated>
+    </task>
+    <option name="localTasksCounter" value="571" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="616457000" />
+    <option name="totallyTimeSpent" value="616632000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -941,13 +951,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/UniquePaths.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="29" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="29" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/UniquePathsII.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
@@ -1316,6 +1319,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="18" column="83" lean-forward="false" selection-start-line="18" selection-start-column="83" selection-end-line="18" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TwoSumIIIDatastructuredesign.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
           <folding />
         </state>
       </provider>
