@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/TwoSumIIIDatastructuredesign.java" />
+    <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="add new solution 10/04">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/MoveZeroes.java" afterPath="$PROJECT_DIR$/src/MoveZeroes.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,11 +35,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwoSumIIIDatastructuredesign.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TwoSumIIIDatastructuredesign.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TwoSumIIIDatastructuredesign.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="23">
               <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MoveZeroes.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/MoveZeroes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -85,7 +95,6 @@
         <option value="$PROJECT_DIR$/src/LongestSubstringWithoutRepeatingCharacters.java" />
         <option value="$PROJECT_DIR$/src/GroupAnagrams.java" />
         <option value="$PROJECT_DIR$/src/ShortestPalindrome.java" />
-        <option value="$PROJECT_DIR$/src/MoveZeroes.java" />
         <option value="$PROJECT_DIR$/src/permutation.java" />
         <option value="$PROJECT_DIR$/src/CombinationSumII.java" />
         <option value="$PROJECT_DIR$/src/PermutationsII.java" />
@@ -122,6 +131,7 @@
         <option value="$PROJECT_DIR$/src/FindMinimuminRotatedSortedArray.java" />
         <option value="$PROJECT_DIR$/src/MiddleoftheLinkedList.java" />
         <option value="$PROJECT_DIR$/src/TwoSumIIIDatastructuredesign.java" />
+        <option value="$PROJECT_DIR$/src/MoveZeroes.java" />
       </list>
     </option>
   </component>
@@ -449,14 +459,7 @@
       <workItem from="1538281571671" duration="3194000" />
       <workItem from="1538416354269" duration="3595000" />
       <workItem from="1538542445009" duration="6421000" />
-      <workItem from="1538689197696" duration="973000" />
-    </task>
-    <task id="LOCAL-00522" summary="add new solution">
-      <created>1536423782912</created>
-      <option name="number" value="00522" />
-      <option name="presentableId" value="LOCAL-00522" />
-      <option name="project" value="LOCAL" />
-      <updated>1536423782913</updated>
+      <workItem from="1538689197696" duration="1734000" />
     </task>
     <task id="LOCAL-00523" summary="add new solution">
       <created>1536454057094</created>
@@ -794,11 +797,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538693908197</updated>
     </task>
-    <option name="localTasksCounter" value="571" />
+    <task id="LOCAL-00571" summary="add new solution 10/04">
+      <created>1538719184515</created>
+      <option name="number" value="00571" />
+      <option name="presentableId" value="LOCAL-00571" />
+      <option name="project" value="LOCAL" />
+      <updated>1538719184515</updated>
+    </task>
+    <option name="localTasksCounter" value="572" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="616632000" />
+    <option name="totallyTimeSpent" value="617393000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -951,13 +961,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/UniquePathsII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="29" column="46" lean-forward="false" selection-start-line="29" selection-start-column="46" selection-end-line="29" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/CombinationSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="597">
@@ -1325,8 +1328,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TwoSumIIIDatastructuredesign.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="23">
           <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MoveZeroes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
           <folding />
         </state>
       </provider>
