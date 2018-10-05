@@ -55,7 +55,7 @@ public class KthLargestElementinanArray {
 
 
 
-public class KthLargestElementinanArray {
+public class KthLargestElementinanArray2 {
     public int findKthLargest(int[] nums, int k) {
         if (nums == null || nums.length == 0) return 0;
         //Priority queue 有別於一般的 queue，
