@@ -36,6 +36,7 @@ public class BinaryTreeLevelOrderTraversal {
     public void helper(List<List<Integer>> res, Queue<TreeNode> queue, TreeNode root){
         queue.offer(root);
         while(!queue.isEmpty()){
+            // 注意 for loop 裡面不能用 queue.size()
             int size = queue.size();
             List<Integer> list = new ArrayList<>();
             for(int i = 0; i < size; i++){
