@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/BinaryTreeLevelOrderTraversal.java" afterPath="$PROJECT_DIR$/src/BinaryTreeLevelOrderTraversal.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +17,7 @@
       <file leaf-file-name="BinaryTreeLevelOrderTraversal.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BinaryTreeLevelOrderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
+            <state relative-caret-position="418">
               <caret line="38" column="45" lean-forward="false" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
               <folding />
             </state>
@@ -448,14 +447,7 @@
       <workItem from="1538281571671" duration="3194000" />
       <workItem from="1538416354269" duration="3595000" />
       <workItem from="1538542445009" duration="6421000" />
-      <workItem from="1538689197696" duration="5091000" />
-    </task>
-    <task id="LOCAL-00530" summary="add new solution">
-      <created>1536637634879</created>
-      <option name="number" value="00530" />
-      <option name="presentableId" value="LOCAL-00530" />
-      <option name="project" value="LOCAL" />
-      <updated>1536637634880</updated>
+      <workItem from="1538689197696" duration="5231000" />
     </task>
     <task id="LOCAL-00531" summary="add new solution">
       <created>1536719499709</created>
@@ -793,11 +785,18 @@
       <option name="project" value="LOCAL" />
       <updated>1538794968465</updated>
     </task>
-    <option name="localTasksCounter" value="579" />
+    <task id="LOCAL-00579" summary="add new solution 10/06">
+      <created>1538847346559</created>
+      <option name="number" value="00579" />
+      <option name="presentableId" value="LOCAL-00579" />
+      <option name="project" value="LOCAL" />
+      <updated>1538847346559</updated>
+    </task>
+    <option name="localTasksCounter" value="580" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="620750000" />
+    <option name="totallyTimeSpent" value="620890000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -892,7 +891,8 @@
     <MESSAGE value="add new solution 10/03" />
     <MESSAGE value="add new solution 10/04" />
     <MESSAGE value="add new solution 10/05" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new solution 10/05" />
+    <MESSAGE value="add new solution 10/06" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new solution 10/06" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1333,7 +1333,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BinaryTreeLevelOrderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
+        <state relative-caret-position="418">
           <caret line="38" column="45" lean-forward="false" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
           <folding />
         </state>
