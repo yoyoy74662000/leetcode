@@ -9,13 +9,13 @@ public class WordLadder {
         map.put(beginWord, 1);
         queue.offer(beginWord);
         while (!queue.isEmpty()) {
-            String word = queue.poll();
-            int curLevel = map.get(word);
+            String word = queue.poll(); // hit
+            int curLevel = map.get(word); // 1
             for (int i = 0; i < word.length(); i++) {
                 char[] wordUnit = word.toCharArray();
                 for (char j = 'a'; j <= 'z'; j++) {
                     wordUnit[i] = j;
-                    String temp = new String(wordUnit);
+                    String temp = new String(wordUnit); // ait bit .... zit
                     if (set.contains(temp)) {
                         if (temp.equals(endWord)) {
                             return curLevel + 1;
