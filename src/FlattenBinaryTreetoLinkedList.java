@@ -54,6 +54,7 @@ public class FlattenBinaryTreetoLinkedList {
     public TreeNode prev = null;
     public void flatten(TreeNode root) {
         if (root == null) return;
+        // recursion
         flatten(root.right);
         flatten(root.left);
         root.right = prev;
