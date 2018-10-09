@@ -31,11 +31,11 @@ public class LargestBSTSubtree {
         if (min != null && min >= root.val) return false;
         if (max != null && max <= root.val) return false;
         return isValid(root.left, min, root.val) && isValid(root.right, root.val, max);
-    }
+    }                 //(5, null, 10)               (15, 10, null)
 
     public int countNode(TreeNode root) {
         if (root == null) return 0;
         if (root.left == null && root.right == null) return 1;
-        return 1 + countNode(root.left) + countNode(root.right);
+        return 1 + countNode(root.left) + countNode(root.right); // 前面的 1 是指自己，所以再加上 左右兩邊
     }
 }

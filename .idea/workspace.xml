@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="add new solution 10/08">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/LargestBSTSubtree.java" />
+    <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/LargestBSTSubtree.java" afterPath="$PROJECT_DIR$/src/LargestBSTSubtree.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,8 +28,8 @@
       <file leaf-file-name="LargestBSTSubtree.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/LargestBSTSubtree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="56">
-              <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+            <state relative-caret-position="527">
+              <caret line="38" column="89" lean-forward="false" selection-start-line="38" selection-start-column="89" selection-end-line="38" selection-end-column="89" />
               <folding />
             </state>
           </provider>
@@ -474,14 +474,7 @@
       <workItem from="1538689197696" duration="5398000" />
       <workItem from="1538863442394" duration="68000" />
       <workItem from="1538863583214" duration="737000" />
-      <workItem from="1538976810518" duration="1559000" />
-    </task>
-    <task id="LOCAL-00535" summary="add new solution">
-      <created>1537506399969</created>
-      <option name="number" value="00535" />
-      <option name="presentableId" value="LOCAL-00535" />
-      <option name="project" value="LOCAL" />
-      <updated>1537506399970</updated>
+      <workItem from="1538976810518" duration="3257000" />
     </task>
     <task id="LOCAL-00536" summary="add new solution">
       <created>1537541430264</created>
@@ -819,11 +812,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539056235988</updated>
     </task>
-    <option name="localTasksCounter" value="584" />
+    <task id="LOCAL-00584" summary="add new solution 10/08">
+      <created>1539062693414</created>
+      <option name="number" value="00584" />
+      <option name="presentableId" value="LOCAL-00584" />
+      <option name="project" value="LOCAL" />
+      <updated>1539062693414</updated>
+    </task>
+    <option name="localTasksCounter" value="585" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="623421000" />
+    <option name="totallyTimeSpent" value="625119000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1335,8 +1335,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LargestBSTSubtree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="56">
-          <caret line="14" column="4" lean-forward="false" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        <state relative-caret-position="527">
+          <caret line="38" column="89" lean-forward="false" selection-start-line="38" selection-start-column="89" selection-end-line="38" selection-end-column="89" />
           <folding />
         </state>
       </provider>
