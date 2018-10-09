@@ -27,6 +27,7 @@ public class BalancedBinaryTree {
 
     public int helper( TreeNode root){
         if( root == null) return 0;
+        // recursion
         int left = helper(root.left);
         int right = helper(root.right);
         // 要注意 left == -1 right == -1 如果沒有的話，當都是-1 會走到 Math.abs(left - right) > 1)
