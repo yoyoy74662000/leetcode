@@ -18,24 +18,24 @@ import java.util.List;
 
 public class BinaryTreePaths {
     public List<String> binaryTreePaths(TreeNode root) {
-        List<String> string = new ArrayList<>();
-        if(root == null) return string;
-        helper(string, root, "");
-        return string;
+        List<String> res = new ArrayList<>();
+        if(root == null) return res;
+        helper(root, res, "");
+        return res;
     }
-    
-    public void helper(List<String> string, TreeNode root, String res){
+
+
+    public void helper(TreeNode root, List<String> res, String s){
         if(root.left == null && root.right == null){
-            string.add(res + root.val);
+            res.add(s + root.val);
         }
+
         if(root.left != null){
-            // string.add(res + root.val);
-            helper(string, root.left, res + root.val + "->");    
+            helper(root.left, res, s + root.val + "->");
         }
-        
+
         if(root.right != null){
-            // string.add(res + root.val);
-            helper(string, root.right, res + root.val + "->");    
-        }   
+            helper(root.right, res, s + root.val + "->");
+        }
     }
 }
