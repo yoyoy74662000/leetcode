@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/KthSmallestElementinaBST.java" afterPath="$PROJECT_DIR$/src/KthSmallestElementinaBST.java" />
+      <change beforePath="$PROJECT_DIR$/src/LowestCommonAncestorofaBinaryTree.java" afterPath="$PROJECT_DIR$/src/LowestCommonAncestorofaBinaryTree.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,11 +25,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="KthSmallestElementinaBST.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="KthSmallestElementinaBST.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/KthSmallestElementinaBST.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="262">
               <caret line="29" column="50" lean-forward="false" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LowestCommonAncestorofaBinaryTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LowestCommonAncestorofaBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -63,7 +73,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/LongestSubstringWithoutRepeatingCharacters.java" />
         <option value="$PROJECT_DIR$/src/GroupAnagrams.java" />
         <option value="$PROJECT_DIR$/src/ShortestPalindrome.java" />
         <option value="$PROJECT_DIR$/src/permutation.java" />
@@ -114,6 +123,7 @@
         <option value="$PROJECT_DIR$/src/FlattenBinaryTreetoLinkedList.java" />
         <option value="$PROJECT_DIR$/src/BalancedBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/KthSmallestElementinaBST.java" />
+        <option value="$PROJECT_DIR$/src/LowestCommonAncestorofaBinaryTree.java" />
       </list>
     </option>
   </component>
@@ -474,14 +484,7 @@
       <workItem from="1538689197696" duration="5398000" />
       <workItem from="1538863442394" duration="68000" />
       <workItem from="1538863583214" duration="737000" />
-      <workItem from="1538976810518" duration="4945000" />
-    </task>
-    <task id="LOCAL-00541" summary="add new solution">
-      <created>1537733998641</created>
-      <option name="number" value="00541" />
-      <option name="presentableId" value="LOCAL-00541" />
-      <option name="project" value="LOCAL" />
-      <updated>1537733998641</updated>
+      <workItem from="1538976810518" duration="5137000" />
     </task>
     <task id="LOCAL-00542" summary="add new solution">
       <created>1537739763271</created>
@@ -819,11 +822,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539112471594</updated>
     </task>
-    <option name="localTasksCounter" value="590" />
+    <task id="LOCAL-00590" summary="add new solution 10/10">
+      <created>1539193770207</created>
+      <option name="number" value="00590" />
+      <option name="presentableId" value="LOCAL-00590" />
+      <option name="project" value="LOCAL" />
+      <updated>1539193770207</updated>
+    </task>
+    <option name="localTasksCounter" value="591" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="626807000" />
+    <option name="totallyTimeSpent" value="626999000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -921,7 +931,8 @@
     <MESSAGE value="add new solution 10/06" />
     <MESSAGE value="add new solution 10/08" />
     <MESSAGE value="add new solution 10/09" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new solution 10/09" />
+    <MESSAGE value="add new solution 10/10" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new solution 10/10" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -980,13 +991,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/WordSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="40" column="19" lean-forward="false" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FlipGame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
@@ -1343,6 +1347,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
           <caret line="29" column="50" lean-forward="false" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LowestCommonAncestorofaBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="9" lean-forward="true" selection-start-line="29" selection-start-column="9" selection-end-line="29" selection-end-column="9" />
           <folding />
         </state>
       </provider>
