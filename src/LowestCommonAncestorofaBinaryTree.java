@@ -22,6 +22,9 @@ public class LowestCommonAncestorofaBinaryTree {
 
         TreeNode left = lowestCommonAncestor(root.left, p, q);
         TreeNode right = lowestCommonAncestor(root.right, p, q);
+        //舉例來說 p = 5 q = 2
+        //最後返回 left = 5 right = null
+        // return 5
 
         if (left != null && right != null) {
             return root;
