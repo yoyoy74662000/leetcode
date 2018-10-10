@@ -27,7 +27,7 @@
 // space: O(n)
 
 public class KthSmallestElementinaBST {
-    private int count = 0, res = 0;
+    private int count = 0, res = 0; // global 宣告一下
     public int kthSmallest(TreeNode root, int k) {
         count = k;
         helper(root);

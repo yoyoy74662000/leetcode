@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="add new solution 10/09">
+    <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/BalancedBinaryTree.java" afterPath="$PROJECT_DIR$/src/BalancedBinaryTree.java" />
+      <change beforePath="$PROJECT_DIR$/src/KthSmallestElementinaBST.java" afterPath="$PROJECT_DIR$/src/KthSmallestElementinaBST.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BalancedBinaryTree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BalancedBinaryTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BalancedBinaryTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="359">
               <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KthSmallestElementinaBST.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/KthSmallestElementinaBST.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="29" column="50" lean-forward="false" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
               <folding />
             </state>
           </provider>
@@ -53,7 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/WordSearch.java" />
         <option value="$PROJECT_DIR$/src/LongestSubstringWithoutRepeatingCharacters.java" />
         <option value="$PROJECT_DIR$/src/GroupAnagrams.java" />
         <option value="$PROJECT_DIR$/src/ShortestPalindrome.java" />
@@ -104,6 +113,7 @@
         <option value="$PROJECT_DIR$/src/BinaryTreePaths.java" />
         <option value="$PROJECT_DIR$/src/FlattenBinaryTreetoLinkedList.java" />
         <option value="$PROJECT_DIR$/src/BalancedBinaryTree.java" />
+        <option value="$PROJECT_DIR$/src/KthSmallestElementinaBST.java" />
       </list>
     </option>
   </component>
@@ -464,14 +474,7 @@
       <workItem from="1538689197696" duration="5398000" />
       <workItem from="1538863442394" duration="68000" />
       <workItem from="1538863583214" duration="737000" />
-      <workItem from="1538976810518" duration="4500000" />
-    </task>
-    <task id="LOCAL-00540" summary="add new solution">
-      <created>1537733884377</created>
-      <option name="number" value="00540" />
-      <option name="presentableId" value="LOCAL-00540" />
-      <option name="project" value="LOCAL" />
-      <updated>1537733884377</updated>
+      <workItem from="1538976810518" duration="4945000" />
     </task>
     <task id="LOCAL-00541" summary="add new solution">
       <created>1537733998641</created>
@@ -809,11 +812,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539110217925</updated>
     </task>
-    <option name="localTasksCounter" value="589" />
+    <task id="LOCAL-00589" summary="add new solution 10/09">
+      <created>1539112471593</created>
+      <option name="number" value="00589" />
+      <option name="presentableId" value="LOCAL-00589" />
+      <option name="project" value="LOCAL" />
+      <updated>1539112471594</updated>
+    </task>
+    <option name="localTasksCounter" value="590" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="626362000" />
+    <option name="totallyTimeSpent" value="626807000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -970,13 +980,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/reverselinkedlist.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="49" column="1" lean-forward="true" selection-start-line="40" selection-start-column="0" selection-end-line="49" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/WordSearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="467">
@@ -1332,6 +1335,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
           <caret line="29" column="20" lean-forward="false" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/KthSmallestElementinaBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="29" column="50" lean-forward="false" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
           <folding />
         </state>
       </provider>
