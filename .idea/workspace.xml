@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/ClosestBinarySearchTreeValueII.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/ValidateBinarySearchTree.java" afterPath="$PROJECT_DIR$/src/ValidateBinarySearchTree.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,12 +15,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ValidateBinarySearchTree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ValidateBinarySearchTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ValidateBinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="561">
               <caret line="33" column="60" lean-forward="false" selection-start-line="33" selection-start-column="60" selection-end-line="33" selection-end-column="60" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ClosestBinarySearchTreeValueII.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ClosestBinarySearchTreeValueII.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+              <folding>
+                <element signature="e#1088#1097#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -53,7 +65,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ShortestPalindrome.java" />
         <option value="$PROJECT_DIR$/src/permutation.java" />
         <option value="$PROJECT_DIR$/src/CombinationSumII.java" />
         <option value="$PROJECT_DIR$/src/PermutationsII.java" />
@@ -104,6 +115,7 @@
         <option value="$PROJECT_DIR$/src/KthSmallestElementinaBST.java" />
         <option value="$PROJECT_DIR$/src/LowestCommonAncestorofaBinaryTree.java" />
         <option value="$PROJECT_DIR$/src/ValidateBinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/src/ClosestBinarySearchTreeValueII.java" />
       </list>
     </option>
   </component>
@@ -470,14 +482,7 @@
       <workItem from="1538689197696" duration="5398000" />
       <workItem from="1538863442394" duration="68000" />
       <workItem from="1538863583214" duration="737000" />
-      <workItem from="1538976810518" duration="6817000" />
-    </task>
-    <task id="LOCAL-00544" summary="add new solution">
-      <created>1537814063975</created>
-      <option name="number" value="00544" />
-      <option name="presentableId" value="LOCAL-00544" />
-      <option name="project" value="LOCAL" />
-      <updated>1537814063975</updated>
+      <workItem from="1538976810518" duration="7183000" />
     </task>
     <task id="LOCAL-00545" summary="add new solution">
       <created>1537857340791</created>
@@ -815,11 +820,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539196926937</updated>
     </task>
-    <option name="localTasksCounter" value="593" />
+    <task id="LOCAL-00593" summary="add new solution 10/11">
+      <created>1539291109274</created>
+      <option name="number" value="00593" />
+      <option name="presentableId" value="LOCAL-00593" />
+      <option name="project" value="LOCAL" />
+      <updated>1539291109274</updated>
+    </task>
+    <option name="localTasksCounter" value="594" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="628679000" />
+    <option name="totallyTimeSpent" value="629045000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -918,7 +930,8 @@
     <MESSAGE value="add new solution 10/08" />
     <MESSAGE value="add new solution 10/09" />
     <MESSAGE value="add new solution 10/10" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new solution 10/10" />
+    <MESSAGE value="add new solution 10/11" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new solution 10/11" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -977,13 +990,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ReverseVowelsofaString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="43" column="0" lean-forward="true" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/RansomNote.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -1343,6 +1349,16 @@
         <state relative-caret-position="561">
           <caret line="33" column="60" lean-forward="false" selection-start-line="33" selection-start-column="60" selection-end-line="33" selection-end-column="60" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ClosestBinarySearchTreeValueII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="2" lean-forward="false" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+          <folding>
+            <element signature="e#1088#1097#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
