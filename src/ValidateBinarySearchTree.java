@@ -31,6 +31,7 @@ public class ValidateBinarySearchTree {
         if(min != null && root.val <= min) return false;
         if(max != null && root.val >= max) return false;
         return helper(root.left, min, root.val) && helper(root.right, root.val, max);
+                        //(1, null, 2)               (3, 2, null)
         }
     }
 
