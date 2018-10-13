@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/BinarySearchTreeIterator.java" afterPath="$PROJECT_DIR$/src/BinarySearchTreeIterator.java" />
+      <change beforePath="$PROJECT_DIR$/src/PalindromePartitioning.java" afterPath="$PROJECT_DIR$/src/PalindromePartitioning.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,11 +35,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BinarySearchTreeIterator.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BinarySearchTreeIterator.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/BinarySearchTreeIterator.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="359">
               <caret line="43" column="25" lean-forward="false" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PalindromePartitioning.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PalindromePartitioning.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="36" column="37" lean-forward="false" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -73,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/CombinationSumII.java" />
         <option value="$PROJECT_DIR$/src/PermutationsII.java" />
         <option value="$PROJECT_DIR$/src/UniquePathsII.java" />
         <option value="$PROJECT_DIR$/src/ShortestWordDistance.java" />
@@ -124,6 +133,7 @@
         <option value="$PROJECT_DIR$/src/ValidateBinarySearchTree.java" />
         <option value="$PROJECT_DIR$/src/ClosestBinarySearchTreeValueII.java" />
         <option value="$PROJECT_DIR$/src/BinarySearchTreeIterator.java" />
+        <option value="$PROJECT_DIR$/src/PalindromePartitioning.java" />
       </list>
     </option>
   </component>
@@ -491,14 +501,7 @@
       <workItem from="1538863442394" duration="68000" />
       <workItem from="1538863583214" duration="737000" />
       <workItem from="1538976810518" duration="7546000" />
-      <workItem from="1539451822603" duration="615000" />
-    </task>
-    <task id="LOCAL-00546" summary="add new solution">
-      <created>1537858479437</created>
-      <option name="number" value="00546" />
-      <option name="presentableId" value="LOCAL-00546" />
-      <option name="project" value="LOCAL" />
-      <updated>1537858479438</updated>
+      <workItem from="1539451822603" duration="1319000" />
     </task>
     <task id="LOCAL-00547" summary="add new solution">
       <created>1537859401137</created>
@@ -836,11 +839,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539296952932</updated>
     </task>
-    <option name="localTasksCounter" value="595" />
+    <task id="LOCAL-00595" summary="add new solution 10/11">
+      <created>1539452681119</created>
+      <option name="number" value="00595" />
+      <option name="presentableId" value="LOCAL-00595" />
+      <option name="project" value="LOCAL" />
+      <updated>1539452681122</updated>
+    </task>
+    <option name="localTasksCounter" value="596" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="630023000" />
+    <option name="totallyTimeSpent" value="630727000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -999,13 +1009,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/WordPattern.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="33" column="13" lean-forward="false" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/FirstUniqueCharacterinaString.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -1359,6 +1362,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="359">
           <caret line="43" column="25" lean-forward="false" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PalindromePartitioning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="36" column="37" lean-forward="false" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
           <folding />
         </state>
       </provider>

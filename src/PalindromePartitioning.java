@@ -30,8 +30,11 @@ public class PalindromePartitioning{
         }
         for(int i = 0; i < s.length(); i++){
             if(isPalindrome(s.substring(0, i+1))){
+                //先判斷 是否有 回文
                 list.add(s.substring(0, i+1));
+                //再 add
                 helper(res, list, s.substring(i+1));
+                // 再下一個substring 的 循環
                 list.remove(list.size()-1);
             }
         }
