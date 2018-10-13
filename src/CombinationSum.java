@@ -37,6 +37,7 @@ public class CombinationSum {
         }
         for(int i = start; i < candidates.length; i++){
             list.add(candidates[i]);
+            // 要注意 target - candidates[i]
             helper(res, list, candidates, target - candidates[i], i);
             list.remove(list.size() -1 );
         }

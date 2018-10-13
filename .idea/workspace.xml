@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/Combinations.java" afterPath="$PROJECT_DIR$/src/Combinations.java" />
+      <change beforePath="$PROJECT_DIR$/src/CombinationSum.java" afterPath="$PROJECT_DIR$/src/CombinationSum.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +15,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Combinations.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Combinations.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Combinations.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="346">
               <caret line="41" column="76" lean-forward="false" selection-start-line="41" selection-start-column="76" selection-end-line="41" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CombinationSum.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CombinationSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="519">
+              <caret line="39" column="40" lean-forward="false" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -53,7 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/UniquePathsII.java" />
         <option value="$PROJECT_DIR$/src/ShortestWordDistance.java" />
         <option value="$PROJECT_DIR$/src/reverselinkedlist.java" />
         <option value="$PROJECT_DIR$/src/Subsets.java" />
@@ -104,6 +113,7 @@
         <option value="$PROJECT_DIR$/src/BinarySearchTreeIterator.java" />
         <option value="$PROJECT_DIR$/src/PalindromePartitioning.java" />
         <option value="$PROJECT_DIR$/src/Combinations.java" />
+        <option value="$PROJECT_DIR$/src/CombinationSum.java" />
       </list>
     </option>
   </component>
@@ -477,14 +487,7 @@
       <workItem from="1538863442394" duration="68000" />
       <workItem from="1538863583214" duration="737000" />
       <workItem from="1538976810518" duration="7546000" />
-      <workItem from="1539451822603" duration="2144000" />
-    </task>
-    <task id="LOCAL-00550" summary="add new solution">
-      <created>1538068932569</created>
-      <option name="number" value="00550" />
-      <option name="presentableId" value="LOCAL-00550" />
-      <option name="project" value="LOCAL" />
-      <updated>1538068932570</updated>
+      <workItem from="1539451822603" duration="2652000" />
     </task>
     <task id="LOCAL-00551" summary="add new solution">
       <created>1538177383877</created>
@@ -822,11 +825,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539461400923</updated>
     </task>
-    <option name="localTasksCounter" value="599" />
+    <task id="LOCAL-00599" summary="add new solution 10/13">
+      <created>1539469453139</created>
+      <option name="number" value="00599" />
+      <option name="presentableId" value="LOCAL-00599" />
+      <option name="project" value="LOCAL" />
+      <updated>1539469453140</updated>
+    </task>
+    <option name="localTasksCounter" value="600" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="631552000" />
+    <option name="totallyTimeSpent" value="632060000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1365,18 +1375,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/CombinationSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Combinations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="346">
           <caret line="41" column="76" lean-forward="false" selection-start-line="41" selection-start-column="76" selection-end-line="41" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CombinationSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="519">
+          <caret line="39" column="40" lean-forward="false" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
           <folding />
         </state>
       </provider>
