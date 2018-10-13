@@ -39,7 +39,7 @@ public class Combinations {
         }
         for (int i = start; i <= n; i++) {
             lists.add(i);
-            helper(res, lists, n, k - 1, i + 1);
+            helper(res, lists, n, k - 1, i + 1);// k = 1, i = 2 k = 0, i = 3
             lists.remove(lists.size() - 1);
         }
     }
