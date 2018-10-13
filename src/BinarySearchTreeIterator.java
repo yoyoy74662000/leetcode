@@ -39,10 +39,9 @@ public class BinarySearchTreeIterator {
                 stack.push(cur);
                 cur = cur.left;
             }
-            cur = stack.pop();
-            int val = cur.val;
-            cur = cur.right;
-            return val;
+            TreeNode t = stack.pop() ;
+            cur = t.right ;
+            return t.val;
         }
     }
 
