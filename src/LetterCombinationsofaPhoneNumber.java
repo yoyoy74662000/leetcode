@@ -28,7 +28,7 @@ public class LetterCombinationsofaPhoneNumber {
             return;
         }
 
-        String letters = mapping[digits.charAt(start) - '0']; //"abc"
+        String letters = mapping[digits.charAt(start) - '0']; //"abc" 減 '0' 才是數字
         for(int i = 0; i < letters.length(); i++){
             helper(digits, list, s + letters.charAt(i), start + 1);
         }
