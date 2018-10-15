@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/PermutationinString.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/LetterCombinationsofaPhoneNumber.java" afterPath="$PROJECT_DIR$/src/LetterCombinationsofaPhoneNumber.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,11 +35,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LetterCombinationsofaPhoneNumber.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LetterCombinationsofaPhoneNumber.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/LetterCombinationsofaPhoneNumber.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="469">
               <caret line="30" column="80" lean-forward="false" selection-start-line="30" selection-start-column="80" selection-end-line="30" selection-end-column="80" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PermutationinString.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/PermutationinString.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -93,7 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/reverselinkedlist.java" />
         <option value="$PROJECT_DIR$/src/camelCaseString.java" />
         <option value="$PROJECT_DIR$/src/LengthofLastWord.java" />
         <option value="$PROJECT_DIR$/src/DecodeWays.java" />
@@ -144,6 +153,7 @@
         <option value="$PROJECT_DIR$/src/CombinationSum.java" />
         <option value="$PROJECT_DIR$/src/Subsets.java" />
         <option value="$PROJECT_DIR$/src/LetterCombinationsofaPhoneNumber.java" />
+        <option value="$PROJECT_DIR$/src/PermutationinString.java" />
       </list>
     </option>
   </component>
@@ -476,14 +486,7 @@
       <workItem from="1538863583214" duration="737000" />
       <workItem from="1538976810518" duration="7546000" />
       <workItem from="1539451822603" duration="3541000" />
-      <workItem from="1539624669020" duration="996000" />
-    </task>
-    <task id="LOCAL-00553" summary="add new solution">
-      <created>1538284149874</created>
-      <option name="number" value="00553" />
-      <option name="presentableId" value="LOCAL-00553" />
-      <option name="project" value="LOCAL" />
-      <updated>1538284149877</updated>
+      <workItem from="1539624669020" duration="1265000" />
     </task>
     <task id="LOCAL-00554" summary="add new solution">
       <created>1538286425285</created>
@@ -821,11 +824,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539625234769</updated>
     </task>
-    <option name="localTasksCounter" value="602" />
+    <task id="LOCAL-00602" summary="add new solution 10/15">
+      <created>1539627333784</created>
+      <option name="number" value="00602" />
+      <option name="presentableId" value="LOCAL-00602" />
+      <option name="project" value="LOCAL" />
+      <updated>1539627333784</updated>
+    </task>
+    <option name="localTasksCounter" value="603" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="633945000" />
+    <option name="totallyTimeSpent" value="634214000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1012,13 +1022,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/WordBreak.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="5" lean-forward="false" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/matchABC.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -1380,6 +1383,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="469">
           <caret line="30" column="80" lean-forward="false" selection-start-line="30" selection-start-column="80" selection-end-line="30" selection-end-column="80" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PermutationinString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="5" lean-forward="false" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
           <folding />
         </state>
       </provider>
