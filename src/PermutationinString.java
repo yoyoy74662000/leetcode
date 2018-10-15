@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 /**
  * Given two strings s1 and s2, write a function to return true if s2 contains the permutation of s1. In other words, one of the first string's permutations is the substring of the second string.
  Example 1:
@@ -7,7 +9,7 @@
  Example 2:
  Input:s1= "ab" s2 = "eidboaoo"
  Output: False
- *
+ * 使用兩個 array 來標記 character 個數
  *
  */
 public class PermutationinString {
@@ -16,11 +18,13 @@ public class PermutationinString {
         int[] f1 = new int[26];
         for (int i = 0; i < n1; i++)
             f1[s1.charAt(i) - 'a']++;
-        // s1 = "ab" s2 = "eba"
+        // s1 = "ab" s2 = "eiba"
         int[] f2 = new int[26];
         for (int j = 0; j < n2; j++) {
             f2[s2.charAt(j) - 'a']++;
+
             if (j >= n1)
+                // 每當 j >= n1的時候，就把f2[s2]--
                 f2[s2.charAt(j - n1) - 'a']--;
             if (Arrays.equals(f2, f1))
                 return true;
