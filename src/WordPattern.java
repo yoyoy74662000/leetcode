@@ -1,3 +1,8 @@
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Map;
+import java.util.Set;
+
 /**
  * Given a pattern and a string str, find if str follows the same pattern.
 
@@ -46,11 +51,13 @@ public class WordPattern {
             if (!dict.containsKey(c)) {
                 if (!set.add(words[i])) {
                     return false;
+                    //"abba"
+                    //"dog dog dog dog"
+                    // 第一次 add is true 第二次就是false
                 }
 
                 dict.put(c, words[i]);
-                //"abba"
-                //"dog dog dog dog"
+
                 //當 i = 2 的時候 !dict.get(c).equals(words[i]) ＝ true 代表 hashmap 裡面沒有 word[i]
             } else if (!dict.get(c).equals(words[i])) {
                 return false;
