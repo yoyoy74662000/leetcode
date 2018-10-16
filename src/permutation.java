@@ -32,7 +32,7 @@ public class permutation {
             return;
         }
         for(int i = 0; i < nums.length; i++){
-            if(list.contains(nums[i])) continue;
+            if(list.contains(nums[i])) continue; // 注意這邊就好
             else {
                 list.add(nums[i]);
                 helper(res, list, nums);
