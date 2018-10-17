@@ -36,6 +36,7 @@ public class WordSearch {
         if(board[i][j] == word.charAt(start++)){
             char c = board[i][j];
             board[i][j] = '#';
+            //只要其中一個是true 其他都會是true
             boolean res = exist(board, word, i + 1, j, start) ||
                           exist(board, word, i - 1, j, start) ||
                           exist(board, word, i, j + 1, start) ||
