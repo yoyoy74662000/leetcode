@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="add new solution 10/15">
+    <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/WordSearch.java" afterPath="$PROJECT_DIR$/src/WordSearch.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -488,14 +487,7 @@
       <workItem from="1539451822603" duration="3541000" />
       <workItem from="1539624669020" duration="2081000" />
       <workItem from="1539647014914" duration="1904000" />
-      <workItem from="1539706620168" duration="2567000" />
-    </task>
-    <task id="LOCAL-00559" summary="add new solution">
-      <created>1538438116305</created>
-      <option name="number" value="00559" />
-      <option name="presentableId" value="LOCAL-00559" />
-      <option name="project" value="LOCAL" />
-      <updated>1538438116305</updated>
+      <workItem from="1539706620168" duration="2574000" />
     </task>
     <task id="LOCAL-00560" summary="add new solution">
       <created>1538449015553</created>
@@ -833,11 +825,18 @@
       <option name="project" value="LOCAL" />
       <updated>1539727518143</updated>
     </task>
-    <option name="localTasksCounter" value="608" />
+    <task id="LOCAL-00608" summary="add new solution 10/15">
+      <created>1539754167347</created>
+      <option name="number" value="00608" />
+      <option name="presentableId" value="LOCAL-00608" />
+      <option name="project" value="LOCAL" />
+      <updated>1539754167347</updated>
+    </task>
+    <option name="localTasksCounter" value="609" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="639501000" />
+    <option name="totallyTimeSpent" value="639508000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
