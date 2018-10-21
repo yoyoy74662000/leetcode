@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/InsertDeleteGetRandom.java" afterPath="$PROJECT_DIR$/src/InsertDeleteGetRandom.java" />
+      <change beforePath="$PROJECT_DIR$/src/FindKClosestElements.java" afterPath="$PROJECT_DIR$/src/FindKClosestElements.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,11 +45,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="InsertDeleteGetRandom.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="InsertDeleteGetRandom.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/InsertDeleteGetRandom.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="583">
               <caret line="84" column="5" lean-forward="false" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="FindKClosestElements.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/FindKClosestElements.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="85" lean-forward="false" selection-start-line="23" selection-start-column="85" selection-end-line="23" selection-end-column="85" />
               <folding />
             </state>
           </provider>
@@ -102,7 +112,6 @@
         <option value="$PROJECT_DIR$/src/longestPalindrome.java" />
         <option value="$PROJECT_DIR$/src/LongestPalindromicSubstring.java" />
         <option value="$PROJECT_DIR$/src/FindFirstandLastPositionofElementinSortedArray.java" />
-        <option value="$PROJECT_DIR$/src/FindKClosestElements.java" />
         <option value="$PROJECT_DIR$/src/FindMinimuminRotatedSortedArray.java" />
         <option value="$PROJECT_DIR$/src/MiddleoftheLinkedList.java" />
         <option value="$PROJECT_DIR$/src/TwoSumIIIDatastructuredesign.java" />
@@ -134,6 +143,7 @@
         <option value="$PROJECT_DIR$/src/WordSearch.java" />
         <option value="$PROJECT_DIR$/src/FirstUniqueCharacterinaString.java" />
         <option value="$PROJECT_DIR$/src/InsertDeleteGetRandom.java" />
+        <option value="$PROJECT_DIR$/src/FindKClosestElements.java" />
       </list>
     </option>
   </component>
@@ -499,14 +509,7 @@
       <workItem from="1539624669020" duration="2081000" />
       <workItem from="1539647014914" duration="1904000" />
       <workItem from="1539706620168" duration="2790000" />
-      <workItem from="1540057707111" duration="837000" />
-    </task>
-    <task id="LOCAL-00563" summary="add new solution 10/03">
-      <created>1538589359188</created>
-      <option name="number" value="00563" />
-      <option name="presentableId" value="LOCAL-00563" />
-      <option name="project" value="LOCAL" />
-      <updated>1538589359188</updated>
+      <workItem from="1540057707111" duration="1087000" />
     </task>
     <task id="LOCAL-00564" summary="add new solution 10/03">
       <created>1538590816968</created>
@@ -844,11 +847,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540094474378</updated>
     </task>
-    <option name="localTasksCounter" value="612" />
+    <task id="LOCAL-00612" summary="add new solution 10/20">
+      <created>1540100077753</created>
+      <option name="number" value="00612" />
+      <option name="presentableId" value="LOCAL-00612" />
+      <option name="project" value="LOCAL" />
+      <updated>1540100077753</updated>
+    </task>
+    <option name="localTasksCounter" value="613" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="640561000" />
+    <option name="totallyTimeSpent" value="640811000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1076,13 +1086,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="557">
           <caret line="48" column="55" lean-forward="true" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FindKClosestElements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -1414,6 +1417,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="583">
           <caret line="84" column="5" lean-forward="false" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindKClosestElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="85" lean-forward="false" selection-start-line="23" selection-start-column="85" selection-end-line="23" selection-end-column="85" />
           <folding />
         </state>
       </provider>

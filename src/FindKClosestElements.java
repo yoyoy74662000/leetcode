@@ -21,7 +21,7 @@ public class FindKClosestElements {
         int start = 0, end = arr.length-k;
         while(start < end){
             int mid = (end - start) / 2 + start;
-            if(Math.abs(arr[mid]-x) > Math.abs(arr[mid+k]-x)){
+            if(Math.abs(arr[mid]-x) > Math.abs(arr[mid+k]-x)){ // arr[0]-3 arr[0+4]-3
                 start = mid + 1;
             } else {
                 end = mid;
