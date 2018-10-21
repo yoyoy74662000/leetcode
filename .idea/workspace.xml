@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/InsertDeleteGetRandom.java" afterPath="$PROJECT_DIR$/src/InsertDeleteGetRandom.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,11 +35,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FirstUniqueCharacterinaString.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FirstUniqueCharacterinaString.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/FirstUniqueCharacterinaString.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="583">
               <caret line="46" column="1" lean-forward="false" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InsertDeleteGetRandom.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/InsertDeleteGetRandom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="583">
+              <caret line="84" column="5" lean-forward="false" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -72,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/ReverseWordsinaStringII.java" />
         <option value="$PROJECT_DIR$/src/BasicCalculatorII.java" />
         <option value="$PROJECT_DIR$/src/EncodeandDecodeStrings.java" />
         <option value="$PROJECT_DIR$/src/FlipGame.java" />
@@ -123,6 +133,7 @@
         <option value="$PROJECT_DIR$/src/WordPattern.java" />
         <option value="$PROJECT_DIR$/src/WordSearch.java" />
         <option value="$PROJECT_DIR$/src/FirstUniqueCharacterinaString.java" />
+        <option value="$PROJECT_DIR$/src/InsertDeleteGetRandom.java" />
       </list>
     </option>
   </component>
@@ -182,6 +193,12 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="FirstUniqueCharacterinaString.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="InsertDeleteGetRandom.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
@@ -482,14 +499,7 @@
       <workItem from="1539624669020" duration="2081000" />
       <workItem from="1539647014914" duration="1904000" />
       <workItem from="1539706620168" duration="2790000" />
-      <workItem from="1540057707111" duration="635000" />
-    </task>
-    <task id="LOCAL-00562" summary="add new solution 10/03">
-      <created>1538586355222</created>
-      <option name="number" value="00562" />
-      <option name="presentableId" value="LOCAL-00562" />
-      <option name="project" value="LOCAL" />
-      <updated>1538586355222</updated>
+      <workItem from="1540057707111" duration="837000" />
     </task>
     <task id="LOCAL-00563" summary="add new solution 10/03">
       <created>1538589359188</created>
@@ -827,11 +837,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540094464221</updated>
     </task>
-    <option name="localTasksCounter" value="611" />
+    <task id="LOCAL-00611" summary="add new solution 10/20">
+      <created>1540094474378</created>
+      <option name="number" value="00611" />
+      <option name="presentableId" value="LOCAL-00611" />
+      <option name="project" value="LOCAL" />
+      <updated>1540094474378</updated>
+    </task>
+    <option name="localTasksCounter" value="612" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="640359000" />
+    <option name="totallyTimeSpent" value="640561000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -960,7 +977,8 @@
     <MESSAGE value="add new solution 10/13" />
     <MESSAGE value="add new solution 10/15" />
     <MESSAGE value="add new solution 10/16" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new solution 10/16" />
+    <MESSAGE value="add new solution 10/20" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new solution 10/20" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1019,13 +1037,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/SummaryRanges.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ImplementstrStr.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
@@ -1395,6 +1406,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="583">
           <caret line="46" column="1" lean-forward="false" selection-start-line="46" selection-start-column="1" selection-end-line="46" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/InsertDeleteGetRandom.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="84" column="5" lean-forward="false" selection-start-line="84" selection-start-column="5" selection-end-line="84" selection-end-column="5" />
           <folding />
         </state>
       </provider>
