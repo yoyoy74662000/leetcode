@@ -22,6 +22,10 @@ public class MergeIntervals {
         }
         Arrays.sort(starts);
         Arrays.sort(ends);
+        //Input: [[1,3],[2,6],[8,10],[15,18]]
+        //Output: [[1,6],[8,10],[15,18]]
+        // start 1,2,8,15
+        // end   3,6,10,18
         // loop through
         List<Interval> res = new ArrayList<Interval>();
         for (int i = 0, j = 0; i < n; i++) { // j is start of interval.
