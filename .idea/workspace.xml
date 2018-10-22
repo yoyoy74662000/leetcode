@@ -481,14 +481,7 @@
       <workItem from="1539706620168" duration="2790000" />
       <workItem from="1540057707111" duration="3259000" />
       <workItem from="1540223566790" duration="701000" />
-      <workItem from="1540247974382" duration="34000" />
-    </task>
-    <task id="LOCAL-00567" summary="add new solution 10/04">
-      <created>1538674302067</created>
-      <option name="number" value="00567" />
-      <option name="presentableId" value="LOCAL-00567" />
-      <option name="project" value="LOCAL" />
-      <updated>1538674302067</updated>
+      <workItem from="1540247974382" duration="112000" />
     </task>
     <task id="LOCAL-00568" summary="add new solution 10/04">
       <created>1538676505161</created>
@@ -826,11 +819,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540248004526</updated>
     </task>
-    <option name="localTasksCounter" value="616" />
+    <task id="LOCAL-00616" summary="add new solution 10/22">
+      <created>1540248014100</created>
+      <option name="number" value="00616" />
+      <option name="presentableId" value="LOCAL-00616" />
+      <option name="project" value="LOCAL" />
+      <updated>1540248014100</updated>
+    </task>
+    <option name="localTasksCounter" value="617" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="643718000" />
+    <option name="totallyTimeSpent" value="643796000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -960,7 +960,8 @@
     <MESSAGE value="add new solution 10/15" />
     <MESSAGE value="add new solution 10/16" />
     <MESSAGE value="add new solution 10/20" />
-    <option name="LAST_COMMIT_MESSAGE" value="add new solution 10/20" />
+    <MESSAGE value="add new solution 10/22" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new solution 10/22" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
