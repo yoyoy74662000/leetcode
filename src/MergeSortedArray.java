@@ -22,15 +22,17 @@ public class MergeSortedArray {
         int j = n -1;
         int k = m + n -1;
         while(i >=0 && j >= 0){
-            nums1[k] = nums1[i] >= nums2[j] ? nums1[i--] : nums2[j--];
-            k--;
+            if(nums1[i] > nums2[j]) // 從最後一個看
+                nums1[k--] = nums1[i--];
+            else
+                nums1[k--] = nums2[j--];
+            //如果j < 0 的時候，就代表前面都排好了
         }
         //這個是當num1 > num2
         //num1 [4,5,6]
         //num2 [1,2,3]
         while(j >= 0){
-            nums1[k] = nums2[j--];
-            k--;
+            nums1[k--] = nums2[j--];
         }
     }
 }
