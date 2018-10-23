@@ -17,6 +17,7 @@ public class MergeIntervals {
         int[] starts = new int[n];
         int[] ends = new int[n];
         for (int i = 0; i < n; i++) {
+            // 先把 頭尾分出來
             starts[i] = intervals.get(i).start;
             ends[i] = intervals.get(i).end;
         }
