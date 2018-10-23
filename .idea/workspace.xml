@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/SparseMatrixMultiplication.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/MergeSortedArray.java" afterPath="$PROJECT_DIR$/src/MergeSortedArray.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,11 +35,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MergeSortedArray.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MergeSortedArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/MergeSortedArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="384">
               <caret line="28" column="35" lean-forward="false" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SparseMatrixMultiplication.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/SparseMatrixMultiplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -73,7 +83,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/RansomNote.java" />
         <option value="$PROJECT_DIR$/src/distinctsumtozero.java" />
         <option value="$PROJECT_DIR$/src/matchABC.java" />
         <option value="$PROJECT_DIR$/src/WordBreak.java" />
@@ -124,6 +133,7 @@
         <option value="$PROJECT_DIR$/src/MergeIntervals.java" />
         <option value="$PROJECT_DIR$/src/MinimumSizeSubarraySum.java" />
         <option value="$PROJECT_DIR$/src/MergeSortedArray.java" />
+        <option value="$PROJECT_DIR$/src/SparseMatrixMultiplication.java" />
       </list>
     </option>
   </component>
@@ -504,14 +514,7 @@
       <workItem from="1539706620168" duration="2790000" />
       <workItem from="1540057707111" duration="3259000" />
       <workItem from="1540223566790" duration="701000" />
-      <workItem from="1540247974382" duration="2448000" />
-    </task>
-    <task id="LOCAL-00571" summary="add new solution 10/04">
-      <created>1538719184515</created>
-      <option name="number" value="00571" />
-      <option name="presentableId" value="LOCAL-00571" />
-      <option name="project" value="LOCAL" />
-      <updated>1538719184515</updated>
+      <workItem from="1540247974382" duration="2713000" />
     </task>
     <task id="LOCAL-00572" summary="add new solution 10/05">
       <created>1538763395374</created>
@@ -849,11 +852,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540322628321</updated>
     </task>
-    <option name="localTasksCounter" value="620" />
+    <task id="LOCAL-00620" summary="add new solution 10/23">
+      <created>1540324519548</created>
+      <option name="number" value="00620" />
+      <option name="presentableId" value="LOCAL-00620" />
+      <option name="project" value="LOCAL" />
+      <updated>1540324519548</updated>
+    </task>
+    <option name="localTasksCounter" value="621" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="646132000" />
+    <option name="totallyTimeSpent" value="646397000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1044,13 +1054,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/FindMinimuminRotatedSortedArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="466">
-          <caret line="36" column="9" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="36" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MoveZeroes.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -1402,6 +1405,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="384">
           <caret line="28" column="35" lean-forward="false" selection-start-line="28" selection-start-column="35" selection-end-line="28" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SparseMatrixMultiplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="19" lean-forward="false" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
           <folding />
         </state>
       </provider>
