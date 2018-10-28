@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7ddd2ab-1682-4454-bd58-c82deaac74da" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/EvaluateReversePolishNotation.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/src/EvaluateReversePolishNotation.java" afterPath="$PROJECT_DIR$/src/EvaluateReversePolishNotation.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,10 +38,10 @@
       <file leaf-file-name="EvaluateReversePolishNotation.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/EvaluateReversePolishNotation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="44" lean-forward="true" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
+            <state relative-caret-position="510">
+              <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
               <folding>
-                <element signature="e#138#146#0" expanded="true" />
+                <element signature="e#137#145#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -480,14 +480,7 @@
       <workItem from="1540352987647" duration="677000" />
       <workItem from="1540489499447" duration="287000" />
       <workItem from="1540670144049" duration="783000" />
-      <workItem from="1540765665602" duration="608000" />
-    </task>
-    <task id="LOCAL-00576" summary="add new solution 10/05">
-      <created>1538769130550</created>
-      <option name="number" value="00576" />
-      <option name="presentableId" value="LOCAL-00576" />
-      <option name="project" value="LOCAL" />
-      <updated>1538769130550</updated>
+      <workItem from="1540765665602" duration="1215000" />
     </task>
     <task id="LOCAL-00577" summary="add new solution 10/05">
       <created>1538769424684</created>
@@ -825,11 +818,18 @@
       <option name="project" value="LOCAL" />
       <updated>1540670202016</updated>
     </task>
-    <option name="localTasksCounter" value="625" />
+    <task id="LOCAL-00625" summary="add new solution 10/25">
+      <created>1540766299240</created>
+      <option name="number" value="00625" />
+      <option name="presentableId" value="LOCAL-00625" />
+      <option name="project" value="LOCAL" />
+      <updated>1540766299240</updated>
+    </task>
+    <option name="localTasksCounter" value="626" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="649052000" />
+    <option name="totallyTimeSpent" value="649659000" />
   </component>
   <component name="TodoView" selected-index="4">
     <todo-panel id="selected-file">
@@ -1382,10 +1382,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/EvaluateReversePolishNotation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="44" lean-forward="true" selection-start-line="0" selection-start-column="44" selection-end-line="0" selection-end-column="44" />
+        <state relative-caret-position="510">
+          <caret line="30" column="4" lean-forward="false" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
           <folding>
-            <element signature="e#138#146#0" expanded="true" />
+            <element signature="e#137#145#0" expanded="true" />
           </folding>
         </state>
       </provider>
