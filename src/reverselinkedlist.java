@@ -5,25 +5,25 @@
  *
  *
  *
- 1->2->3->4->5->NULL
-    T
+ NUll   1->2->3->4->5->NULL
+  p     H  T
  1->null  2->3->4->5->NULL
-          T
+ H   p    T
  1->null  2->3->4->5->NULL
  p        T
  1->null  2->3->4->5->NULL
- p        h
+ p        H
  1->null  2->3->4->5->NULL
- p        h  T
+ p        H  T
  2->1->null  3->4->5->NULL
- p           h
+ p           H
  */
 
 // time : O(n)
 // space : O(n)
 
 //iteration
-public class reverselinkedlist2 {
+public class reverselinkedlist {
     public ListNode reverseList(ListNode head) {
         ListNode prev = null;
         if (head == null || head.next == null) return head;
@@ -38,7 +38,7 @@ public class reverselinkedlist2 {
 }
 
 //recursion
-public class reverselinkedlist {
+public class reverselinkedlist2 {
     public ListNode reverseList(ListNode head) {
         if(head == null || head.next == null) return head;
         ListNode root = reverseList(head.next);
@@ -50,7 +50,7 @@ public class reverselinkedlist {
 }
 
 //recursion
-public class reverselinkedlist2 {
+public class reverselinkedlist3 {
     public ListNode reverseList(ListNode head) {
         if (head == null || head.next == null)
             return head;
