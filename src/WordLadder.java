@@ -1,5 +1,5 @@
 public class WordLadder {
-    public int ladderLength2(String beginWord, String endWord, List<String> wordList) {
+    public static int ladderLength(String beginWord, String endWord, List<String> wordList) {
         HashSet<String> set = new HashSet<>(wordList);
         if (set.contains(beginWord)) {
             set.remove(beginWord);
@@ -10,19 +10,19 @@ public class WordLadder {
         queue.offer(beginWord);
         while (!queue.isEmpty()) {
             String word = queue.poll(); // hit
-            int curLevel = map.get(word); // 1
+            int curLevel = map.get(word); // 1 長度
             for (int i = 0; i < word.length(); i++) {
                 char[] wordUnit = word.toCharArray();
                 for (char j = 'a'; j <= 'z'; j++) {
                     wordUnit[i] = j;
-                    String temp = new String(wordUnit); // ait bit .... zit
-                    if (set.contains(temp)) {
-                        if (temp.equals(endWord)) {
+                    String nextWord = new String(wordUnit); // ait
+                    if (set.contains(nextWord)) {
+                        if (nextWord.equals(endWord)){
                             return curLevel + 1;
                         }
-                        map.put(temp, curLevel + 1);
-                        queue.offer(temp);
-                        set.remove(temp);
+                        map.put(nextWord, curLevel + 1);
+                        queue.offer(nextWord);
+                        set.remove(nextWord);
                     }
                 }
             }
