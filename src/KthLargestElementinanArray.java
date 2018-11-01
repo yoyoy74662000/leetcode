@@ -17,6 +17,41 @@ import java.util.PriorityQueue;
 //快速排列
 public class KthLargestElementinanArray {
     public int findKthLargest(int[] nums, int k) {
+        if(nums == null || nums.length < k) return Integer.MIN_VALUE;
+        return kLargeR(nums, 0, nums.length - 1, nums.length - k);
+    }
+
+    public int kLargeR(int[] nums, int start, int end, int k) {
+        if(start > end) {
+            return Integer.MIN_VALUE;
+        }
+        int pivot = nums[end];
+        int pos = start;
+
+        for(int i = start; i < end ; i++) {
+            if(nums[i] <= pivot) {
+                swap(nums,pos++,i);
+            }
+        }
+
+        swap(nums,pos,end); // set pivot to the partition position
+
+        if(pos == k) {
+            return nums[pos];
+        } else {
+            return pos < k ? kLargeR(nums, pos + 1 , end, k) : kLargeR(nums, start, pos - 1 , k);
+        }
+    }
+
+    public  void swap(int[] arr , int i , int j) {
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
+    }
+}
+
+public class KthLargestElementinanArray2 {
+    public int findKthLargest(int[] nums, int k) {
         if (nums == null || nums.length == 0) return 0;
         int left = 0, right = nums.length -1;
         while (true){
@@ -55,7 +90,7 @@ public class KthLargestElementinanArray {
 
 
 
-public class KthLargestElementinanArray2 {
+public class KthLargestElementinanArray3 {
     public int findKthLargest(int[] nums, int k) {
         if (nums == null || nums.length == 0) return 0;
         //Priority queue 有別於一般的 queue，
