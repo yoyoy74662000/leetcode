@@ -52,3 +52,28 @@ public class threeSum {
         return res;
     }
 }
+
+public List<List<Integer>> threeSum2(int[] nums) {
+        Set<List<Integer>> res  = new HashSet<>();
+        if(nums.length==0) return new ArrayList<>(res);
+        Arrays.sort(nums);        
+        for(int i = 0; i < nums.length-2; i++){
+            int left = i + 1;
+            int right = nums.length -1;
+            while(left < right){
+                List<Integer> list = new ArrayList<>();
+                int sum = nums[i] + nums[left] + nums[right];
+                if(sum == 0){
+                    list.add(nums[i]);
+                    list.add(nums[left++]);
+                    list.add(nums[right--]);
+                    res.add(list);
+                }else if ( sum >0){
+                    right--;
+                 }else if (sum<0){
+                    left++;
+                  }
+            }
+        }
+        return new ArrayList<>(res);
+    }
