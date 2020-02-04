@@ -3,7 +3,9 @@ public class ImplementQueueusingStacks {
     Stack<Integer> s2 = new Stack<>();
 
     public void push(int x) {
-
+        while (!s2.isEmpty())
+        s1.push(s2.pop());
+      
         s1.push(x);
     }
 
